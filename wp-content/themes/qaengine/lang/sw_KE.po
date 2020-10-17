@@ -1,0 +1,5197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q&AEngine v1.0\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2015-07-22 13:47-0800\n"
+"PO-Revision-Date: 2015-11-06 10:29+0700\n"
+"Language-Team: Engine Themes <contact@enginethemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Language: sw_KE\n"
+"X-Poedit-SearchPath-0: D:/QAE/qaengine-v1.5.4\n"
+
+#: D:\QAE\qaengine-v1.5.4/404.php:16 D:\QAE\qaengine-v1.5.4/mobile/404.php:15
+msgid "Ops! Lost your way?"
+msgstr "Ops! Umepoteza njia yako?"
+
+#: D:\QAE\qaengine-v1.5.4/404.php:19 D:\QAE\qaengine-v1.5.4/mobile/404.php:18
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "Pole, lakini ukurasa uliokuwa unatafuta haiku hapa."
+
+#: D:\QAE\qaengine-v1.5.4/404.php:21 D:\QAE\qaengine-v1.5.4/mobile/404.php:20
+msgid "Back to home page"
+msgstr "Rudi kwenye ukurasa wa nyumbani"
+
+#: D:\QAE\qaengine-v1.5.4/archive-question.php:20
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:356
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:257
+#: D:\QAE\qaengine-v1.5.4/page-pending.php:13
+#: D:\QAE\qaengine-v1.5.4/page-questions.php:15
+#: D:\QAE\qaengine-v1.5.4/taxonomy.php:15
+msgid "All Questions"
+msgstr "Maswali yote"
+
+#: D:\QAE\qaengine-v1.5.4/archive-question.php:38
+#: D:\QAE\qaengine-v1.5.4/page-questions.php:57
+msgid "No questions has been created yet."
+msgstr "Hakuna swali imeulizwa bado."
+
+#: D:\QAE\qaengine-v1.5.4/author.php:20
+#, php-format
+msgid "%s's Profile"
+msgstr "%s's Profile"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:31
+#: D:\QAE\qaengine-v1.5.4/single-question.php:50
+#: D:\QAE\qaengine-v1.5.4/template-js/item-comment.php:14
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:27
+#: D:\QAE\qaengine-v1.5.4/template/item-comment.php:20
+msgid "Edit"
+msgstr "Hariri"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:36
+msgid "Logout"
+msgstr "Toka"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:51
+msgid "Contact"
+msgstr "Mawasiliano"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:61
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:33
+#: D:\QAE\qaengine-v1.5.4/mobile/page-users.php:101
+#: D:\QAE\qaengine-v1.5.4/page-users.php:92
+msgid "Earth"
+msgstr "Dunia"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:65
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:39
+#: D:\QAE\qaengine-v1.5.4/mobile/page-users.php:102
+msgid "Email is hidden."
+msgstr "Barua pepe imefichwa"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:97
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:55
+#: D:\QAE\qaengine-v1.5.4/mobile/page-users.php:105
+msgid "points"
+msgstr "pointi"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:102 D:\QAE\qaengine-v1.5.4/author.php:123
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:703
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:350
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:362
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:298
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:410
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:81
+msgid "Questions"
+msgstr "Maswali"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:108 D:\QAE\qaengine-v1.5.4/author.php:126
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:890
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:902
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:413
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:84
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:146
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:157
+msgid "Answers"
+msgstr "Majibu"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:130
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:88
+msgid "Following"
+msgstr "Kufuatia"
+
+#: D:\QAE\qaengine-v1.5.4/author.php:169
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:142
+msgid "There are no questions yet."
+msgstr "Bado hakuna maswali."
+
+#: D:\QAE\qaengine-v1.5.4/category.php:15 D:\QAE\qaengine-v1.5.4/index.php:15
+#: D:\QAE\qaengine-v1.5.4/mobile/index.php:18
+#: D:\QAE\qaengine-v1.5.4/search.php:15 D:\QAE\qaengine-v1.5.4/single.php:15
+msgid "Blog"
+msgstr "Blogu"
+
+#: D:\QAE\qaengine-v1.5.4/category.php:18 D:\QAE\qaengine-v1.5.4/index.php:18
+#: D:\QAE\qaengine-v1.5.4/page-social-connect.php:22
+#: D:\QAE\qaengine-v1.5.4/page-term.php:19 D:\QAE\qaengine-v1.5.4/page.php:19
+#: D:\QAE\qaengine-v1.5.4/search.php:18 D:\QAE\qaengine-v1.5.4/single.php:18
+msgid "Search at blog"
+msgstr "Tafuta kwa blogu"
+
+#: D:\QAE\qaengine-v1.5.4/comments.php:14
+msgid "Be the first to post a comment."
+msgstr "Kuwa wa kwanza kutoa maoni."
+
+#: D:\QAE\qaengine-v1.5.4/comments.php:14
+msgid "1 Comment on this article"
+msgstr "Maoni 1 kwenye Makala hii"
+
+#: D:\QAE\qaengine-v1.5.4/comments.php:14
+msgid "% Comments on this article"
+msgstr "Maoni % kwenye hii makala"
+
+#: D:\QAE\qaengine-v1.5.4/comments.php:18
+msgid "Comment closed!"
+msgstr "Maoni yamefungwa!"
+
+#: D:\QAE\qaengine-v1.5.4/comments.php:27
+msgid "Reply "
+msgstr "Jibu"
+
+#: D:\QAE\qaengine-v1.5.4/comments.php:41
+msgid "Add a comment"
+msgstr "Weka maoni"
+
+#: D:\QAE\qaengine-v1.5.4/header.php:96
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:107
+msgid "Enter Keywords"
+msgstr "Weka maneno kuu"
+
+#: D:\QAE\qaengine-v1.5.4/header.php:117
+msgid "User Profile"
+msgstr "Profile ya mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/header.php:122
+msgid "User Settings"
+msgstr "Mipangilio ya Mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/header.php:128
+msgid "Log out"
+msgstr "Toka"
+
+#: D:\QAE\qaengine-v1.5.4/header.php:136
+msgid "Login or Register"
+msgstr "Tia saini ama Jiandikishe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:191
+msgid "General"
+msgstr "Jumla"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:199
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:209
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:228
+msgid "Website Title"
+msgstr "Kichwa Cha Tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:202
+msgid "Enter your website title."
+msgstr "Weka kichwa cha tovuti lako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:218
+msgid "Website Description"
+msgstr "Maelezo ya Tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:221
+msgid "Enter your website description"
+msgstr "Weka maelezo ya tovuti lako"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:236
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:246
+msgid "Copyright"
+msgstr "Hakimiliki"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:239
+msgid "This copyright information will appear in the footer."
+msgstr "Hii maelezo ya Hakimiliki itaonyeshwa chini wa ukurasa/footer."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:254
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:264
+msgid "Google Analytics Script"
+msgstr "Google analytics script"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:257
+msgid ""
+"Google analytics is a service offered by Google that generates detailed "
+"statistics about the visits to a website."
+msgstr ""
+"Google analytics ni huduma inayotolewa na Google ambayo inaonyesha ziara ya "
+"tovuti."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:272
+msgid "Email Confirmation"
+msgstr "Thibitisho la barua pepe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:275
+msgid ""
+"Enabling this will require users to confirm their email addresses after "
+"registration."
+msgstr ""
+"Kuwezesha hii itahitaji watumiaji kuthibitisha anwani zao za barua pepe "
+"baada ya usajili."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:282
+msgid "User Confirm"
+msgstr "Mtumiaji thibitisha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:295
+msgid "Social"
+msgstr "Kijamii"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:303
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:29
+msgid "Twitter API"
+msgstr "API ya Twitter"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:306
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:32
+msgid "Enabling this will allow users to login via Twitter."
+msgstr "Kuwezesha hii itaruhusu watumiaji kuingia kupitia Twitter."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:313
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:39
+msgid "Twitter API "
+msgstr "API ya Twitter"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:320
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:46
+msgid "Twitter key "
+msgstr "Ufunguo wa Twitter"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:322
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:48
+msgid "Twitter Consumer Key"
+msgstr "Twitter Consumer Key"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:328
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:54
+msgid "Twitter secret "
+msgstr "Siri ya Twitter"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:330
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:56
+#, fuzzy
+msgid "Twitter Consumer Secret"
+msgstr "Siri ya matumizi ya Twitter"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:337
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:63
+msgid "Facebook API"
+msgstr "API ya Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:340
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:66
+msgid "Enabling this will allow users to login via Facebook."
+msgstr "Kuwezesha hii itaruhusu watumiaji kuingia kupitia Facebook."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:347
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:73
+msgid "Facebook API "
+msgstr "API ya Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:354
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:80
+msgid "Facebook key "
+msgstr "Ufunguo wa Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:356
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:82
+msgid "Facebook Application ID"
+msgstr "Application ID ya Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:362
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:88
+msgid "Facebook secret key "
+msgstr "Ufunguo wa siri ya Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:364
+#, fuzzy
+msgid "Facebook Secret Key ID"
+msgstr "ID ya ufunguo wa siri ya Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:371
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:97
+msgid "Google API"
+msgstr "API ya Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:374
+msgid ""
+"Enabling this will allow users to login via Google.(<a target=\"_blank\" "
+"href=\"https://code.google.com/apis/console\">get key</a>)"
+msgstr ""
+"Kuwezesha hii itaruhusu watumiaji kuingia kupitia Google.(<a target=\"_blank"
+"\" href=\"https://code.google.com/apis/console\">get key</a>)"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:381
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:107
+msgid "Google API "
+msgstr "API ya Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:388
+msgid "Google client key"
+msgstr "Ufunguo wa mteja wa Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:390
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:116
+msgid "Client ID"
+msgstr "Kitambulisho cha mteja"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:396
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:124
+msgid "Google secret key"
+msgstr "Ufunguo wa siri ya Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:398
+msgid "Secret ID"
+msgstr "Kitambulisho cha Siri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:405
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:414
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:422
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:431
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:439
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:448
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:456
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:465
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:473
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:482
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:496
+msgid "Content"
+msgstr "Yaliyomo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:504
+msgid "Filter Bad Words ( Questions / Answers )"
+msgstr "Chuja Maneno Mabaya ( Maswali / Majibu )"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:507
+msgid "Each word seperate by comma (,)"
+msgstr "Kila neon itengwe na alama ya mkato ( , )"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:514
+msgid "Enter Keywords Here"
+msgstr "Weka maneno kuu hapa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:522
+msgid "Intro Text"
+msgstr "Nakala ya utangulizi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:525
+msgid "This text will appear in the intro page."
+msgstr "Nakala hii itaonyeshwa kwenye ukurasa wa utangulizi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:532
+msgid "Intro Slide Texts"
+msgstr "Nakala ya slide ya utangulizi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:539
+msgid "Intro Bottom Texts"
+msgstr "Nakala ya chini"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:547
+msgid "Editor Upload Images"
+msgstr "Mhariri Tuma Picha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:550
+msgid "Turn on / off Feature Images Upload in Editor."
+msgstr "Washa/Zima picha za kipengele katika mhariri."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:557
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1024
+msgid "Upload Images"
+msgstr "Tuma Picha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:565
+msgid "Login To View Content"
+msgstr "Tia saini ili uone yalimo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:568
+msgid "If you enable this option, users have to login to see content."
+msgstr ""
+"Ukiwezesha chaguo hili , watumiaji lazima watie saini ili waone yaliyomo."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:575
+msgid "Login"
+msgstr "Tia saini"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:583
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:593
+msgid "Pending Questions"
+msgstr "Maswali bila majibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:586
+msgid ""
+"If you enable this option, the new posted questions have to be approved to "
+"be displayed."
+msgstr ""
+"Ukiwezesha chaguo hili, swali mpya lazima liidhinishwe kabla ya kuonyeshwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:601
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:611
+msgid "Pending Answers"
+msgstr "Majibu yasiyomalizika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:604
+msgid ""
+"If you enable this option, the new posted answers have to be approved to be "
+"displayed."
+msgstr ""
+"Ukiwezesha chaguo hili, majibu mapya lazima yaidhinishwe kabla ya kuonyeshwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:619
+msgid "Email Notification For Followed Questions"
+msgstr "Kuarifiwa kwa barua pepe kuhusu maswali yaliyofuatiwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:622
+msgid ""
+"If you enable this option, whenever thereâ€™s a new answer for the followed "
+"questions, the system will automatically send emails to the following users."
+msgstr ""
+"Ukiwezesha chaguo hili, wakati wowote kuna jibu mpya kwa maswali "
+"yaliyofuatiwa, barua pepe itatumwa moja kwa moja kwa watumiaji walioyafuata."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:629
+msgid "Send Mail Following"
+msgstr "Tuma barua pepe kufuatia"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:637
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:647
+msgid "Live Notifications"
+msgstr "Taarifa kadri inavyotokea"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:640
+msgid "Turn on / off live notifications feature."
+msgstr "Washa/Zima Taarifa kadri inavyotokea"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:655
+msgid "Login To View Answer"
+msgstr "Tia saini ili uone jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:658
+msgid "If you enable this option, users have to login to see answer"
+msgstr "Ukiwezesha chaguo hili, watumiaji lazima watie saini ili waone jibu."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:664
+msgid "View answer"
+msgstr "Ona jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:672
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:681
+msgid "Send Email From"
+msgstr "Tuma barua pepe kutoka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:675
+msgid "This email will appear in the email's header"
+msgstr "Hii anwani itaonyeshwa kwa kicwa cha barua pepe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:695
+#, fuzzy
+msgid "Url slug"
+msgstr "Url slug"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:706
+msgid ""
+"Enter slug for your Single Question page (this slug must be unique, please "
+"re-save the permalink options after changed slug)."
+msgstr ""
+"Weka 'Email slug' ya swali la ukurasa mmoja('Email slug' lazima iwe ya "
+"kipekee, tafadhali hifadhi/okoa chaguzi cha 'Permalink' baada ya kugeuza "
+"'email slug')."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:712
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:714
+msgid "Single Question page Slug"
+msgstr "'Slug' ya swali la ukurasa mmoja"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:722
+msgid "Questions Category"
+msgstr "Aina ya Maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:725
+msgid ""
+"Enter slug for your Question Category archive (this slug must be unique and "
+"can not be 'category', please re-save the permalink options after changed "
+"slug)."
+msgstr ""
+"Weka 'slug' ya archive ya kikundi (hii 'slug' lazima iwe ya kipekee na "
+"haiwezi kuwa 'kikundi', tafadhali hifadhi chaguo la permalink baada ya "
+"kugeuza 'slug')."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:731
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:733
+msgid "Questions Category Slug"
+msgstr "Slug ya Kikundi cha maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:741
+msgid "Questions Tag"
+msgstr "Neno husika la maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:744
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:763
+msgid ""
+"Enter slug for your Question Tag archive (this slug must be unique, please "
+"re-save the permalink options after changed slug)."
+msgstr ""
+"Weka 'slug' ya archive ya maneno husika ya maswali(hii 'slug' lazima iwe ya "
+"kipekke na haiwezi kuwa 'kikundi', tafadhali hifadhi chaguo la permalink "
+"baada ya kugeuza 'slug')."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:750
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:752
+msgid "Questions Tag Slug"
+msgstr "Slug ya neno husika la maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:760
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1343
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:302
+msgid "Members"
+msgstr "Wanachama"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:769
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:771
+msgid "Members Slug Page"
+msgstr "Ukurasa wa slug ya wanachama"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:784
+msgid "Captcha"
+msgstr "Captcha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:792
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:802
+msgid "Google reCaptcha"
+msgstr "Google reCaptcha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:795
+msgid ""
+"Enabling this will prevent spammers to register.<a href='https://www.google."
+"com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+msgstr ""
+"Kuwezesha hii itazuia spammers kujiandikisha.<a href='https://www.google.com/"
+"recaptcha/admin#list' target='_blank' rel='nofollow'>pata ufunguo</a>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:809
+msgid "Site key"
+msgstr "Ufunguo wa tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:811
+msgid "reCaptcha Site Key"
+msgstr "Ufunguo wa tovuti wa reCaptcha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:817
+msgid "Secret key"
+msgstr "Ufunguo wa siri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:819
+msgid "reCaptcha Secret Key"
+msgstr "Ufunguo wa siri wa reCaptcha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:826
+msgid "Google reCaptcha for Questions"
+msgstr "Google reCaptcha ya maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:835
+msgid "Enable Google reCaptcha for Questions"
+msgstr "Wezesha Google reCaptcha ya maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:866
+msgid "Branding"
+msgstr "Kuweka chapa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:875
+msgid "Site logo"
+msgstr "Alama ya tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:879
+msgid ""
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than "
+"1500Kb."
+msgstr ""
+"Alama yako lazima iwe kwa muundo wa  PNG, GIF au JPG, tena iwe 150x50px na "
+"chini ya 1500Kb."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:886
+msgid "Site Logo"
+msgstr "Alama ya tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:899
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:910
+msgid "Mobile Icon"
+msgstr "Alama ya simu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:903
+msgid ""
+"This icon will be used as a launcher icon for iPhone and Android smartphones "
+"and also as the website favicon. The image dimensions should be 57x57px."
+msgstr ""
+"Hii alama itatumika kwenye simu za  iPhone na Android kama alama ya launcher "
+"na pia kama favicon ya tovuti. Kipimo wa picha iwe 57x57px."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:923
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:934
+msgid "Intro Page Background"
+msgstr "Usuli wa ukurasa wa utangulizi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:927
+msgid ""
+"This image will be used as a background image in Intro Page. The image "
+"dimensions should be 1400x700px or more and size less than 1000KB."
+msgstr ""
+"Hii picha itatumika kama usuli  ya ukurasa wa utangulizi. Kipimo cha picha "
+"isiwe chini ya 1400x700px na isipite 1000kb."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:952
+msgid "Mailing"
+msgstr "Utumiaji barua"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:961
+msgid "Authentication Mail Template"
+msgstr "Kiolezo ya barua pepe ya uthibitisho"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:970
+msgid "Mail description here"
+msgstr "Maelezo ya barua hapa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:971
+msgid ""
+"Email templates for authentication process. You can use placeholders to "
+"include some specific content."
+msgstr ""
+"Kiolezo ya barua pepe kwa ajili ya mchakato wa uthibitishaji. Unaweza "
+"kutumia placeholders ili kuweka maudhui maalum."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:972
+msgid "user's details you want to send mail"
+msgstr "maelezo ya mtumiaji unataka kutuma barua"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:973
+msgid "member dashboard url "
+msgstr "Dashboard url ya mwanachama"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:974
+msgid "question title, link and details"
+msgstr "kichwa cha swali, 'link' na  maelezo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:975
+msgid "activate link is require for user to renew their pass"
+msgstr "Link ya kuamsha inahitajika ili mtumiaji atengeneze upya nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:976
+msgid " site info, admin email"
+msgstr "maelezo ya tovuti, barua pepe ya msimamizi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:985
+msgid "Register Mail Template"
+msgstr "Andikisha kiolezo ya barua pepe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:994
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1051
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1211
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1229
+msgid "Register Mail"
+msgstr "Andikisha barua pepe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1004
+msgid "Confirmation Mail Template"
+msgstr "Uthibitisho wa kiolezo ya barua pepe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1013
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1032
+msgid "Confirmation Mail"
+msgstr "Barua ya uthibitisho"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1023
+msgid "Confirmed Mail Template"
+msgstr "Kiolezo ya barua iliyothibitishwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1042
+msgid "Forgotpass Mail Template"
+msgstr "Kiolezo ya barua ya kusahau nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1060
+msgid "Resetpass Mail Template"
+msgstr "Kiolezo ya barua ya kutunga upya nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1069
+msgid "Resetpassword Mail"
+msgstr "Barua ya kutunga nenosiri upya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1078
+msgid "Pending Questions Mail Template"
+msgstr "Kiolezo ya barua ya maswali bila majibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1087
+msgid "Pending Questions Mail"
+msgstr "Barua ya maswali bila majibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1096
+msgid "New Answer Mail Template"
+msgstr "Kiolezo ya barua ya Jibu mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1105
+msgid "New Answer Mail"
+msgstr "Barua ya jibu mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1114
+msgid "Report Mail Template"
+msgstr "Kiolezo ya barua pepe ya kufanya ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1123
+msgid "Report Mail"
+msgstr "Barua ya kufanya ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1132
+msgid "Best Answer Mail Template"
+msgstr "Kiolezo ya barua ya Jibu bora"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1141
+msgid "Best Answer Mail"
+msgstr "Barua ya Jibu bora"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1150
+msgid "Ban User Mail Template"
+msgstr "Kiolezo ya barua ya amri ya kupiga mtumiaji marufuku"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1159
+msgid "Ban User Mail"
+msgstr "Barua ya amri ya kupiga mtumiaji marufuku"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1168
+msgid "Inbox Mail Template"
+msgstr "Kiolezo ya barua pepe kwenye kikasha barua"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1177
+msgid "Inbox User Mail"
+msgstr "Barua pepe kwenye kikasha barua"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1192
+msgid "Language"
+msgstr "Lugha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1201
+msgid "Website Language"
+msgstr "Lugha ya tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1205
+msgid "Select the language you want to use for your website."
+msgstr "Chagua lugha unataka kutumia kwenye tovuti lako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1219
+msgid "Translator"
+msgstr "Mtafsiri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1223
+msgid "Translate a language"
+msgstr "Tafsiri lugha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1243
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:57
+#: D:\QAE\qaengine-v1.5.4/template-js/item-comment.php:26
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:74
+#: D:\QAE\qaengine-v1.5.4/template/item-comment.php:36
+msgid "Update"
+msgstr "Update"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1252
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1261
+msgid "License Key"
+msgstr "Ufunguo wa leseno"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1290
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:45
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:68
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:77
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:86
+msgid "Overview"
+msgstr "Maelezo ya jumla"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1291
+msgid "OVERVIEW"
+msgstr "MAELEZO YA JUMLA"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1295
+#, php-format
+msgid "%s overview"
+msgstr "%s maelezo ya jumla"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1317
+msgid "Settings"
+msgstr "Mpangilio"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1318
+msgid "SETTINGS"
+msgstr "MIPANGILIO"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1322
+msgid "Manage how your Q&A Engine looks and feels"
+msgstr "Panga jinsi injini ya Swali na Majibu inaonekana na inahisiwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1344
+msgid "MEMBERS"
+msgstr "WANACHAMA"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1348
+msgid "Overview of registered members"
+msgstr "Maelezo ya jumla ya wanashiriki walioandikishwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1362
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:407
+#: D:\QAE\qaengine-v1.5.4/page-users.php:45
+msgid "Points"
+msgstr "Pointi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1371
+msgid "Positive Point"
+msgstr "Pointi chanya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1374
+msgid "Set up points that users can gain"
+msgstr "Weka pointi ambazo watumiaji wanaweza kupata"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1382
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1385
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:33
+msgid "create a question"
+msgstr "tunga swali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1390
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1393
+msgid "answer a question"
+msgstr "jibu swali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1398
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1401
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:42
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:44
+msgid "question is voted up"
+msgstr "swali limepigiwa kura"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1406
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1409
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:46
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:55
+msgid "answer is voted up"
+msgstr "jibu limepigiwa kura"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1414
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1417
+msgid "answer is marked 'accepted' "
+msgstr "jibu imetiwa alama 'imekubalika'"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1433
+msgid "Negative Point"
+msgstr "Pointi hasi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1436
+msgid "Set up points that user can lose"
+msgstr "Weka pointi ambazo watumiaji wanaweza kupoteza"
+
+# this is the right way. it means a vote has been taken away rather that a vote that is negative has been cast
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1443
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1446
+msgid "your question is voted down"
+msgstr "Swali limepigiwa kura ya kinyume."
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1451
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1454
+msgid "your answer is voted down"
+msgstr "jibu lako limepigiwa kura ya kinyume"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1460
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1463
+msgid "you vote down an answer or question"
+msgstr "unaepiga kura ya kinyume kwa  jibu ama swali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1486
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1495
+msgid "Privileges"
+msgstr "Fadhili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1498
+msgid "Set up point users have to achieve to have specific privileges"
+msgstr "Weka ponti watumiaji lazima wawe nazo kuwa na fadhilimaalum"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1509
+msgid "Level"
+msgstr "Kiwango"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1532
+msgid "User Badges"
+msgstr "Beji ya watumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1533
+msgid "USER BADGES"
+msgstr "BEJI YA WATUMIAJI"
+
+#: D:\QAE\qaengine-v1.5.4/includes/admin.php:1537
+msgid "Manage what your members can do."
+msgstr "Panga yale wanachama wanaweza kufanya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:275
+#, php-format
+msgid "%s color has been updated"
+msgstr "%s rangi imesasishwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:281
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:299
+msgid "An error has occurred!"
+msgstr "Kosa limetokea!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:293
+#, php-format
+msgid "%s icon has been updated"
+msgstr "%s alama imesasishwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:374
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template-js/cat-item-form.php:28
+msgid "Add a category"
+msgstr "Weka kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:397
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template-js/cat-item.php:14
+msgid "Add sub tax for this tax"
+msgstr "Weka kodi ndogo kwa kodi hii"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:440
+msgid "Move jobs to"
+msgstr "Hamisha kazi kwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:450
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1032
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:36
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:74
+msgid "Accept"
+msgstr "Kubali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:469
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:584
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:396
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:123
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:922
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:121
+msgid "There is an error occurred"
+msgstr "Kuna kosa lililotokea"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:484
+msgid ""
+"You cannot delete a parent category. You need to delete its sub-categories "
+"first."
+msgstr "Huwezi kufuta kikundi kizazi. Unahitaji kufuta vidogo vyake kwanza."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:497
+msgid "Can't delete category"
+msgstr "Huwezi kufuta kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:505
+msgid "Category name is required"
+msgstr "Jina la kikundi linahitajika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/category.php:534
+msgid "Cannot find category"
+msgstr "Kikundi hakipatikani"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-comments.php:168
+msgid "Please wait 2 minutes after each action submission."
+msgstr "Tafadhali subiri dakika 2 baada ya kuwasilisha kila hatua."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-comments.php:187
+msgid "Already added."
+msgstr "Tayari imeongezwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-comments.php:189
+msgid "You have already comment on this."
+msgstr "Tayari umetoa maoni yako hapa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:128
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:347
+msgid "Invalid file name!"
+msgstr "Hilo Jina la faili ni batili!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:139
+msgid "Adding new language successfully."
+msgstr "Kuweka lugha mpya kimefanikika."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:199
+#, fuzzy
+msgid ""
+"Theme functions required to create a folder wp-content/et-content. Please "
+"set chmod folder wp-content to 755."
+msgstr ""
+"Theme functions required to create a folder wp-content/et-content. Please "
+"set chmod folder wp-content to 755."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:359
+msgid "There was no changes in your translation."
+msgstr "Hakuna mabadiliko katika tafsiri yako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:432
+msgid "Translation saved! "
+msgstr "Tafsiri kimehifadhiwa/kimeokolewa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:487
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:518
+msgid "Type the translation in your language"
+msgstr "Andika tafsiri katika lugha yako"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-languages.php:531
+msgid "Loading successfully!"
+msgstr "Kupakua kimefanikika."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:36
+msgid "Congratulations! Your account has been verified successfully."
+msgstr "Hongera! Akaunti yako umethibitishwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:58
+#, php-format
+msgid "[%s]New Private Message From %s"
+msgstr "[%s]Ujumbe mpya kutoka %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:95
+msgid "Activate Link"
+msgstr "Hakikisha anwani ya wavuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:101
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1580
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Utunzi upya wa nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:119
+#, php-format
+msgid "[%s]New report message from %s."
+msgstr "[%s] Ujumbe mpya wa ripoti kutoka kwa %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:140
+#, php-format
+msgid "[%s]Your claim request has been approved."
+msgstr "[%s]Ombi lako la madai limepitishwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:159
+#, php-format
+msgid "[%s]Your claim request has been rejected."
+msgstr "[%s]Ombi lako la madai limekataliwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:177
+#, php-format
+msgid "[%s]New claim request from %s."
+msgstr "[%s]Ombi mpya la madai kutoka kwa %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:200
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:444
+#, php-format
+msgid "Congratulations! You have successfully registered to %s."
+msgstr "Hongera! Umesajilika kwa mafanikio kwenye %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:218
+#, php-format
+msgid "You have request a confirm email from %s."
+msgstr "Una ombi la kuthibitisha barua pepe kutoka kwa % s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:244
+#, php-format
+msgid "Your post '%s' has been approved."
+msgstr "Chapisho lako '%s' kimepitishwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:258
+#, php-format
+msgid "Your post \"%s\" has been archived"
+msgstr "Chapisho lako '%s' imewekwa kwenye archive."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:290
+#, php-format
+msgid "Your post '%s' has been rejected."
+msgstr "Chapisho lako \"%s\" limekataliwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:313
+msgid "Have a new post on your site."
+msgstr "Andika chapisho mpya kwenye tovuti lako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:314
+#, php-format
+msgid ""
+"<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>"
+msgstr ""
+"<p>Hi,</p><p> Andika chapisho mpya mpya kwenye tovuti lako. Unaweza kuipitia "
+"hapa: %s </p>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:331
+#, php-format
+msgid "You submit a post by cash on '%s'"
+msgstr "Pakia chapisho kutumia fedha kupitia '%s'"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:333
+#, php-format
+msgid "You purchase successfully package '%s' by cash on '%s'"
+msgstr "Umefanikiwa kununua pakiti ya '%s' kutumia fedha tarehe '%s'"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:351
+msgid "Thank you for your payment!"
+msgstr "Asante kwa ajili ya malipo yako!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:535
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:591
+msgid "Author's Posts"
+msgstr "Machapisho ya mwandishi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-mailing.php:543
+msgid "Confirm link"
+msgstr "Hakikisha anwani ya wavuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-orders.php:15
+msgid "Post ad"
+msgstr "Chapisha tangazo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:52
+msgid "3 Months Overview"
+msgstr "Maelezo ya jumla ya miezi 3"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:59
+msgid "2 weeks Overview"
+msgstr "Maelezo ya jumla ya miezi 2"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:66
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:75
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:84
+msgid "Signup"
+msgstr "Jiandikishe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:98
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:106
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:113
+#, php-format
+msgid "Revenue(%s)"
+msgstr "Mapato (% s)"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:100
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:108
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-overview.php:115
+msgid "Revenue"
+msgstr "Mapato"
+
+# not to be confused with content as in page of contents-yaliyomo. Does this mean that or content meaning articles? if so use 'makala'
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-pack.php:192
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:152
+msgid "content here"
+msgstr "maudhui hapa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-pack.php:223
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:177
+msgid "Sync success."
+msgstr "Fanaka kwa sync"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-pack.php:276
+msgid "Payment plans have been sorted"
+msgstr "Mipango ya malipo yamepangwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-package.php:29
+#, php-format
+msgid "%s for %d days"
+msgstr "%s siku %d "
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-package.php:71
+#, php-format
+msgid "(%s)%s for %d days"
+msgstr "(%s)%s siku %d "
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-package.php:73
+#, php-format
+msgid "%s(%s) for %d days"
+msgstr "%s(%s) siku %d"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-package.php:298
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:172
+msgid ""
+"You have reached the maximum number of Free posts. Please select another "
+"plan."
+msgstr ""
+"Umefika upeo wa idadi ya chapisho bure. Tafadhali chagua mpango mwingine."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:109
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:143
+#: D:\QAE\qaengine-v1.5.4/template/modal-contact.php:17
+#: D:\QAE\qaengine-v1.5.4/template/modal-report.php:17
+msgid "Loading..."
+msgstr "Inaendelea Kupakua..."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:110
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:144
+msgid "Loading"
+msgstr "Inaendelea Kupakua"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:111
+msgid "Categories' level is limited to 3"
+msgstr "Mpaka wa viwango vya vikundi ni 3"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:120
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:153
+msgid "Image Files"
+msgstr "Faili za picha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:144
+msgid "Administration"
+msgstr "Usimamizi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:145
+msgid "You are an admin. Here you administrate."
+msgstr "Wewe ni msimamizi. Hapa unasimamia."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:300
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:301
+msgid "Engine Settings"
+msgstr "Mipangilio ya injini"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:328
+msgid "You do not have permission to change option."
+msgstr "Huna ruhusa ya kubadilisha chaguo."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:368
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:215
+msgid "Update option successfully!"
+msgstr "Sasisha chaguo kwa mafanikio!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:404
+msgid "You must login to upload image."
+msgstr "Lazima utie saini ili upakie  picha."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:410
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:911
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:928
+msgid "Missing image ID"
+msgstr "Kitambulisho cha picha hakiko"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:416
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:906
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:942
+msgid "Security error!"
+msgstr "Kosa la Usalama!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:452
+msgid "Branding image has been uploaded successfully"
+msgstr "Picha ya chapa imeingizwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:457
+msgid "Error when updating settings."
+msgstr "Kosa limetokea mipangilio ikisasishwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:463
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:918
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:991
+msgid "Uploaded file not found"
+msgstr "Faili iliyoingizwa haijapatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-page.php:511
+msgid "Site Dashboard"
+msgstr "Dashboard ya tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-payments.php:232
+msgid "Post author information is incorrect!"
+msgstr "Maelezo ya mwandishi si sahihi!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-payments.php:284
+msgid "There is no payment plan."
+msgstr "Hakuna mpango wa malipo."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-payments.php:355
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:56
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:60
+msgid "Invalid payment gateway"
+msgstr "Gateway ya malipo Batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:113
+msgid "REJECTED"
+msgstr "IMEKATALIWA"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:114
+msgid "ARCHIVED"
+msgstr "ARCHIVED"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:115
+msgid "PENDING"
+msgstr "ISIYOMALIZIKA"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:116
+msgid "DRAFT"
+msgstr "RASIMU"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:117
+msgid "ACTIVE"
+msgstr "ACTIVE"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:118
+msgid "TRASHED"
+msgstr "ILIYOFUTWA"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:273
+msgid "The ID already existed!"
+msgstr "Hiyo ID tayari iko!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:278
+msgid "You must login to submit listing."
+msgstr "Lazima utie saini kuwasilisha rekodi/listing."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:466
+msgid "Post not found!"
+msgstr "Chapisho haijapatikana!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:471
+msgid "You can not edit other posts!"
+msgstr "Huwezi kuhariri chapisho nyingine!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:587
+msgid "You do not have permission to delete post."
+msgstr "Huna ruhusa ya kufuta chapisho."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:644
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:784
+msgid "Invalid method"
+msgstr "Mbinu batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-post.php:966
+msgid "Successs"
+msgstr "Fanaka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:65
+msgid "Get user data successfully!"
+msgstr "Pata data ya mtumiaji kwa fanaka!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:79
+msgid "Input invalid"
+msgstr "Input batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:88
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/user-item.php:43
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1331
+#, php-format
+msgid "Join on %s"
+msgstr "Jiunge kwa %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:113
+#, php-format
+msgid "Logged in as <span class=\"name\">%s<span>"
+msgstr "Umetia saini kama <span class=\"name\">%s<span>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:268
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr ""
+"Herufi ndogo (a-z) na tarakimu pekee ndizo zinakubaliwa kwa jina la mtumiaji."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:271
+msgid "Email field is invalid."
+msgstr "Nafasi ya barua pepe ni batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:274
+msgid "Password field is required."
+msgstr "Nafasi ya nenosiri ni lazima."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:277
+msgid "Repeat Passwords mismatch."
+msgstr "Nenosiri la kurudiwa sio sawa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:289
+msgid "You can't create an administrator account."
+msgstr "Huwezi kujenga akaunti ya msimamizi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:331
+msgid "You have registered successfully!"
+msgstr "Umeandikisha akaunti kwa mafanikio!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:331
+msgid ""
+"You have registered successfully. Please check your mailbox to activate your "
+"account."
+msgstr ""
+"Umeandikisha akaunti kwa mafanikio. Tafadhali angalia kikasha barua chako "
+"ili kuthibisha akunti yako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:357
+msgid "Permission Denied!"
+msgstr "Umekatazwa Ruhusa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:368
+msgid "Old password does not match!"
+msgstr "Nenosiri nzee halilingani"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:372
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:519
+msgid "Retype password is not equal."
+msgstr "Nenosiri lililopigwa chapa mara nyingine si sawa na ya kwanza."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:384
+msgid "This email is already used. Please enter a new email."
+msgstr ""
+"Hii barua pepe tayari imetumika. Tafadhali weka anwani mpya ya barua pepe."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:424
+msgid "Your profile has been saved successfully!"
+msgstr "Mafanikio kuhifadhi profile yako!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:427
+msgid "Your password has been changed successfully!"
+msgstr "Nenosiri lako limegeuzwa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:430
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:434
+msgid "User's data update successfully!"
+msgstr "Data ya mtumiaji imesasishwa kwa mafanikio!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:465
+msgid "The login information you entered were incorrect. Please try again!"
+msgstr "Maelezo ya kutia saini uliyoweka si sahihi. Tafadhali jaribu tena!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:498
+msgid "You have signed in successfully!"
+msgstr "Umeatia saini kwa mafanikio!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:514
+msgid "You cannot change other user password"
+msgstr "Huwezi kugeuza nenosiri la mtumiaji mwingine."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:546
+msgid "ERROR: Enter username or email address."
+msgstr "KOSA: Weka jina la mtumiaji ama barua pepe."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:551
+msgid "ERROR: There is no user registered with that email address."
+msgstr ""
+"KOSA: Hakuna mtumiaji aliyejiandikisha kutumia hiyo anwani ya barua pepe."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:562
+msgid "ERROR: Invalid username or email address."
+msgstr "KOSA: Jina la mtumiaji ama barua pepe invalid."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:574
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1548
+msgid "Password reset is not allowed for this user"
+msgstr "[%s] Utunzi upya wa nenosiri haukubaliki kwa huyu mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:596
+msgid ""
+"We have sent an reset password mail to your mailbox. Please check your mail."
+msgstr ""
+"Tumetuma barua pepe ya kuweka upya nenosiri. Tafadhali angalia kisanduku "
+"pokezi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:611
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:617
+msgid "Invalid Activation Key."
+msgstr "Kifunguo cha Thibitisho batili."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:613
+msgid "Invalid User Name"
+msgstr "User Name Batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:634
+msgid "Username is empty."
+msgstr "Jina la mtumiaji iko tupu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:635
+msgid "Invalid Activation Key"
+msgstr "Kifunguo cha Thibitisho batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:636
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1090
+msgid "Please enter your new password"
+msgstr "Tafadhali weka nenosiri lako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:653
+msgid ""
+"Your password have updated successfull. You can login with your new password "
+"now."
+msgstr "Nenosiri lako limesasishwa! Unaweza tia saini na nenosiri lipya sasa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:673
+msgid "Your message has been sent successfully!"
+msgstr "Ujumbe wako umetumwa kwa fanaka!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:893
+msgid "Get users successfull"
+msgstr "Pata watumiaji kwa fanaka!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:898
+msgid "No user found by your query"
+msgstr "Hakuna Mtumiaji Amepatikana Kulingana na Swali Lako"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:928
+msgid "New confirm email already send to your email account."
+msgstr "Barua pepe mpya ya thibitisho imetumwa kwa akaunti yako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:936
+msgid "An unknown error has occurred. Please try again later."
+msgstr "Kosa lisilojulika limetendeka. Tafadhali jaribu tena baadae."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-users.php:943
+msgid "Please wait 5 minutes to resend an activation code!"
+msgstr "Tafadhali subiri dakika 5 baada ya kuwasilisha kila  hatua."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:38
+#, php-format
+msgid ""
+"You have just installed DirectoryEngine theme, we recommend you follow "
+"through our <a href='%s'>setup wizard</a> to set up the basic configuration "
+"for your website! <a href='%s'>Close this message</a>"
+msgstr ""
+"Umesakinisha DirectoryEngineTheme, tunapendekeza ufuate  <a href='%s'>setup "
+"wizard</a> ili kuseti usanidi ya tovuti yako! <a href='%s'>Funga ujumbe huu</"
+"a>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:58
+msgid "Import Data Successfully."
+msgstr "Import data kwa fanaka."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:78
+msgid "Delete Data Successfully."
+msgstr "Futa data kwa mafanikio"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:94
+msgid "Insert sample data"
+msgstr "Weka sampuli ya data"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:95
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:123
+msgid "Delete sample data"
+msgstr "Futa sampuli ya data"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:96
+msgid "Insert sample data false"
+msgstr "Weka sampuli ya data uongo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:97
+msgid "Delete sample data false"
+msgstr "Futa sampuli ya data uongo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:98
+msgid ""
+"It would take up to a few minutes for your images to be uploaded to the "
+"server. Please don't close or reload this page."
+msgstr ""
+"Itachukua dakika chache kupakia picha zako kwa server. tafadhali usifunge "
+"ama uoneshe upya ukurasa huu."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:112
+msgid "SAMPLE DATA"
+msgstr "SAMPULI YA DATA"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:114
+msgid ""
+"The sample data include some items from the list below: places, comments, "
+"etc."
+msgstr ""
+"Data sampuli ni pamoja na baadhi ya vitu kutoka kwenye orodha hapa chini "
+"maeneo, maoni, nk"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:120
+msgid "Install sample data"
+msgstr "Simika sampuli ya data"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:131
+msgid "Places"
+msgstr "Maeneo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:131
+msgid "Add new place types or modify the sample ones to suit your site style."
+msgstr ""
+"Weka maeneo mapya au rekebisha sampuli ya data ili iwe sawa na biashara yako "
+"ya directory."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:134
+msgid "Place Categories"
+msgstr "Weka Vikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:134
+msgid ""
+"Add new categories or modify the sample data to match your directory "
+"business."
+msgstr ""
+"Weka vikundi vipya au rekebisha sampuli ya data ili iwe sawa na biashara "
+"yako ya directory."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:137
+msgid "Place Locations"
+msgstr "Weka Maeneo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:137
+msgid ""
+"Add new locations or modify the sample data to match your directory business."
+msgstr ""
+"Weka maeneo mapya au rekebisha sampuli ya data ili iwe sawa na biashara yako "
+"ya directory."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:140
+msgid "Pages"
+msgstr "Kurasa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:140
+msgid ""
+"Modify the sample \"About us, Contact us, ...\" pages or add your extra "
+"pages when needed."
+msgstr ""
+"Geuza sampuli ya kurasa za \"Kutuhusu, Wasiliana nasi, ...\" ama ongeza "
+"kurasa zako ukiwa na haja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:143
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/user-item.php:38
+msgid "Posts"
+msgstr "Machapisho"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:143
+msgid ""
+"A couple of news & event posts have been added for your review. You can "
+"delete it or add your own posts here."
+msgstr ""
+"Habari na machapisho kadhaa yameongezwa kwa ajili ya maoni yako. Unaweza "
+"kuifuta ama uongeze chapisho lako hapa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:151
+msgid "MORE SETTINGS"
+msgstr "MIPANGILIO ZAIDI"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:152
+msgid "Enhance your site by customizing these other features"
+msgstr ""
+"Ongeza ustadi wa tovuti lako kwa kugeuza vipengele hivi vingine viwe "
+"unavyopenda"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:158
+msgid "General Settings"
+msgstr "Mipangilio ya jumla"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:158
+msgid ""
+"Modify your site information, social links, analytics script, or add a "
+"language, etc."
+msgstr ""
+"Geuza maelezo ya tovuti lako, social links, analytics script, ama ongeza "
+"lugha n.k."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:162
+msgid "Front Page"
+msgstr "Ukurasa wa mbele"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:162
+msgid ""
+"Rearrange content elements or add more information in your front page to "
+"suit your needs."
+msgstr ""
+"Panga upya vipengele vya maudhui au ongeza taarifa zaidi katika ukurasa wako "
+"wa mbele ili kukidhi mahitaji yako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:166
+msgid "Menus"
+msgstr "Menyu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:166
+msgid "Edit all available menus in your site here."
+msgstr "Hariri menu zote katika tovuti yako hapa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:170
+msgid "Sidebars & Widgets"
+msgstr "Sidebar na Widget"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/class-ae-wizard.php:170
+msgid ""
+"Add or remove widgets in sidebars throughout the site to best suit your need."
+msgstr ""
+"Weka ama toa widgets kwenye sidebards kwa tovuti nzima kwa njia bora "
+"kulingana na mahitaji yako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:36
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:47
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:15
+msgid "Cash"
+msgstr "Fedha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:37
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:16
+msgid "Paypal"
+msgstr "Paypal"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:38
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:17
+msgid "2Checkout"
+msgstr "2Checkout"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:48
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-users.php:48
+msgid "All"
+msgstr "Yote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:57
+msgid "Search post..."
+msgstr "Tafuta kwa machapisho"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:66
+msgid "All Orders"
+msgstr "Order zote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:78
+msgid "There are no payments yet."
+msgstr "Bado hakuna malipo."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:88
+msgid "More Payments"
+msgstr "Malipo zaidi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:172
+msgid "No order found by your query."
+msgstr "Hakuna orodha imepatikana kulingana na swali lako"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-payments.php:211
+msgid "Update order successfull."
+msgstr "Sasisha mpangilio kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-users.php:55
+msgid "Search users..."
+msgstr "Tafuta kwa watumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-users.php:63
+msgid "All Users"
+msgstr "Watumiaji wote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/container-users.php:78
+msgid "More Users"
+msgstr "Watumiaji wengine"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-image.php:51
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:21
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:22
+msgid "Browse"
+msgstr "kuvinjari"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-language-list.php:68
+msgid "Add a new language"
+msgstr "Weka lugha mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-language-list.php:70
+msgid "Enter language name"
+msgstr "Weka jina la lugha hiyo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-language-list.php:79
+msgid "Language name"
+msgstr "Jina ya lugha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-language-list.php:80
+msgid "Enter the language's name"
+msgstr "Weka jina la lugha hiyo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-language-list.php:81
+msgid "Add language"
+msgstr "Weka lugha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-language-list.php:82
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:962
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1029
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:98
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:56
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:106
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:130
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:224
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:68
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:60
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:117
+#: D:\QAE\qaengine-v1.5.4/template-js/item-comment.php:29
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:78
+#: D:\QAE\qaengine-v1.5.4/template/item-comment.php:39
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:35
+msgid "Cancel"
+msgstr "Futa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-map.php:39
+msgid "Enter map address"
+msgstr "Weka anwani ya ramani"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-switch.php:37
+msgid "Enable"
+msgstr "Wezesha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-switch.php:38
+msgid "Disable"
+msgstr "Kuzima"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-translate.php:48
+msgid "Choose a Language"
+msgstr "Chagua Lugha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-translate.php:56
+msgid "Save"
+msgstr "Hifadhi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/field-translate.php:60
+msgid ""
+"You should save your translation after every 20 strings to make sure they "
+"won't lost "
+msgstr "Unapaswa kuhifadhi tafsiri yako baada ya kila nyuzi 20 ili zisipotee."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/fields/list.php:81
+msgid "Are you sure you want to delete this?"
+msgstr "Una hakika unataka kufuta hii?"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:127
+msgid "bad"
+msgstr "mbaya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:128
+msgid "poor"
+msgstr "hafifu/maskini"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:129
+msgid "nice"
+msgstr "nzuri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:130
+msgid "good"
+msgstr "nzuri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:131
+msgid "gorgeous"
+msgstr "zuri sana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:165
+msgid "Are you sure to archive this?"
+msgstr "Una hakika unataka kuweka hii kwenye archive?"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:173
+msgid "Please fill all require fields."
+msgstr "Tafadhali jaza nafasi yote yanayohitajika."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:179
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:186
+msgid "Sunday"
+msgstr "Jumapili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:180
+msgid "Monday"
+msgstr "Jumatatu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:181
+msgid "Tuesday"
+msgstr "Jumanne"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:182
+msgid "Wednesday"
+msgstr "Jumatano"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:183
+msgid "Thursday"
+msgstr "Alhamisi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:184
+msgid "Friday"
+msgstr "Ijumaa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:185
+msgid "Saturday"
+msgstr "Jumamosi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:189
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:196
+msgid "Sun"
+msgstr "Sun"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:190
+msgid "Mon"
+msgstr "Mon"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:191
+msgid "Tue"
+msgstr "Tue"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:192
+msgid "Wed"
+msgstr "Wed"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:193
+msgid "Thu"
+msgstr "Thu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:194
+msgid "Fri"
+msgstr "Fri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:195
+msgid "Sat"
+msgstr "Sat"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:199
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:206
+msgid "Su"
+msgstr "Su"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:200
+msgid "Mo"
+msgstr "Mo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:201
+msgid "Tu"
+msgstr "Tu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:202
+msgid "We"
+msgstr "Sisi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:203
+msgid "Th"
+msgstr "Th"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:204
+msgid "Fr"
+msgstr "Fr"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:205
+msgid "Sa"
+msgstr "Sa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:209
+msgid "January"
+msgstr "Januari"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:210
+msgid "February"
+msgstr "Februari"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:211
+msgid "March"
+msgstr "Mechi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:212
+msgid "April"
+msgstr "Aprili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:213
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:227
+msgid "May"
+msgstr "Mei"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:214
+msgid "June"
+msgstr "Juni"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:215
+msgid "July"
+msgstr "Julai"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:216
+msgid "August"
+msgstr "Agosti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:217
+msgid "September"
+msgstr "Septemba"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:218
+msgid "October"
+msgstr "Oktoba"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:219
+msgid "November"
+msgstr "November"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:220
+msgid "December"
+msgstr "Desemba"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:223
+msgid "Jan"
+msgstr "Jan"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:224
+msgid "Feb"
+msgstr "Feb"
+
+# General comment on month short forms. Some do not match their kiswahili forms. I do not know whether to create my  own so i have used yours.
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:225
+msgid "Mar"
+msgstr "Mar"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:226
+msgid "Apr"
+msgstr "Apr"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:228
+msgid "Jun"
+msgstr "Jun"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:229
+msgid "Jul"
+msgstr "Jul"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:230
+msgid "Aug"
+msgstr "Aug"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:231
+msgid "Sep"
+msgstr "Sep"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:232
+msgid "Oct"
+msgstr "Oct"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:233
+msgid "Nov"
+msgstr "Nov"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:234
+msgid "Dec"
+msgstr "Dec"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:265
+msgid "This field is required."
+msgstr "Hii nafasa inahitajika."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:266
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1014
+msgid "Please enter a valid email address."
+msgstr "Tafadhali weka anwani ya barua pepe halali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:267
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1017
+msgid "Please enter a valid URL."
+msgstr "Tafadhali weka URL halali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:268
+msgid "Please enter a valid number."
+msgstr "Tafadhali weka nambari halali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:269
+msgid "Please enter only digits."
+msgstr "Tafadhali weka tarakimu pekee."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:270
+msgid "Please enter the same value again."
+msgstr "Tafadhali weka neno/tarakimu tena."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:271
+msgid "Please enter a valid date."
+msgstr "Tafadhali weka tarehe halali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:272
+msgid "Please enter a valid credit card number."
+msgstr "Tafadhali weka nambari ya kadi halali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:273
+msgid "Please enter a value with a valid extension."
+msgstr "Tafadhali weka neno lililo na uenezi halali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:275
+msgid "Please enter no more than {0} characters."
+msgstr "Tafadhali usiingize neno/tarakimu zaidi ya {0}."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:276
+msgid "Please enter at least {0} characters."
+msgstr "Tafadhali weka angalau neno/tarakimu {0}."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:277
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Tafadhali weka tarakimu/neno yenye urefu wa kati ya {0} na {1}."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:278
+msgid "Please enter a value between {0} and {1}."
+msgstr "Tafadhali weka tarakimu kati ya {0} na {1}."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:279
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Tafadhali weka tarakimu yenye sawa na ama kubwa ya {0}."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:280
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Tafadhali weka tarakimu yenye sawa na ama ndogo ya {0}."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:304
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:203
+msgid "Your account has been confirmed successfully!"
+msgstr "Akaunti yako imethibitishwa kwa mafanikio!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:344
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:343
+#, php-format
+msgid "Page %s"
+msgstr "Ukurasa %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/framework.php:414
+msgid "Not owned this image!"
+msgstr "Hii picha si yako!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:340
+#, php-format
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr "Tumia alama za mkato badala ya %s kutenganisha vilivyotengwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:660
+msgid "There was a problem with your upload."
+msgstr "Kumekuwepo shida kupakia faili."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:664
+msgid "Where is the file?"
+msgstr "Faili iko wapi?"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:690
+#, php-format
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr "Hakuna nafasi ya kutosha kupakia faili. %1$s KB inahitajika."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:691
+#, php-format
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr ""
+"Faili ni kubwa kupita kiasi. Faili lazima ziwe chini ya %1$s KB kwa kipimo."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:693
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr ""
+"Umetumia ugawaji wako wa nafasi. Tafadhali futa faili kabla ya kupakia."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:753
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1180
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:715
+#, php-format
+msgid "on %s"
+msgstr "Siku ya/juu ya %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:755
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1182
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:717
+msgid "ago"
+msgstr "iliopita"
+
+#. translators: min=minute
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:791
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1208
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:772
+#, php-format
+msgid "%s min"
+msgstr "%s dakika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:791
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1208
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:772
+#, php-format
+msgid "%s mins"
+msgstr "%s madakika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:795
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1212
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:777
+#, php-format
+msgid "%s hour"
+msgstr "% saa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:795
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1212
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:777
+#, php-format
+msgid "%s hours"
+msgstr "%s masaa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:800
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1217
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:783
+#, php-format
+msgid "%s day"
+msgstr "% siku"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:800
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1217
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:783
+#, php-format
+msgid "%s days"
+msgstr "% siku"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:805
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1222
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:789
+#, php-format
+msgid "%s week"
+msgstr "%s wiki"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:805
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1222
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:789
+#, php-format
+msgid "%s weeks"
+msgstr "%s wiki"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:810
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1227
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:795
+#, php-format
+msgid "%s month"
+msgstr "%s mwezi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:810
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1227
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:795
+#, php-format
+msgid "%s months"
+msgstr "%s miezi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:815
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1232
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:801
+#, php-format
+msgid "%s year"
+msgstr "%s mwaka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:815
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1232
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:801
+#, php-format
+msgid "%s years"
+msgstr "%s miaka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/functions.php:1092
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:862
+msgid "Please fill out the form below "
+msgstr "Tafadhali jaza hii fomu iliyo chini."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/class-ae-importer.php:730
+msgid "Remote server did not respond"
+msgstr "Remote server haikujibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/class-ae-importer.php:736
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Remote server imejibu na kosa aina ya %1$d %2$s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/class-ae-importer.php:743
+msgid "Remote file is incorrect size"
+msgstr "Kipimo cha mbali cha faili sio sahihi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/class-ae-importer.php:748
+msgid "Zero size file downloaded"
+msgstr "Faili sufuri kupakuliwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/class-ae-importer.php:754
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Kipimo cha mbali cha faili ni kubwa kupita kiasi, kilele ni %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/parsers.php:42
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr "Kumekuwepo shida kusoma hii faili ya WXR"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Maelezo yameonyeshwa hapo juu. Importer itajaribu sasa na parser tofauti."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/parsers.php:67
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/parsers.php:72
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/parsers.php:262
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/import/parsers.php:452
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Hii haikai kuwa faili ya WXR, WXR version number haiko."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-2CO.php:161
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr "2Checkout yako imelemazwa kwa sababu ya mpangilio batili!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-authorize.php:155
+msgid "Your Authorize.Net was disabled because of invalid settings!"
+msgstr "Authorize.net yako imelemazwa kwa sababu ya mpangilio batili!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-authorize.php:224
+msgid "Send your payment via Authorize.Net"
+msgstr "Tuma malipo yako kupitia Authorize.Net"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-cash.php:22
+msgid ""
+"Please send your payment to account number: XXXX. Once payment has been "
+"verified, admin will approve your post or request."
+msgstr ""
+"Tafadhali tuma malipo yako kwa akaunti nambari: XXXX. Punde tu malipo "
+"yanapothibitishwa, msimamizi atakubali chapisho ama ombi lako."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-google-checkout.php:91
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr "Google Checkout yako imelemazwa kwa sababu ya mpangilio batili!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-order.php:90
+msgid "Order"
+msgstr "Order"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:39
+msgid "Send your payment via Paypal."
+msgstr "Tuma malipo yako kupitia Paypal"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:42
+msgid "Send your payment via 2Checkout."
+msgstr "Tuma malipo yako kupitia 2checkout"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:48
+msgid "Send your cash payment to our bank account"
+msgstr "Tuma malipo yako ya fedha kwa akaunti yetu ya benki"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:63
+msgid "Australian Dollar"
+msgstr "Dola ya Australia"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:66
+msgid "Canadian Dollar"
+msgstr "Dola ya Canada"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:69
+msgid "Euro"
+msgstr "Euro"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:72
+msgid "American Dollar"
+msgstr "Dola ya Amerika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:75
+msgid "Japanese Yen"
+msgstr "Yen ya Japan"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:78
+msgid "British Pound"
+msgstr "British Pound"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:81
+msgid "New Zealand Dollar"
+msgstr "Dola ya New Zealand"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:84
+msgid "Swiss Franc"
+msgstr "Swiss Franc"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:87
+msgid "Hong Kong Dollar"
+msgstr "Dola ya Hong Kong"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:90
+msgid "Singapore Dollar"
+msgstr "Dola ya Singapore"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:411
+msgid "Paypal option is disabled because of invalid setting."
+msgstr "Chaguo la Paypal imetolewa kwa sababu ya mpangilio batili."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/et-payment.php:619
+msgid "Please fill in a valid email!"
+msgstr "Tafadhali jaza anwani ya barua pepe halali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:246
+msgid "Fraudulent"
+msgstr "Ulaghai"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:355
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:401
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:411
+msgid "MD5 False"
+msgstr "MD5 False"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:356
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:412
+#, fuzzy
+msgid "Md5 check sum not match!"
+msgstr "Md5 check sum not match!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:402
+msgid ""
+"In  Demo mode the 2Checkout order number is changed to '1' which will cause "
+"the hash to fail this. This is intentional so that merchants selling "
+"downloadable products and services can compare the hash to determine whether "
+"to provide a product to a customer"
+msgstr ""
+"Kwa Demo mode, nambari ya order ya 2Checkout inabadilishwa kuwa \"1\" ambayo "
+"inafanya hiyo has kutofaulu. hii ni kimaksudi ili wanabiashara wanouza "
+"bidhaa na huduma wanaweza kulinganisha hash ili kuamua kama watauzia mteja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:442
+msgid "Discount"
+msgstr "Punguzo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:443
+msgid "You have use a coupon code to get discount"
+msgstr "Lazima utumie msimbo wa kuponi kupata kipunguzi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:533
+msgid "Fraudulent or error!"
+msgstr "Ulaghai ama kosa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:589
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/payment-visitor.php:590
+msgid "Invalid order ID"
+msgstr "Order ID batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/visitor-free.php:48
+msgid "Invalid Payment package"
+msgstr "Pakiti/mfundo wa malipo Batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/visitor-free.php:66
+msgid "Invalid Post ID"
+msgstr "ID ya chapisho batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/visitor-use-package.php:68
+msgid "Invalid Order or Package"
+msgstr "Order ama Mfundo/pakiti Batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payment/visitor-use-package.php:117
+msgid "Invalid Ad ID"
+msgstr "Ad ID batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payments.php:84
+#, php-format
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr "Umenunua  kifurushi <strong>%s</strong>na umebaki na chapisho %d ."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/payments.php:85
+#, php-format
+msgid ""
+"You purchased package <strong>%s</strong> and have %d post/s left. Your "
+"posted post is pending until payment."
+msgstr ""
+"Umenunua  kifurushi <strong>%s</strong>na umebakis na chapisho %d. Chapisho "
+"lako inasubiri malipo."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:21
+msgid "Social API"
+msgstr "Social API"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:90
+msgid "Facebook Secret Key"
+msgstr "Ufunguo wa siri ya Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:100
+msgid "Enabling this will allow users to login via Google."
+msgstr "Kuwezesha hii itaruhusu watumiaji kuingia kupitia Google."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:114
+msgid "Google key "
+msgstr "Ufunguo wa Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:122
+msgid "Google Secret key "
+msgstr "Ufunguo wa siri ya Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:131
+msgid "LinkedIn API"
+msgstr "LinkedIn API"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:134
+msgid "Enabling this will allow users to login via LinkedIn."
+msgstr "Kuwezesha hii itaruhusu watumiaji kuingia kupitia LinkedIn."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:141
+msgid "LinkedIn API "
+msgstr "LinkedIn API"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:148
+msgid "Consumer Key / API Key "
+msgstr "Consumer Key / API Key "
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:150
+msgid "LinkedIn API Key"
+msgstr "Ufunguo wa LinkedIn API"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:156
+msgid "Consumer Secret / Secret Key "
+msgstr "Consumer Secret / Secret Key "
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:158
+msgid "LinkedIn secret key"
+msgstr "Ufunguo wa sri wa LinkedIn API"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:170
+msgid "General setting"
+msgstr "Mpangilio wa jumla"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:178
+msgid "Social connect page"
+msgstr "Ukurasa wa Social connect"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:181
+msgid ""
+"You can create a new page and paste shortcode [social_connect_page] here"
+msgstr ""
+"Unaweza kujenga ukurasa mpya na kubandika shortcode [social_connect_page] "
+"hapa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:188
+msgid "Social connect page url "
+msgstr "Social connect page url "
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:190
+msgid "eg:http://enginethemes.com/directoryengine/social-connect"
+msgstr "mfano:http://enginethemes.com/directoryengine/social-connect"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:199
+msgid "Select User roles"
+msgstr "Chagua Majukumu ya watumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:202
+msgid "Select the user roles."
+msgstr "Chagua majukumu ya watumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:210
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:213
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:214
+msgid "Select user roles"
+msgstr "Chagua majukumu ya watumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:235
+msgid "Social login"
+msgstr "Tia saini na Social"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:236
+msgid "SOCIAL LOGIN"
+msgstr "Tia saini na Social"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/settings.php:240
+msgid "setup a way for users to login via their socile network accounts"
+msgstr ""
+"Tengeneza njia ya watumiaji kuingia kupitia akaunti zao za Social Networks."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:113
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:120
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:110
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:117
+msgid "Username and password does not matched"
+msgstr "Jina la mtumiaji na nenosiri hayalingani"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:139
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:140
+msgid "Login information is missing"
+msgstr "Maelezo ya kutia saini hayapatikani"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:143
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:146
+msgid "Please provide a valid email"
+msgstr "Tafadhali tupe barua pepe halali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:164
+msgid "Can not authenticate user"
+msgstr "Haiwezi kuthibitisha mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:166
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:252
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:178
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:261
+msgid "Can't find Social ID"
+msgstr "ID ya mtandao wa jamii haikupatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:205
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:220
+msgid ""
+"This email is already existed. If you are the owner, please enter the right "
+"password"
+msgstr ""
+"Hii barua pepe tayari iko. Kama wewe ndio mwenyewe, tafadhali weka nenosiri "
+"sahihi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:244
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:252
+msgid "Username is existed, please choose another one"
+msgstr "Jina la mtumiaji tayari iko, tafadhali chagua nyingine"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:293
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:31
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:310
+msgid "SIGN IN WITH TWITTER"
+msgstr "TIA SAINI NA TWITTER"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:294
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:311
+msgid ""
+"This seems to be your first time signing in using your Twitter account.If "
+"you already have an account  , please log in using the form below to link it "
+"to your Twitter account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"Twitter. Kama tayari una akaunti, tafadhali tia saini kutumia fomu ya chini "
+"kwa kuiunganisha na akaunti yako ya Twitter. Kama sivyo, tafadhali weka "
+"anwani ya barua pepe na nenosiri kwa fomu, na jina la mtumiaji/jina la "
+"mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti. Utachukua hatua hii "
+"mara ya kwanza pekee. Wakati mwingine, utatia saini mara moja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:295
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:496
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:694
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:881
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:64
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:312
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:516
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:655
+msgid "Please provide a username to continue"
+msgstr "Tafadhali tupe jina la mtumiaji ili uendelee"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:356
+msgid "Conection with twitter Failed"
+msgstr "Mawasiliano na Twitter yameshindwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:361
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:380
+msgid "Error Receiving Request Token"
+msgstr "Kosa kupokea Request Token"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:494
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:24
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:514
+msgid "SIGN IN WITH FACEBOOK"
+msgstr "TIA SAINI NA FACEBOOK"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:495
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:515
+msgid ""
+"This seems to be your first time signing in using your Facebook account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"Facebook. Kama tayari una akaunti, tafadhali tia saini kutumia fomu ya chini "
+"kwa kuiunganisha na akaunti yako ya Facebook. Kama sivyo, tafadhali weka "
+"anwani ya barua pepe na nenosiri kwa fomu, na jina la mtumiaji/jina la "
+"mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti. Utachukua hatua hii "
+"mara ya kwanza pekee. Wakati mwingine, utatia saini mara moja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:532
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:540
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:555
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:575
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:584
+msgid "Social login is invalid. Please contact administrator for help."
+msgstr ""
+"Kutia saini na social batili. Tafadhali wasiliana na msimamizi kupata "
+"usaidizi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:596
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:604
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:562
+msgid "Please login by using your Facebook account again!"
+msgstr "Tafadhali tia saini na akaunti yako ya Facebook tena!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:668
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:893
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:635
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:761
+msgid "You have logged in successfully"
+msgstr "Umetia saini kwa mafanikio"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:692
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:39
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:653
+msgid "SIGN IN WITH GOOGLE+"
+msgstr "TIA SAINI NA GOOGLE+"
+
+# There is the mixed usage of google+ and facebook in the original translation. I think it is meant to be Google + all the way
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:693
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:654
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"Google+. Kama tayari una akaunti, tafadhali tia saini kutumia fomu ya chini "
+"kwa kuiunganisha na akaunti yako ya Google+. Kama sivyo, tafadhali weka "
+"anwani ya barua pepe na nenosiri kwa fomu, na jina la mtumiaji/jina la "
+"mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti. Utachukua hatua hii "
+"mara ya kwanza pekee. Wakati mwingine, utatia saini mara moja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:707
+msgid "Please enter your Google client id and secret key in setting page!"
+msgstr ""
+"Tafadhali weka Google Client ID na ufunguo wa siri kwa ukurasa wa mpangilio!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:735
+msgid "success"
+msgstr "Fanaka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:795
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:810
+msgid "Error to connect to Google Server!"
+msgstr "Kosa kuungana na Server ya Google!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:806
+msgid "Error to connect to Google"
+msgstr "Kosa kuungana na Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:859
+msgid "Error to connect to Google Server"
+msgstr "Kosa kuungana na Server ya Google"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:879
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:46
+msgid "SIGN IN WITH LINKEDIN"
+msgstr "TIA SAINI NA LINKEDIN"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:880
+msgid ""
+"This seems to be your first time signing in using your LinkedIn account.If "
+"you already have an account, please log in using the form below to link it "
+"to your LinkedIn account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"LinkedIn. Kama tayari una akaunti, tafadhali tia saini kutumia fomu ya chini "
+"kwa kuiunganisha na akaunti yako ya LinkedIn. Kama sivyo, tafadhali weka "
+"anwani ya barua pepe na nenosiri kwa fomu, na jina la mtumiaji/jina la "
+"mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti. Utachukua hatua hii "
+"mara ya kwanza pekee. Wakati mwingine, utatia saini mara moja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:895
+msgid "Please enter your Linkedin App id and secret key!"
+msgstr "Tafadhali weka LinkedIn App ID na ufunguo wa siri!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:971
+msgid "Error to connect to Linkedin server!"
+msgstr "Kosa kuungana na Server ya LinkedIn!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:975
+#, fuzzy
+msgid "Can not get the access token from Linkedin server!"
+msgstr "Can not get the access token from Linkedin server!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:992
+msgid "Error to connect to Linkedin server2!"
+msgstr "Kosa kuungana na Server 2 ya LinkedIn!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:996
+#, fuzzy
+msgid "Can not get user information from Linkedin server!"
+msgstr "Can not get user information from Linkedin server!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/social_auth.php:1053
+msgid "Error to connect to Linkedin server"
+msgstr "Kosa kuungana na Server ya LinkedIn"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:27
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Facebook account. "
+"<br />If you already have an account with %s, please log in using the form "
+"below to link it to your Facebook account. Otherwise, please enter an email "
+"address and a password on the form, and a username on the next page to "
+"create an account.<br />You will only do this step ONCE. Next time, you'll "
+"get logged in right away."
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"Facebook. <br /> Kama tayari una akaunti na % s, tafadhali tia saini kutumia "
+"fomu ya chini kwa kuiunganisha na akaunti yako ya Facebook. Kama sivyo, "
+"tafadhali weka anwani ya barua pepe na nenosiri kwa fomu, na jina la "
+"mtumiaji/jina la mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti. "
+"<br /> Utachukua hatua hii mara ya kwanza pekee. Wakati mwingine, utatia "
+"saini mara moja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:34
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Twitter account.<br /"
+">If you already have an account with %s, please log in using the form below "
+"to link it to your Twitter account. Otherwise, please enter an email address "
+"and a password on the form, and a username on the next page to create an "
+"account.<br > You will only do this step ONCE. Next time, you'll get logged "
+"in right away.</p>"
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"Twitter.<br /> Kama tayari una akaunti na %s, tafadhali tia saini kutumia "
+"fomu ya chini kwa kuiunganisha na akaunti yako ya Twitter. Kama sivyo, "
+"tafadhali weka anwani ya barua pepe na nenosiri kwa fomu, na jina la "
+"mtumiaji/jina la mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti.<br /"
+"> Utachukua hatua hii mara ya kwanza pekee. Wakati mwingine, utatia saini "
+"mara moja.</p>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:42
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"Google+. Kama tayari una akaunti, tafadhali tia saini kutumia fomu ya chini "
+"kwa kuiunganisha na akaunti yako ya Google+. Kama sivyo, tafadhali weka "
+"anwani ya barua pepe na nenosiri kwa fomu, na jina la mtumiaji/jina la "
+"mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti. Utachukua hatua hii "
+"mara ya kwanza pekee. Wakati mwingine, utatia saini mara moja.</p>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:49
+msgid ""
+"This seems to be your first time signing in using your Linkedin account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Linkedin  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+"Hii inaonekana kuwa mara yako ya kwanza kutia saini kutumia akaunti yako ya "
+"LinkedIn. Kama tayari una akaunti, tafadhali tia saini kutumia fomu ya chini "
+"kwa kuiunganisha na akaunti yako ya LinkedIn. Kama sivyo, tafadhali weka "
+"anwani ya barua pepe na nenosiri kwa fomu, na jina la mtumiaji/jina la "
+"mtumiaji kwenye ukurasa unaofuata ili kufungua akaunti. Utachukua hatua hii "
+"mara ya kwanza pekee. Wakati mwingine, utatia saini mara moja.</p>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:56
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:57
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:139
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:146
+#: D:\QAE\qaengine-v1.5.4/page-social-connect.php:42
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:67
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:57
+msgid "Email"
+msgstr "Barua pepe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:57
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:110
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:159
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:101
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:166
+#: D:\QAE\qaengine-v1.5.4/page-social-connect.php:43
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:19
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:72
+msgid "Password"
+msgstr "Nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:68
+#: D:\QAE\qaengine-v1.5.4/page-social-connect.php:53
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:62
+msgid "Username"
+msgstr "Jina la mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:160
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:45
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:48
+msgid "Facebook"
+msgstr "Facebook"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:168
+msgid "Plus"
+msgstr "Pamoja na"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:176
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:49
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:51
+msgid "Twitter"
+msgstr "Twitter"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/social/template.php:184
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template-js/add-pack-form.php:7
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/add-pack-form.php:4
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:80
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:121
+msgid "Enter a name for your badge"
+msgstr "Weka jina la beji hiyo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template-js/add-pack-form.php:12
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/add-pack-form.php:9
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:85
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:126
+#: D:\QAE\qaengine-v1.5.4/mobile/page-users.php:42
+msgid "Point"
+msgstr "Pointi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template-js/add-pack-form.php:16
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/add-pack-form.php:13
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:89
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:130
+msgid "Color"
+msgstr "Rangi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template.php:176
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template.php:219
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template.php:262
+msgid "Load more"
+msgstr "Pakia mengine"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/add-pack-form.php:20
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:96
+msgid "Add badge"
+msgstr "Weka beji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:24
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:80
+#: D:\QAE\qaengine-v1.5.4/single-question.php:90
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:17
+#: D:\QAE\qaengine-v1.5.4/template/pending-answer-loop.php:65
+#: D:\QAE\qaengine-v1.5.4/template/pending-question-loop.php:58
+msgid "Approve"
+msgstr "Kubali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:27
+msgid "Decline"
+msgstr "Kataa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:39
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:285
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:343
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:56
+msgid "Pending"
+msgstr "Isiyomalizika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:42
+msgid "Confirmed"
+msgstr "Thibitisho kamili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:45
+msgid "Failed"
+msgstr "Imeshindwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:66
+msgid " by "
+msgstr "kwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/order-item.php:78
+#, php-format
+msgid "This post has been deleted by %s"
+msgstr "Chapisho hili limefutwa na %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/post-item.php:11
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:123
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:162
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:60
+#, php-format
+msgid "%d points"
+msgstr "%d pointi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/template/user-item.php:39
+msgid "Comments"
+msgstr "Maoni"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/wc_integration/class-wc-integrate.php:80
+msgid "Select"
+msgstr "Chagua"
+
+#: D:\QAE\qaengine-v1.5.4/includes/aecore/wc_integration/payment/WC_Integrate_Visitor.php:47
+msgid "Got error, please contact site administrator"
+msgstr "Ina kosa, tafadhali wasiliana na msimamizi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:26
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:27
+msgid "Pack"
+msgstr "Pakiti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:28
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:12
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:352
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:892
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:572
+msgid "Add New"
+msgstr "Weka  mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:29
+msgid "Add New Pack"
+msgstr "Weka Pack mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:30
+msgid "Edit Pack"
+msgstr "Hariri Pack"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:31
+msgid "New Pack"
+msgstr "Pakiti mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:32
+msgid "All Packs"
+msgstr "Pack zote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:33
+msgid "View Pack"
+msgstr "Ona pakiti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:34
+msgid "Search Packs"
+msgstr "Tafuta kwa Pakiti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:35
+msgid "No Pack found"
+msgstr "Hakuna Pack Imepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:36
+msgid "NoPacks found in Trash"
+msgstr "Hakuna Pakiti zimepatikana kwa Takataka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:38
+msgid "Packs"
+msgstr "Pakiti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:246
+msgid "Vote up a question/answer"
+msgstr "Pigia swali/jibu Kura"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:247
+msgid "Leave comments on other people's posts"
+msgstr "Toa maoni kwa chapisho za watu wengine"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:248
+msgid "Vote down a question/answer"
+msgstr "Piga kura ya kinyume kwa swali/jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:250
+msgid "Add new tags to the site"
+msgstr "Weka Tag mpya kwenye tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:251
+msgid "Edit any question"
+msgstr "Hariri swali lolote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:252
+msgid "Edit any answer"
+msgstr "Hariri jibu lolote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:253
+msgid "Approve any answer"
+msgstr "Kubali jibu langu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/badges.php:298
+msgid "Default"
+msgstr "Chaguo-msingi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:10
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:11
+msgid "change log"
+msgstr "change log"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:13
+msgid "Add New log"
+msgstr "Weka log mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:14
+msgid "Edit log"
+msgstr "Hariri log"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:15
+msgid "New change log"
+msgstr "Change log mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:16
+msgid "All change logs"
+msgstr "Change Log zote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:17
+msgid "View change log"
+msgstr "Ona change  log"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:18
+msgid "Search change logs"
+msgstr "Tafuta kwa change logs"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:19
+msgid "No change log found"
+msgstr "Change Log Haijapatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:20
+msgid "Nochange logs found in Trash"
+msgstr "Hakuna Change Log imepatikana kwa Takataka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:22
+msgid "change logs"
+msgstr "change log"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:181
+#, php-format
+msgid "Your question \"%s\" was voted up, earned %d points"
+msgstr "Swali lako \"%s\" limepigiwa kura, likapata malipo ya pointi %d"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:187
+#, php-format
+msgid "Your answer on question \"%s\" was voted up, earned %d points"
+msgstr ""
+"Jibu lako kwa swali \"%s\" limepigiwa kura, likapata malipo ya pointi %d"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:215
+#, php-format
+msgid "Your question \"%s\" was voted down, earned %d points"
+msgstr ""
+"Swali lako \"%s\" limepigiwa kura ya kinyume, likapata malipo ya pointi %d"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:221
+#, php-format
+msgid "Your answer on question \"%s\" was voted down, earned %d points"
+msgstr ""
+"Jibu lako kwa swali \"%s\" limepigiwa kura ya kinyume, likapata malipo ya "
+"pointi %d"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:248
+#, php-format
+msgid "Your question \"%s\" was unvoted, return %d points"
+msgstr "Swali lako \"%s\" limetolewa kura, pointi %d ikabaki"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:253
+#, php-format
+msgid "Your answer on question \"%s\" was unvoted, return %d points"
+msgstr "Jibu lako kwa swali \"%s\" limetolewa kura, pointi %d ikabaki"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:280
+#, php-format
+msgid "Your answer on question \"%s\" was marked best answer, gain %d points"
+msgstr ""
+"Jibu lako kwa swali \"%s\" limechaguliwa kama jibu bora, likaleta mapato ya "
+"pointi %d"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:307
+#, php-format
+msgid "Your best answer on question \"%s\" was undo, gain %d points"
+msgstr ""
+"Jibu lako bora kwa swali \"%s\" limetenguliwa, likaleta mapato ya pointi %d"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:334
+#, php-format
+msgid "You answered on question \"%s\""
+msgstr "Umetoa jibu kwa swalli \"%s\""
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:339
+#, php-format
+msgid "Your posted a question \"%s\" "
+msgstr "Ulichapisha swali \"%s\"."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:367
+#, php-format
+msgid "You question on question \"%s\" was edited"
+msgstr "Swali lako \"%s\" lilihaririwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:372
+#, php-format
+msgid "Your answer on question \"%s was edited\""
+msgstr "Jibu lako kwa swali \"%s\" lilihaririwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:407
+msgid "This is default text."
+msgstr "Haya maandishi ni chaguo msingi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:413
+#, php-format
+msgid "Your answer on question %s was voted up."
+msgstr "Swali lako kwa swali %s limepigiwa kura."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:415
+#, php-format
+msgid "You voted up an answer on question %s."
+msgstr "Umepiga kura kwa jibu la swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:423
+#, php-format
+msgid "Your answer on question %s was voted down."
+msgstr "Jibu lako kwa swali %s limepigiwa kura ya kinyume."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:425
+#, php-format
+msgid "Your voted down an answer on question %s."
+msgstr "Umepiga kura ya kinyume kwa jibu la swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:434
+#, php-format
+msgid "Your question %s was voted up."
+msgstr "Swali lako %s limepigiwa kura."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:436
+#, php-format
+msgid "You voted up question %s."
+msgstr "Umepiga kura kwa swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:445
+#, php-format
+msgid "Your question %s was voted down."
+msgstr "Swali lako %s limepigiwa kura ya kinyume."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:447
+#, php-format
+msgid "You voted down question %s."
+msgstr "Umepiga kura ya kinyume kwa swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:453
+#, php-format
+msgid "You asked %s."
+msgstr "Uliuliza %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:460
+#, php-format
+msgid "Your question %s was edited."
+msgstr "Swali lako %s limehaririwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:462
+#, php-format
+msgid "You edited question %s."
+msgstr "Umehariri swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:469
+#, php-format
+msgid "You answered question %s."
+msgstr "Umejibu swalli %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:477
+#, php-format
+msgid "Your answer on question %s was edited."
+msgstr "Jibu lako kwa swali %s lilihaririwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:479
+#, php-format
+msgid "You edited answer on question %s."
+msgstr "Umehariri jibu kwa swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:486
+#, php-format
+msgid "Your question %s was unvoted."
+msgstr "Swali lako %s limetolewa kura"
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:488
+#, php-format
+msgid "You unvoted question %s."
+msgstr "Umetoa kura kwa swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:496
+#, php-format
+msgid "Your answer on question %s was unvoted."
+msgstr "Jibu lako kwa swali %s limetolewa kura."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:498
+#, php-format
+msgid "Your unvoted an answer on question %s."
+msgstr "Umetoa kura kwa jibu la swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:505
+#, php-format
+msgid "Your answer on question %s was marked as the accepted answer."
+msgstr "Jibu lako kwa swali %s limechaguliwa kama bora Zaidi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:507
+#, php-format
+msgid "You marked question %s was answered."
+msgstr "Uliweka alama kwamba swali %s lilijibiwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:514
+#, php-format
+msgid "Your best answer on question %s was unaccepted."
+msgstr "Jibu lako lilioidhinishwa kama bora kwa swali %s, limetenguliwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/changelog.php:516
+#, php-format
+msgid "You changed the best answer on question %s."
+msgstr "Uligeuza jibu bora kwa swali %s."
+
+#: D:\QAE\qaengine-v1.5.4/includes/customizer.php:25
+msgid "QA Options"
+msgstr "Chaguzi cha SJ"
+
+#: D:\QAE\qaengine-v1.5.4/includes/customizer.php:28
+msgid "Allows you to customize some example settings for QAEngine."
+msgstr ""
+"Inakuruhusu kufanya marekebisho kwa mipangilio ya mifano kwa injini ya SJ."
+
+#: D:\QAE\qaengine-v1.5.4/includes/customizer.php:83
+msgid "Link Color"
+msgstr "Rangi ya anwani"
+
+#: D:\QAE\qaengine-v1.5.4/includes/customizer.php:94
+msgid "Main Action Color"
+msgstr "Rangi ya Hatua Kuu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/customizer.php:105
+msgid "Sidebar Background Color"
+msgstr "Rangi ya Usuli ya Sidebar"
+
+#: D:\QAE\qaengine-v1.5.4/includes/customizer.php:116
+msgid "Header Background Color"
+msgstr "Rangi ya Usuli wa Header"
+
+#: D:\QAE\qaengine-v1.5.4/includes/customizer.php:127
+msgid "Header Menus Background Color"
+msgstr "Rangi ya Usuli wa Menu za Header"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:192
+msgid "You need to verify your account to view the content."
+msgstr "Lazima uthibitishe akaunti yako ndio uone maudhui hayo."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:498
+msgid "Congratulations! Your account has been confirmed successfully."
+msgstr "Hongera! Akaunti yako imethibitishwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:576
+msgid "You must log in to post question."
+msgstr "Lazima utie saini ndio uulize swali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:579
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:687
+msgid "Post title should not contain any HTML Tag."
+msgstr "Kichwa cha chapisho haifai kuwa na Tag ya HTML."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:584
+msgid "You don't have enough point to add a comment."
+msgstr "Huna pointi za kutosha kutoa maoni."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:596
+msgid "An error occur when created comment."
+msgstr "Kosa limetendeka maoni yakichapishwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:601
+msgid "Comment has been created successfully."
+msgstr "Maoni yamechapishwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:615
+msgid "An error occur when created answer."
+msgstr "Kosa limetendeka jibu likichapishwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:618
+msgid ""
+"Your answer has been created successfully and need to be approved by Admin "
+"before displayed!"
+msgstr ""
+"Jibu lako limewekwa kwa mafanikio na inahitaji idhini ya msimamizi kabla "
+"kuonyeshwa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:618
+msgid "Answer has been created successfully."
+msgstr "Jibu limechapishwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:632
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1010
+msgid "Please enter a valid captcha!"
+msgstr "Tafadhali weka captcha halali!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:647
+msgid ""
+"Your question has been created successfully. It'll appear right after being "
+"approved by admin."
+msgstr "Swali lako limetungwa. Litaonyeshwa baada ya kupitishwa na msimamizi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:647
+msgid "Question has been created successfully."
+msgstr "Swali limechapishwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:653
+msgid "An error occur when created question."
+msgstr "Kosa limetendeka swali likichapishwa."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:683
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:887
+msgid "Invalid action"
+msgstr "Kitendo batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:693
+msgid "You don't have enough point to vote up."
+msgstr "Huna pointi ya kutosha kupiga kura."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:695
+msgid "You don't have enough point to vote down."
+msgstr "Huna pointi ya kutosha kupiga kura ya kinyume."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:711
+msgid "Only question author can mark answered."
+msgstr ""
+"Mwandishi wa swali pekee ndiye anaweza kutia alama kuwa swali limejibiwa. "
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:779
+msgid "Question has been saved successfully."
+msgstr "Swali limehifadhiwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:806
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:355
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:295
+msgid "New Question"
+msgstr "Swali lipya"
+
+# I suggest "...why don't you take a look at it"
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:807
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:296
+msgid "There's a new post, why don't you give a look at"
+msgstr "Kuna chapisho mpya, mbona usiiangalie"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:816
+msgid "You've just successfully approved a question."
+msgstr "Umeidhinisha swali kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:825
+msgid "You've just successfully approved an answer."
+msgstr "Umeidhinisha jibu kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:842
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1208
+msgid "Login required"
+msgstr "Kutia saini kunahitajika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:848
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:1023
+msgid "Error occurred"
+msgstr "Kuna kosa lililotokea"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:851
+msgid "You have started following this question."
+msgstr "Umeanza kufuata swali hili."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:853
+msgid "You have stopped following this question."
+msgstr "Umeacha kufuata swali hili."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:868
+msgid "Invalid post"
+msgstr "Chapisho batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:875
+msgid "You have reported successfully"
+msgstr "Umefika kwa mafanikio"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:881
+msgid "Error when reported!"
+msgstr "Kosa taarifa ikitolewa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:922
+msgid "Image file size is too big.Size must be less than < 1MB."
+msgstr ""
+"Kipimo cha faili ya picha imepita kiwango. Kipimo lazima iwe chini ya <1MB."
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:937
+msgid "The file was uploaded successfully"
+msgstr "Mafanikio kwa kupakia faili!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:1027
+msgid "Comment deleted successfully!"
+msgstr "Maoni yamefutwa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:1035
+msgid "Answer deleted successfully!"
+msgstr "Jibu limefutwa kwa mafanikio!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/front.php:1041
+msgid "Question deleted successfully!"
+msgstr "Swali limefutwa!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:247
+msgid "An error occur when created sign up"
+msgstr "Kosa limetendeka kuandikishwa ikiendelea."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:269
+msgid "Member not found"
+msgstr "Mwanachama hajapatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:415
+#, php-format
+msgid "You have been banned from %s"
+msgstr "Umepigwa marufuku kwa %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:664
+msgid "Your account has been deleted successfully."
+msgstr "Akaunti yako imefutwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:716
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:750
+msgid "Your profile has been updated!"
+msgstr "Profile yako imesasishwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:723
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:731
+msgid "This email is already used. Please enter another email!"
+msgstr ""
+"Hii barua pepe tayari imetumika. Tafadhali weka anwani nyingine ya barua "
+"pepe."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:787
+msgid "Please enter all required information to reset your password."
+msgstr "Tafadhali weka maelezo yote yanayohitajika kutunga nenosiri lako upya."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:790
+msgid "Confirmed password does not matched"
+msgstr "Nenosiri lililothibitishwa halilingani"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:797
+msgid "Old password is not correct."
+msgstr "Nenosiri nzee si sahihi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:801
+msgid "Your new password cannot be empty."
+msgstr "Nenosiri lako lipya haliwezi kuwa tupu."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:812
+msgid "Your password was changed! Please login again!"
+msgstr "Nenosiri lako liligeuzwa! Tafadhali tia saini tena!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:849
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:905
+msgid "Your login information was incorrect. Please try again."
+msgstr "Maelezo yako ya kutia saini hayako sahihi. Tafadhali jaribu tena."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:867
+#, php-format
+msgid "Your account has been banned. Reason \"%s\". Expired on \"%s\"."
+msgstr "Akaunti yako imepigwa marufuku. Sababu ni \"%s\". Tamati ni \"%s\"."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:915
+msgid "You have logged out"
+msgstr "Umetoka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:935
+msgid "Missing user data"
+msgstr "Bila data ya mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:978
+msgid "User logo has been uploaded successfully!"
+msgstr "Alama ya mtumiaji imepakiwa kwa mafanikion"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:983
+msgid "Problem occurred while updating user field"
+msgstr "Tatizo limetokea nafasi ikifanyiwa sasisho"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1026
+msgid ""
+"You have registered an account successfully but are not able to join the "
+"discussions yet. Please confirm your email address first."
+msgstr ""
+"Umeandikisha akaunti kwa mafanikio lakini bado huwezi kuingia kwenye "
+"mijadala. Tafadhali thibitisha anwani ya barua pepe kwanza."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1026
+msgid "You are registered and logged in successfully."
+msgstr "Umeandikishwa na ukatia saini kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1052
+msgid "<strong>ERROR</strong>: Enter username or email address."
+msgstr "<strong>KOSA</strong>: Weka jina la mtumiaji ama barua pepe."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1056
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+"<strong>KOSA</strong>: Hakuna mtumiaji aliyejiandikisha kutumia hiyo anwani "
+"ya barua pepe."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1076
+msgid "Please check your email inbox to reset password."
+msgstr ""
+"Tafadhali angalia kikasha barua cha barua pepe ili kuweka upya nenosiri."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1086
+msgid "This user is not found."
+msgstr "Huyu mtumiaji hakupatikana."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1088
+msgid "Invalid Key"
+msgstr "Ufunguo batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1109
+msgid "Your password has been changed. Please log in again."
+msgstr "Nenosiri lako limegeuzwa. Tafadhali tia saini tena."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1128
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1257
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1292
+msgid "You don't have permission"
+msgstr "Huna ruhusa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1133
+msgid "Required user ID."
+msgstr "User ID inahitajika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1142
+msgid "User has been confirmed"
+msgstr "Mtumiaji amethibitisha"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1175
+msgid "No result found"
+msgstr "Hakuna Matokeo Yamepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1220
+msgid "New Private Message From "
+msgstr "Ujumbe Mpya wa Kibinafsi Kutoka Kwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1233
+msgid "Email sending failed."
+msgstr "Kutumwa kwa barua pepe kumeshindwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1238
+msgid "Message was sent successfully."
+msgstr "Ujumbe ulitumwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1269
+msgid "User has been banned"
+msgstr "Mtumiaji amepigwa marufuku"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1305
+msgid "User has been unbanned"
+msgstr "Mtumiaji amekubaliwa baada ya kupigwa marufuku"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1440
+msgid "This email address was not found."
+msgstr "Hii anwani ya barua pepe haikupatikana."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1456
+msgid "Username is invalid"
+msgstr "Jina la mtumiaji ni batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1505
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1508
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1514
+msgid "Invalid key"
+msgstr "Ufunguo batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1534
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr "<strong>KOSA</strong>: Jina la mtumiaji ama barua pepe invalid."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1564
+msgid "There is a request to reset the password for the following account:"
+msgstr " Kuna ombi la nenosiri lipya kutoka kwa akaunti hii:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1566
+#, php-format
+msgid "Username: %s"
+msgstr "Jina la mtumiaji: %s"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1567
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Kama hii ilikuwa kosa, puuza hii barua pepe na hakuna kitakachofanyika."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1568
+msgid "To reset your password, visit the following link:"
+msgstr "Ili kutunga nenosiri lipya, tumia hii anwani ya wavuti:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1586
+msgid "The email could not be sent."
+msgstr "Barua pepe haikuweza kutumwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1586
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Possible reason: your host may have disabled the mail() function..."
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1632
+msgid "1 Day"
+msgstr "Siku 1"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1636
+msgid "3 Days"
+msgstr "Siku 3"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1640
+msgid "7 Days"
+msgstr "Siku 7"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1644
+msgid "15 Days"
+msgstr "Siku 15"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1648
+msgid "1 Month"
+msgstr "Mwezi 1"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1652
+msgid "3 Months"
+msgstr "Miezi 3"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1656
+msgid "6 Months"
+msgstr "Miezi 6"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1660
+msgid "1 Year"
+msgstr "Mwaka 1"
+
+#: D:\QAE\qaengine-v1.5.4/includes/members.php:1664
+msgid "Forever"
+msgstr "Milele"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:68
+msgid "Missing Author"
+msgstr "Bila Mwandishi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:98
+msgid "Thread not found!"
+msgstr "Uzi/thread haikupatikana."
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:128
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:645
+msgid "Category is not existed!"
+msgstr "Kikundi hakiko!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:351
+msgid "Question"
+msgstr "Swali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:353
+msgid "Add New Question"
+msgstr "Uliza swali mpya "
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:354
+msgid "Edit Question"
+msgstr "Hariri Swali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:357
+msgid "View Question"
+msgstr "Ona jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:358
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:253
+msgid "Search Questions"
+msgstr "Tafuta kwa maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:359
+msgid "No questions found"
+msgstr "Hakuna maswali yamepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:360
+msgid "No questions found in Trash"
+msgstr "Hakuna maswali yamepatikana kwa takataka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:382
+msgid "Question Categories"
+msgstr "Vkundi vya Maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:383
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:392
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:43
+#: D:\QAE\qaengine-v1.5.4/mobile/archive-question.php:17
+#: D:\QAE\qaengine-v1.5.4/mobile/taxonomy.php:17
+msgid "Category"
+msgstr "Kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:384
+msgid "Search Categories"
+msgstr "Tafuta kwa vikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:385
+msgid "All Categories"
+msgstr "Vikundi vyote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:386
+msgid "Parent Category"
+msgstr "Kikundi kizazi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:387
+msgid "Parent Category:"
+msgstr "Kikundi kizazi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:388
+msgid "Edit Category"
+msgstr "Hariri Kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:389
+msgid "Update Category"
+msgstr "Sasisha kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:390
+msgid "Add New Category"
+msgstr "Weka kikundi kipya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:391
+msgid "New Category Name"
+msgstr "Jina lipya la kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:404
+msgid "Search Tags"
+msgstr "Tafuta kwa tags"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:405
+msgid "Popular Tags"
+msgstr "Tag Maarufu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:406
+msgid "All Tags"
+msgstr "Tag zote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:409
+msgid "Edit Tag"
+msgstr "Hariri Tag"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:410
+msgid "Update Tag"
+msgstr "Sasisha tag"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:411
+msgid "Add New Tag"
+msgstr "Weka Tag mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:412
+msgid "New Tag Name"
+msgstr "Jina lipya la Ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:413
+msgid "Separate tags with commas"
+msgstr "Tenga Tag kutumia mkato"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:414
+msgid "Add or remove tags"
+msgstr "Weka ama toa Tag"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:415
+msgid "Choose from the most used tags"
+msgstr "Chagua kwenye tag zilizotumika zaidi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:416
+msgid "No tags found."
+msgstr "Hakuna Tag imepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:417
+#: D:\QAE\qaengine-v1.5.4/mobile/page-tags.php:19
+#: D:\QAE\qaengine-v1.5.4/page-tags.php:16
+msgid "Tags"
+msgstr "Tag"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:461
+msgid "Required Log In"
+msgstr "Kutia saini kunahitajika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:520
+#, php-format
+msgid "You must have %d points to edit question."
+msgstr "Lazima uwe na ponti %d kuhariri swali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:643
+msgid "Category must not empty"
+msgstr "Kikundi hakiwezi kuwa bure"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:730
+msgid "Permission denied"
+msgstr "Umekatazwa Ruhusa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:891
+msgid "Answer"
+msgstr "Jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:893
+msgid "Add New Answer"
+msgstr "Weka Jibu lipya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:894
+msgid "Edit Answer"
+msgstr "Hariri jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:895
+msgid "New Answer"
+msgstr "Jibu lipya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:896
+msgid "All Answers"
+msgstr "Majibu Yote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:897
+msgid "View Answer"
+msgstr "Ona jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:898
+msgid "Search Answers"
+msgstr "Tafuta kwa majibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:899
+msgid "No answers found"
+msgstr "Hakuna majibu yamepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:900
+msgid "No answers found in Trash"
+msgstr "Hakuna Majibu Yamepatikana kwa Takataka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:986
+#, php-format
+msgid "You must have %d points to edit answer."
+msgstr "Lazima uwe na ponti %d kuhariri jibu."
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:1065
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:1193
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:131
+#: D:\QAE\qaengine-v1.5.4/single-question.php:176
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:118
+#, php-format
+msgid "Comment(%d) "
+msgstr "Maoni(%d)"
+
+#: D:\QAE\qaengine-v1.5.4/includes/questions.php:1082
+msgid "Login Required"
+msgstr "Kutia Saini Kunahitajika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:46
+msgid "User Level"
+msgstr "Kiwango cha mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/section-badges.php:74
+msgid "Are you sure you want to delete this badge?"
+msgstr "Uko na hakika unataka kufuta beji hii?"
+
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:176
+msgid "Can't not authenticate user"
+msgstr "Haiwezi kuthibitisha mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:698
+#: D:\QAE\qaengine-v1.5.4/includes/social_auth.php:704
+msgid "Please login by using your Google plus account again!"
+msgstr "Tafadhali tia saini na akaunti yako ya Google plus tena!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:242
+#: D:\QAE\qaengine-v1.5.4/sidebar-left-tablet.php:6
+#: D:\QAE\qaengine-v1.5.4/sidebar-left.php:5
+msgid "ASK A QUESTION"
+msgstr "ULIZA SWALI"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:265
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:321
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:82
+#: D:\QAE\qaengine-v1.5.4/page-tags.php:36
+msgid "Latest"
+msgstr "Ya Leo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:270
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:325
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:87
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:162
+#: D:\QAE\qaengine-v1.5.4/single-question.php:220
+msgid "Votes"
+msgstr "Kura"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:275
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:336
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:92
+msgid "Unanswered"
+msgstr "Lisilo na jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:294
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:1023
+msgid "Filter by category"
+msgstr "Chuja kutumia kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:350
+msgid "Questions Per Page: "
+msgstr "Maswali kwa kila ukurasa:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:466
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:27
+msgid "Select Category"
+msgstr "Chagua kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:626
+#, php-format
+msgid "%s today, %s this week, %s this month."
+msgstr "%s leo, %s wiki huu, %s mwezi huu."
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:821
+msgid "year"
+msgstr " mwaka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:822
+msgid "month"
+msgstr "mwezi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:823
+msgid "day"
+msgstr "siku"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:824
+msgid "hour"
+msgstr "saa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:825
+msgid "minute"
+msgstr "dakika"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:826
+msgid "second"
+msgstr "ya pili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:940
+#, php-format
+msgid "You must have %d points to add comment."
+msgstr "Lazima uwe na ponti %d kutoa maoni."
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:944
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:99
+msgid "Add Comment"
+msgstr "Weka Maoni"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:958
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1028
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:129
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:132
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:67
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:70
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:119
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:113
+msgid "Add comment"
+msgstr "Weka maoni"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:978
+#, php-format
+msgid ""
+"By posting your answer, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+"Kwa kuchapisha jibu lako unaonyesha kwamba umesoma na kukubaliana na <a "
+"target=\"_blank\" href=\"%s\">sera ya siri</a> na <a target=\"_blank\" href="
+"\"%s\">masharti ya huduma.</a>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/template.php:978
+#, php-format
+msgid ""
+"By posting your question, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+"Kwa kuchapisha swali lako unaonyesha kwamba umesoma na kukubaliana na <a "
+"target=\"_blank\" href=\"%s\">sera ya siri</a> na <a target=\"_blank\" href="
+"\"%s\">masharti ya huduma.</a>"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:125
+msgid "marked"
+msgstr "imetiwa alama"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:125
+msgid "unmarked"
+msgstr "bila alama"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:130
+#, php-format
+msgid "[%s] Your answer has been marked as the best."
+msgstr "[%s] Jibu lako limechaguliwa kama bora Zaidi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:166
+#, php-format
+msgid "[%s] New pending question has been created."
+msgstr "[%s] Swali lipya isiyomalizika imetungwa."
+
+# not sure if [new answer] is to be translated. If so, use [jibu jipya]
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:207
+#, php-format
+msgid "[New Answer] Your question %s has a new reply."
+msgstr "[New Answer] Swali lako %s lina jibu lipya."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:315
+msgid "Confirm this user"
+msgstr "Thibitisha mtumiaji huyu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:424
+msgid "Password updated successfully!"
+msgstr "Nenosiri limesasishwa kwa mafanikio."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:493
+msgid "Menu display on Header"
+msgstr "Kuonyesha menu kwa Header"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:494
+msgid "Menu display on Left Sidebar"
+msgstr "Kuonyesha menu kwa sidebar ya kushoto"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:499
+msgid "Left Sidebar"
+msgstr "Sidebar ta kushoto"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:501
+msgid "Display widgets in left sidebar"
+msgstr "Onyesha widgets kwenye sidebar ya kushoto"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:504
+msgid "Right Sidebar"
+msgstr "Sidebar ya kulia"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:506
+msgid "Display widgets in right sidebar"
+msgstr "Onyesha widgets kwenye sidebar ya kulia"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:511
+msgid "Header Sidebar"
+msgstr "Sidebar ya Header"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:513
+msgid "Display widgets in header sidebar"
+msgstr "Onyesha widgets kwenye sidebar ya header"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:518
+msgid "Blog's Left Sidebar"
+msgstr "Sidebar ya kushoto wa blogu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:520
+msgid "Display widgets in blog's left sidebar"
+msgstr "Onyesha widgets kwenye sidebar ya kushoto wa blogu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:523
+msgid "Blog's Right Sidebar"
+msgstr "Sidebar ya kulia wa blogu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:525
+msgid "Display widgets in blog's right sidebar"
+msgstr "Onyesha widgets kwenye sidebar ya kulia wa blogu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:530
+msgid "Single Question Sidebar"
+msgstr "Sidebar ya Swali moja"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:532
+msgid "Display widgets in single question sidebar"
+msgstr "Onyesha widgets kwenye sidebar ya swali moja"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:536
+msgid "Top Questions Listing Ads Banner Sidebar"
+msgstr "Ad Banner Sidebar ya maswali maaarufu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:538
+msgid "Display ad banners widgets in top questions listing sidebar"
+msgstr ""
+"Onyesha ad banner widget  kwenye orodha ya maswali katika eneo la kando la "
+"tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:542
+msgid "Bottom Ads Banner Sidebar"
+msgstr "Ad Banner Sidebar ambayo iko chini"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:544
+msgid "Display ad banners widgets in bottom of website"
+msgstr "Onyesha ad banner widget eneo la chini la tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:548
+msgid "Content Question Ad Banner Sidebar"
+msgstr "Ad Banner Sidebar iliyo katika maudhui yenye maswali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:550
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:556
+msgid "Display ad banners widgets in bottom questions listing sidebar"
+msgstr ""
+"Onyesha ad banner widget  kwenye orodha ya maswali katika eneo la chini la "
+"tovuti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:554
+msgid "Below Answers Listing Ad Banner Sidebar"
+msgstr "Ad Banner Sidebar ambayo iko chini ya majibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:570
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:582
+msgid "Reports"
+msgstr "Ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:571
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:107
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:50
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:96
+#: D:\QAE\qaengine-v1.5.4/single-question.php:84
+#: D:\QAE\qaengine-v1.5.4/single-question.php:170
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:85
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:41
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:111
+msgid "Report"
+msgstr "Ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:573
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:609
+msgid "Add New Report"
+msgstr "Weka ripoti mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:574
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:607
+msgid "Edit Report"
+msgstr "Hariri Ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:575
+msgid "New Report"
+msgstr "Ripoti mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:576
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:604
+msgid "All Reports"
+msgstr "Ripoti zote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:577
+msgid "View Report"
+msgstr "Ona Ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:578
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:602
+msgid "Search Reports"
+msgstr "Tafuta kwa ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:579
+msgid "No Reports found"
+msgstr "Hakuna Ripoti Imepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:580
+msgid "No Reports found in Trash"
+msgstr "Hakuna Ripoti Imepatikana kwa Takataka"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:603
+msgid "Popular Reports"
+msgstr "Ripoti Maarufu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:608
+msgid "Update Report"
+msgstr "Sasisha ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:610
+msgid "New Report Name"
+msgstr "Jina lipya la Ripoti "
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:611
+msgid "Separate Reports with commas"
+msgstr "Tenga Ripoti kutumia mkato"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:612
+msgid "Add or remove Reports"
+msgstr "Weka ama toa ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:613
+msgid "Choose from the most used Reports"
+msgstr "Chagua kwenye Ripoti zilizotumika zaidi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:614
+msgid "No Reports found."
+msgstr "Hakuna Ripoti Imepatikana."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:615
+msgid "Reports taxonomy"
+msgstr "Jamii ya ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:633
+msgid "Report Information"
+msgstr "Maelezo ya Ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:714
+msgid "There's a new report "
+msgstr "Kuna ripoti mpya"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1012
+msgid "Please fill out all fields required."
+msgstr "Tafadhali jaza nafasi yote yanayohitajika."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1013
+msgid "Please enter your user name."
+msgstr "Tafadhali weka jina lako la mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1015
+msgid "Please enter a valid username."
+msgstr "Tafadhali weka jina la mtumiaji halali."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1016
+msgid "Please enter the same password as above."
+msgstr "Tafadhali weka nenosiri sawa na ya juu."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1018
+msgid "You must accept the term & privacy."
+msgstr "Lazima ukubali sharti na faragha."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1021
+msgid "You must be logged in to perform this action."
+msgstr "Lazima uwe umetia saini kutekeleza hatua hii."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1022
+msgid "You don't have enought points to perform this action."
+msgstr "Huna pointi ya kutosha kutekeleza hatua hii."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1023
+msgid "Create Topic"
+msgstr "Tunga Mada"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1025
+msgid "Insert Code"
+msgstr "Weka msimbo"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1026
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:16
+msgid "No file chosen."
+msgstr "Faili haijachaguliwa"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1027
+msgid "Please insert at least one tag."
+msgstr "Tafadhali weka angalau Tag moja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1030
+msgid "Sign Up"
+msgstr "Jiandikishe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1031
+#: D:\QAE\qaengine-v1.5.4/mobile/header.php:85
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:9
+msgid "Sign In"
+msgstr "Tia saini"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1033
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:70
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:51
+msgid "Best answer"
+msgstr "Jibu bora zaidi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1034
+msgid "Forgot Password"
+msgstr "Umesahau Nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1035
+msgid "You have made some changes which you might want to save."
+msgstr "Umefanya mabadiliko ambayo pengine ungependa kuhifadhi."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1036
+msgid "You must activate your account first to create questions / answers!."
+msgstr "Lazima uamilishe akaunti yako kabla ya kuuliza maswali ama kujibu!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1037
+msgid "User cancelled login or did not fully authorize."
+msgstr "Mtumiaji hakutia saini ama hakupeana ruhusa ya kutosha."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1038
+msgid "You account has been banned, you can't make this action!"
+msgstr "Akaunti yako imepigwa marufuku, huwezi kufanya tendo hili."
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1052
+msgid "Post link"
+msgstr "Anwani ya chapisho"
+
+#: D:\QAE\qaengine-v1.5.4/includes/theme.php:1064
+msgid "Unable to get post link"
+msgstr "Anwani ya chapisho haikupatikana"
+
+#: D:\QAE\qaengine-v1.5.4/includes/update.php:159
+msgid "Key is invalid"
+msgstr "Ufunguo ni batili"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:6
+msgid ""
+"Drag this widget to single sidebars to display a list of related questions."
+msgstr ""
+"Kokota hii widget uiweke kwa sidebar kuonyesha orodha ya maswali yaliyo na "
+"uhusiano."
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:8
+msgid "QA Related Questions"
+msgstr "Maswali ya SJ yaliyo na mhusiano"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:20
+msgid "RELATED QUESTIONS"
+msgstr "MASWALI YALIYO NA MHUSIANO"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:27
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:155
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:285
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:326
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:390
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:590
+msgid "Title:"
+msgstr "Kichwa:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:33
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:161
+msgid "Number of questions to display:"
+msgstr "Nambari ya maswali ya kuonyeshwa:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:39
+msgid "Questions base on:"
+msgstr "Swali kulingana na:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:46
+msgid "Tag"
+msgstr "Tag"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:105
+msgid "There are no related questions!"
+msgstr "Hakuna maswali yaliyo na uhusiano!"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:125
+msgid "This widget should be placed in Single Question Sidebar"
+msgstr "Hii widget inafaa kuwekwa kwa sidebar ya swali mmoja."
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:137
+msgid "Drag this widget to any sidebars to display a list of hot questions."
+msgstr ""
+"Kokota hii widget uiweke kwa sidebar yoyote kuonyesha orodha ya maswali "
+"motomoto."
+
+# I recommend th acronym SJ for QA since it stands for Swali/Question na/and Jibu/Answer
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:139
+msgid "QA Latest Questions / Hot Questions"
+msgstr "SJ Maswali ya Leo/Maswali Motomoto"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:151
+msgid "HOT QUESTIONS"
+msgstr "MASWALI MOTO"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:167
+msgid "Latest questions (sort by date)"
+msgstr "Maswali ya leo (panga kutumia tarehe)"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:173
+msgid "Date range:"
+msgstr "Range ya Tarehe"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:177
+msgid "All days"
+msgstr "Siku zote"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:180
+msgid "Last 7 days"
+msgstr "Siku 7 zilipita"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:183
+msgid "Last 30 days"
+msgstr "Siku 30 zilizopita"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:272
+msgid "Drag this widget to sidebar to display the statistic of website."
+msgstr "Kokota hii widget uiweke kwa sidebar kuonyesha takwimu za tovuti."
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:274
+msgid "QA Statistics"
+msgstr "Takwimu za SJ"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:282
+msgid "STATISTICS WIDGET"
+msgstr "WIDGET YA TAKWIMU"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:313
+msgid "Drag this widget to sidebar to display the list of tags."
+msgstr "Kokota hii widget uiweke kwa sidebar kuonyesha orodha ya tags."
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:315
+msgid "QA Tags"
+msgstr "Tag za SJ"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:323
+msgid "Tags Widget"
+msgstr "Widget ya Tag"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:330
+msgid "Number of tag to display:"
+msgstr "Nambari ya Tag za kuonyeshwa:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:355
+msgid "See more tags"
+msgstr "Onyesha tag zingine"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:366
+msgid "Drag this widget to sidebar to display the list of top users."
+msgstr ""
+"Kokota hii widget uiweke kwa sidebar kuonyesha orodha  ya watumiaji bora."
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:372
+msgid "QA Top Users"
+msgstr "Watumiaji bora wa SJ"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:383
+msgid "TOP USERS"
+msgstr "WATUMIAJI WA JUU"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:394
+msgid "Number of users to display:"
+msgstr "Nambari ya Watumiaji wa kuonyeshwa:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:399
+msgid "Latest users (sort by date)"
+msgstr "Watumiaji wa leo (panga kutumia tarehe)"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:404
+msgid "Order By:"
+msgstr "Order na:"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:539
+#, php-format
+msgid "%d Question(s)"
+msgstr "%d (Ma)swali"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:546
+#, php-format
+msgid "%d Answer(s)"
+msgstr "%d (ma)jibu"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:551
+#, php-format
+msgid "%d Point(s)"
+msgstr "%d pointi"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:576
+msgid "Drag this widget to sidebar to display the list of user's activities."
+msgstr ""
+"Kokota hii widget uiweke kwa sidebar kuonyesha orodha ya shughuli ya "
+"watumiaji."
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:578
+msgid "QA Recent Activities"
+msgstr "Shughuli za SJ za hivi karibuni"
+
+#: D:\QAE\qaengine-v1.5.4/includes/widget.php:594
+msgid "Number of activities to display:"
+msgstr "Nambari ya Shughuli za kuonyeshwa:"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/archive-question.php:23
+#: D:\QAE\qaengine-v1.5.4/mobile/page-questions.php:23
+#: D:\QAE\qaengine-v1.5.4/mobile/page-search.php:24
+#: D:\QAE\qaengine-v1.5.4/mobile/taxonomy.php:23
+msgid "Select Categories"
+msgstr "Chagua vikundi"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/author.php:99
+msgid "Enter keyword"
+msgstr "Weka neno kuu"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/category.php:23
+msgid "Find a blog"
+msgstr "Tafuta blogu"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/category.php:43
+#: D:\QAE\qaengine-v1.5.4/mobile/index.php:43
+msgid "No posts yet."
+msgstr "Hakuna Chapisho bado."
+
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:16
+#: D:\QAE\qaengine-v1.5.4/template/modal-question.php:32
+#, php-format
+msgid ""
+"You must have %d points to add tag. Current, you have to select existed tags."
+msgstr "Lazima uwe na ponti %d kuweka tag. Wakati huu, chagua tag zilizopo."
+
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:21
+#: D:\QAE\qaengine-v1.5.4/template/modal-question.php:20
+msgid "Your Question"
+msgstr "Swali lako"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:41
+msgid "Your Description"
+msgstr "Maelezo yako"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:44
+#: D:\QAE\qaengine-v1.5.4/template/modal-question.php:27
+msgid "Tag(max 5 tags)"
+msgstr "Tag(Isipite tag 5)"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:53
+#: D:\QAE\qaengine-v1.5.4/template/modal-question.php:12
+msgid "Ask a Question"
+msgstr "Uliza Swali"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:55
+msgid "Submit"
+msgstr "Tuma"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/functions.php:128
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:66
+msgid "Type your comment"
+msgstr "Chapisha maoni yako"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/header.php:4
+msgid "MOBILE VERSION"
+msgstr "TOLEO LA RUNUNU"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/header.php:73
+msgid "User Setting"
+msgstr "Mpangilio wa Mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/header.php:76
+msgid "Sign Out"
+msgstr "Toka"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:18
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:36
+msgid "Change Profile"
+msgstr "Geuza Profile"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:21
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:35
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:78
+msgid "Change Password"
+msgstr "Geuza Nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:37
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:42
+msgid "Full name"
+msgstr "Majina kamili"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:41
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:45
+msgid "Location"
+msgstr "Maeneo"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:53
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:54
+msgid "Google+"
+msgstr "Google+"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:58
+msgid "admin@local.com"
+msgstr "admin@local.com"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:62
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:59
+msgid "Make this email public."
+msgstr "Fanya hii barua pepe iwe ya umma."
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:65
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:63
+msgid "Description"
+msgstr "Maelezo"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:79
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:72
+msgid "Old Password"
+msgstr "Nenosiri nzee"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:83
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:74
+msgid "New Password"
+msgstr "Nenosiri lipya"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-author-setting.php:87
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:76
+msgid "Repeat New Password"
+msgstr "Rudia nenosiri lipya"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:18
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:16
+msgid "Badges"
+msgstr "Beji"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:37
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:21
+msgid "Points System"
+msgstr "Mfumo wa pointi"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:38
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:22
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:76
+msgid "You earn reputation when people vote on your posts"
+msgstr "Utapata umaarufu watu wakipigia chapisho zako kura."
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:50
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:66
+msgid "answer is accepted"
+msgstr "Jibu limekubaliwa"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:70
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:75
+msgid "Badges System"
+msgstr "Mfumo wa beji"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:71
+msgid ""
+"At the highest levels, you'll have access to special moderation tools. "
+"You'll be able to work alongside our community moderators to keep the site "
+"focused and helpful."
+msgstr ""
+"Katika viwango vya juu Zaidi, utakuwa na fursa ya kutumia vyombo vya kipekee "
+"vya usimamizi. Utakuwa na uwezo wa kufanya kazi pamoja na Wasimamizi wa "
+"jamii yetu kuimarish umakini na manufaa ya tovuti hii."
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:85
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:95
+msgid "points require"
+msgstr "pointi inayohitajika"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:88
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:99
+msgid "With you can do:"
+msgstr "Nayo unaweza fanya:"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:91
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:102
+msgid "Edit other people's questions"
+msgstr "Hariri maswali ya watu wengine"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:95
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:112
+msgid "Edit other people's answers"
+msgstr "Hariri majibu ya watu wengine"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:99
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:116
+msgid "Vote down (costs 1 point on answers)"
+msgstr "Piga kura ya kinyume (inagharimu pointi 1 kwa majibu)"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:103
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:122
+msgid "Leave comments"
+msgstr "Toa maoni"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-badges.php:107
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:126
+msgid "Vote up"
+msgstr "Pigia Kura"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-categories.php:18
+#: D:\QAE\qaengine-v1.5.4/page-categories.php:13
+msgid "Categories"
+msgstr "Vikundi"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-categories.php:23
+msgid "Find a categories"
+msgstr "Tafuta kikundi"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-categories.php:39
+#: D:\QAE\qaengine-v1.5.4/mobile/page-tags.php:40
+#: D:\QAE\qaengine-v1.5.4/mobile/page-users.php:37
+#: D:\QAE\qaengine-v1.5.4/page-categories.php:26
+#: D:\QAE\qaengine-v1.5.4/page-tags.php:30
+#: D:\QAE\qaengine-v1.5.4/page-users.php:42
+msgid "Name"
+msgstr "Jina"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-categories.php:44
+#: D:\QAE\qaengine-v1.5.4/mobile/page-tags.php:45
+#: D:\QAE\qaengine-v1.5.4/page-categories.php:29
+#: D:\QAE\qaengine-v1.5.4/page-tags.php:33
+msgid "Popular"
+msgstr "Maarufu"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:86
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:123
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:82
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:130
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:25
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:88
+msgid "Sign in"
+msgstr "Tia saini"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:86
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:82
+msgid "or"
+msgstr "au"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:87
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:185
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:82
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:194
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:28
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:87
+msgid "Sign up"
+msgstr "Jiandikishe"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:103
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:114
+msgid "Remember me"
+msgstr "Nikumbuke"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:116
+msgid "Fogot password ?"
+msgstr "Umesahau nenosiri?"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:147
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:154
+msgid "User Name"
+msgstr "User Name"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:167
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:174
+msgid "Repeat Password"
+msgstr "Rudia nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:179
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:183
+msgid ""
+"By clicking \"Sign Up\" you indicate that you have read and agree to the"
+msgstr ""
+"Kwa kubonyeza \"Jiandikishe\" unaonyesha kwamba umesoma na kukubaliana na"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-intro.php:179
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:183
+msgid "Terms of Service."
+msgstr "Sheria na masharti"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-questions.php:17
+msgid "All Question"
+msgstr "Maswali yote"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-search.php:18
+msgid "Search Question"
+msgstr "Tafuta swali"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-tags.php:24
+msgid "Find a tag"
+msgstr "Tafuta tag"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-users.php:16
+#: D:\QAE\qaengine-v1.5.4/page-users.php:29
+msgid "Users"
+msgstr "Watumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/page-users.php:21
+msgid "Find a user"
+msgstr "Tafuta mtumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:13
+#: D:\QAE\qaengine-v1.5.4/mobile/template/answer-loop.php:7
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:7
+#: D:\QAE\qaengine-v1.5.4/mobile/template/question-loop.php:67
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:14
+#: D:\QAE\qaengine-v1.5.4/single-question.php:154
+#: D:\QAE\qaengine-v1.5.4/template/answer-loop.php:7
+#: D:\QAE\qaengine-v1.5.4/template/pending-answer-loop.php:7
+#: D:\QAE\qaengine-v1.5.4/template/pending-question-loop.php:5
+#: D:\QAE\qaengine-v1.5.4/template/question-loop.php:60
+msgid "No Category"
+msgstr "Hakuna Kukundi"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:73
+#: D:\QAE\qaengine-v1.5.4/mobile/template/question-loop.php:51
+#, php-format
+msgid "Asked by %s %s in"
+msgstr "Iliulizwa na %s %s kwenye"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:92
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:82
+#: D:\QAE\qaengine-v1.5.4/single-question.php:101
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:73
+msgid "Answered"
+msgstr "Limejibiwa"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:103
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:46
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:92
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:125
+#: D:\QAE\qaengine-v1.5.4/single-question.php:165
+#: D:\QAE\qaengine-v1.5.4/template-js/item-answer.php:80
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:106
+msgid "Share"
+msgstr "Gawa"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:111
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:53
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:99
+msgid "Comment"
+msgstr "Maoni"
+
+# piga kura - verb
+# kura - noun
+# not sure which is which
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:150
+#, fuzzy
+msgid "Vote"
+msgstr "Piga Kura"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:151
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:165
+#: D:\QAE\qaengine-v1.5.4/single-question.php:226
+msgid "Oldest"
+msgstr "Nzee zaidi"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:218
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:223
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:189
+#: D:\QAE\qaengine-v1.5.4/single-question.php:253
+msgid "Post answer"
+msgstr "Chapisha jibu"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/single-question.php:222
+msgid "Type your answer"
+msgstr "Chapisha jibu lako"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/taxonomy.php:56
+msgid "There are no questions in this category!."
+msgstr "Hakuna maswali kwa hiki Kikundi!"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/template-js/item-answer.php:21
+msgid "Answered by "
+msgstr "Limejibiwa na"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/template/answer-loop.php:52
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:115
+#: D:\QAE\qaengine-v1.5.4/single-question.php:134
+#: D:\QAE\qaengine-v1.5.4/template/answer-loop.php:24
+#: D:\QAE\qaengine-v1.5.4/template/pending-answer-loop.php:24
+#: D:\QAE\qaengine-v1.5.4/template/pending-question-loop.php:40
+#: D:\QAE\qaengine-v1.5.4/template/question-loop.php:40
+#, php-format
+msgid "Asked %s in"
+msgstr "Iliulizwa %s kwenye"
+
+# kukubalika - as used in 'accepted behaviour'
+# kukubaliwa - as used in 'application accepted'
+#: D:\QAE\qaengine-v1.5.4/mobile/template/answer-loop.php:61
+msgid "Accepted"
+msgstr "Kukubalika"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/template/categories-orderby_name.php:55
+#: D:\QAE\qaengine-v1.5.4/mobile/template/categories-orderby_name.php:65
+#: D:\QAE\qaengine-v1.5.4/mobile/template/tags-orderby_name.php:54
+#: D:\QAE\qaengine-v1.5.4/mobile/template/tags-orderby_name.php:64
+#, php-format
+msgid "Touch here to see more %s tags"
+msgstr "Gusa hapa kuona tag %s nyingi"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:43
+msgid "Pending Answer"
+msgstr "Jibu lisilomalizika"
+
+#: D:\QAE\qaengine-v1.5.4/mobile/template/item-answer.php:52
+#, php-format
+msgid "Answered by %s %s."
+msgstr "Limejibiwa na  %s %s."
+
+#: D:\QAE\qaengine-v1.5.4/mobile/template/post-loop.php:37
+#: D:\QAE\qaengine-v1.5.4/single.php:63
+#: D:\QAE\qaengine-v1.5.4/template/post-loop.php:41
+msgid "READ MORE"
+msgstr "SOMA ZAIDI"
+
+#: D:\QAE\qaengine-v1.5.4/page-badges.php:106
+msgid "Vote to close, reopen, or migrate questions"
+msgstr "Piga kura kufunga, kufungua ama kuhajirisha maswali"
+
+#: D:\QAE\qaengine-v1.5.4/page-categories.php:17
+msgid "Find Categories"
+msgstr "Tafuta Vikundi"
+
+#: D:\QAE\qaengine-v1.5.4/page-intro.php:121
+msgid "Forgot password ?"
+msgstr "Umesahau nenosiri?"
+
+#: D:\QAE\qaengine-v1.5.4/page-search.php:16
+#, php-format
+msgid "Search Questions: <em>%s</em>"
+msgstr "Tafuta kwa maswali: <em>%s</em>"
+
+#: D:\QAE\qaengine-v1.5.4/page-search.php:44
+#: D:\QAE\qaengine-v1.5.4/search.php:37
+msgid "No results for keyword:"
+msgstr "Hakuna Matokeo Yamepatikana Kwa Neno Kuu:"
+
+#: D:\QAE\qaengine-v1.5.4/page-tags.php:20
+msgid "Find Tags"
+msgstr "Tafuta Tags"
+
+#: D:\QAE\qaengine-v1.5.4/page-term.php:16 D:\QAE\qaengine-v1.5.4/page.php:16
+msgid "Page"
+msgstr "Ukurasa"
+
+#: D:\QAE\qaengine-v1.5.4/page-users.php:33
+msgid "Find Users"
+msgstr "Tafuta Watumiaji"
+
+#: D:\QAE\qaengine-v1.5.4/page-users.php:96
+#, php-format
+msgid "%d Points"
+msgstr "%d Pointi"
+
+#: D:\QAE\qaengine-v1.5.4/page-users.php:103
+msgid "No users found."
+msgstr "Hakuna Watumiaji Wamepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/sidebar-left-tablet.php:37
+#: D:\QAE\qaengine-v1.5.4/sidebar-left.php:38
+msgid "Term & Privacy"
+msgstr "Sheria na faragha"
+
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:48
+#: D:\QAE\qaengine-v1.5.4/single-question.php:33
+msgid "Home"
+msgstr "Nyumbani"
+
+#: D:\QAE\qaengine-v1.5.4/single-answer.php:181
+#: D:\QAE\qaengine-v1.5.4/single-question.php:245
+msgid "Your Answer"
+msgstr "Jibu lako"
+
+#: D:\QAE\qaengine-v1.5.4/single-question.php:57
+#: D:\QAE\qaengine-v1.5.4/template-js/item-comment.php:15
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:34
+#: D:\QAE\qaengine-v1.5.4/template/item-comment.php:23
+#: D:\QAE\qaengine-v1.5.4/template/pending-answer-loop.php:74
+#: D:\QAE\qaengine-v1.5.4/template/pending-question-loop.php:67
+msgid "Delete"
+msgstr "Futa"
+
+#: D:\QAE\qaengine-v1.5.4/single-question.php:69
+msgid "Follow"
+msgstr "Fuata"
+
+#: D:\QAE\qaengine-v1.5.4/single-question.php:75
+msgid "Unfollow"
+msgstr "Acha kufuata"
+
+#: D:\QAE\qaengine-v1.5.4/single-question.php:214
+msgid "Answer(s)"
+msgstr "(Ma)jibu"
+
+#: D:\QAE\qaengine-v1.5.4/single-question.php:223
+msgid "Active"
+msgstr "Active"
+
+#: D:\QAE\qaengine-v1.5.4/single-question.php:269
+msgid "Login or Register to view and post answer"
+msgstr "Tia saini ama Jiandikishe ili uone na kuchapisha jibu"
+
+#: D:\QAE\qaengine-v1.5.4/single.php:54
+#: D:\QAE\qaengine-v1.5.4/template/post-loop.php:32
+msgid "Pages:"
+msgstr "Kurasa:"
+
+#: D:\QAE\qaengine-v1.5.4/template-js/search-preview.php:15
+#, php-format
+msgid "View all %s results"
+msgstr "Ona %s matokeo yote"
+
+#: D:\QAE\qaengine-v1.5.4/template-js/search-preview.php:17
+msgid "View all results"
+msgstr "Ona matokeo yote"
+
+#: D:\QAE\qaengine-v1.5.4/template-js/search-preview.php:19
+msgid "No results found"
+msgstr "Hakuna Matokeo Yamepatikana"
+
+#: D:\QAE\qaengine-v1.5.4/template/answer-loop.php:49
+#: D:\QAE\qaengine-v1.5.4/template/pending-answer-loop.php:49
+msgid "This answer accepted by"
+msgstr "Hili jibu limekubaliwa na"
+
+#: D:\QAE\qaengine-v1.5.4/template/answer-loop.php:51
+#: D:\QAE\qaengine-v1.5.4/template/pending-answer-loop.php:51
+#, php-format
+msgid "Earned %d points."
+msgstr "Pointi %d yaliyopatwa."
+
+#: D:\QAE\qaengine-v1.5.4/template/answer-loop.php:62
+#: D:\QAE\qaengine-v1.5.4/template/question-loop.php:75
+msgid "views"
+msgstr "maoni"
+
+#: D:\QAE\qaengine-v1.5.4/template/answer-loop.php:68
+#: D:\QAE\qaengine-v1.5.4/template/question-loop.php:81
+msgid "answers"
+msgstr "majibu"
+
+#: D:\QAE\qaengine-v1.5.4/template/answer-loop.php:74
+#: D:\QAE\qaengine-v1.5.4/template/question-loop.php:87
+msgid "votes"
+msgstr "kura"
+
+#: D:\QAE\qaengine-v1.5.4/template/item-answer.php:96
+#, php-format
+msgid "Answered %s."
+msgstr "Limejibiwa %s."
+
+#: D:\QAE\qaengine-v1.5.4/template/item-vote.php:26
+#, php-format
+msgid "You must have %d points to vote up."
+msgstr "Lazima uwe na ponti %d kupiga kura."
+
+#: D:\QAE\qaengine-v1.5.4/template/item-vote.php:31
+#, php-format
+msgid "You must have %d points to vote down."
+msgstr "Lazima uwe na ponti %d kupiga kura ya kinyume."
+
+#: D:\QAE\qaengine-v1.5.4/template/item-vote.php:40
+msgid "This is useful."
+msgstr "Hii ni muhimu."
+
+#: D:\QAE\qaengine-v1.5.4/template/item-vote.php:54
+msgid "This is not useful"
+msgstr "Hii si muhimu."
+
+#: D:\QAE\qaengine-v1.5.4/template/item-vote.php:74
+msgid "Mark as best answer"
+msgstr "Tia alama kama jibu bora"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:14
+msgid "Username or Email"
+msgstr "Jina la mtumiaji ama barua pepe"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:23
+msgid "Forgot password"
+msgstr "Umesahau nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:77
+msgid "Retype Password"
+msgstr "Piga chapa nenosiri tena"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:94
+#, php-format
+msgid ""
+"By clicking \"Sign up\" you indicate that you have read and agree to the <a "
+"target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" "
+"href=\"%s\">terms of service.</a>"
+msgstr ""
+"Kwa kubonyeza \"Jiandikishe\" unaonyesha kwamba umesoma na kukubaliana na <a "
+"target=\"_blank\" href=\"%s\">sera ya siri</a> na <a target=\"_blank\" href="
+"\"%s\">masharti ya huduma.</a>"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:101
+msgid "Enter your email here"
+msgstr "Weka anwani yako ya barua pepe hapa"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-authentication.php:103
+#: D:\QAE\qaengine-v1.5.4/template/modal-contact.php:17
+#: D:\QAE\qaengine-v1.5.4/template/modal-report.php:17
+msgid "Send"
+msgstr "Tuma"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-contact.php:9
+msgid "Contact "
+msgstr "Mawasiliano"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-contact.php:15
+msgid "Your message:"
+msgstr "Ujumbe wako:"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-contact.php:16
+#: D:\QAE\qaengine-v1.5.4/template/modal-report.php:16
+msgid "Got something to say? Type your message here."
+msgstr "Una la kusema? Andika ujumbe wako hapa."
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-forgotpass.php:6
+msgid "Reset Password"
+msgstr "Tunga upya nenosiri"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-forgotpass.php:13
+msgid "Enter your new password here"
+msgstr "Weka nenosiri lako lipya hapa"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-forgotpass.php:16
+msgid "Reset"
+msgstr "Tunga upya"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:22
+msgid "Edit Profile"
+msgstr "Hariri Profile"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:33
+msgid "Upload New Avatar"
+msgstr "Pakia Avatar"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-profile.php:68
+msgid "Update Profile"
+msgstr "Sasisha profile"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-question.php:28
+msgid "Press enter to add new tag"
+msgstr "Bonyeza Enter kuweka tag mpya"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-question.php:44
+msgid "SUBMIT QUESTION"
+msgstr "Tuma Swali"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-report.php:11
+msgid "Report "
+msgstr "Ripoti"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-report.php:15
+msgid "Your message"
+msgstr "Ujumbe wako"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:6
+msgid "Insert Images"
+msgstr "Weka picha"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:10
+msgid "Upload an image"
+msgstr "Pakia picha"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:16
+msgid "Please log in to use this function."
+msgstr "Tafadhali tia saini ndiyo ufanye hii kazi."
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:18
+msgid "Admin has disabled this function."
+msgstr "Msimamizi amezima matumizi haya."
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:28
+msgid "Add an image via URL"
+msgstr "Pakia picha kutumia URL"
+
+#: D:\QAE\qaengine-v1.5.4/template/modal-upload-images.php:33
+msgid "Insert"
+msgstr "Weka"
+
+#: D:\QAE\qaengine-v1.5.4/template/question-loop.php:6
+msgid "Pending Question"
+msgstr "Swali bila jibu"
+
+#: D:\QAE\qaengine-v1.5.4/template/tags-orderby_name.php:38
+msgid "Digit"
+msgstr "Tarakimu"

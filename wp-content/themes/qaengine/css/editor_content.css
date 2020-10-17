@@ -1,0 +1,9 @@
+/* ---------------------------------------- */
+/*    C U S T O M  TINYMCE S T Y L E        */
+/* ---------------------------------------- */
+@import url(//fonts.googleapis.com/css?family=Lato:400,700&subset=latin,cyrillic,cyrillic-ext,vietnamese,latin-ext);
+body {
+	color: #6f7d95;
+	font-size: 13px;
+	font-family: "Lato";
+}

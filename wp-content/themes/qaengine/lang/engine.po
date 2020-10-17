@@ -1,0 +1,6030 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QAEngine v2.0.12\n"
+"POT-Creation-Date: 2017-01-02 09:49+0700\n"
+"PO-Revision-Date: 2017-01-02 09:49+0700\n"
+"Last-Translator: \n"
+"Language-Team: ET <support@enginethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: G:\\Xuat Zip\n"
+"X-Poedit-SearchPathExcluded-0: includes/aecore/assets/js\n"
+
+#: G:\Xuat Zip/404.php:16 Zip/mobile/404.php:15
+msgid "Ops! Lost your way?"
+msgstr ""
+
+#: G:\Xuat Zip/404.php:19 Zip/mobile/404.php:18
+msgid "Sorry, but the page you were looking for is not here."
+msgstr ""
+
+#: G:\Xuat Zip/404.php:21 Zip/mobile/404.php:20
+msgid "Back to home page"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:7
+msgid "Package name"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:12
+#: Zip/admin-template/pump-pack-form.php:9
+msgid "SKU"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:17
+#: Zip/admin-template/pump-pack-form.php:14
+msgid "Price"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:26
+#: Zip/admin-template/pump-pack-form.php:23
+msgid "Pump number"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:28
+#: Zip/admin-template/pump-pack-form.php:25
+msgid "pumps"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:32
+#: Zip/admin-template/pump-pack-form.php:29
+msgid "Short description about this package"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:40
+msgid "Save Package"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form-js.php:42
+#: Zip/includes/aecore/fields/field-language-list.php:82
+#: Zip/includes/poll/poll-template.php:228 Zip/includes/template.php:1036
+#: Zip/includes/theme.php:1187 Zip/mobile/author.php:308
+#: Zip/mobile/functions.php:106 Zip/mobile/functions.php:247
+#: Zip/mobile/single-question.php:287
+#: Zip/mobile/template-js/item-answer.php:68
+#: Zip/template-js/item-answer.php:60 Zip/template-js/item-answer.php:117
+#: Zip/template-js/item-comment.php:32 Zip/template/item-answer.php:78
+#: Zip/template/item-comment.php:44 Zip/template/modal-upload-images.php:48
+msgid "Cancel"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form.php:4
+msgid "Enter a name for your plan"
+msgstr ""
+
+#: G:\Xuat Zip/admin-template/pump-pack-form.php:34
+msgid "Save Plan"
+msgstr ""
+
+#: G:\Xuat Zip/archive-poll.php:20
+msgid "All Polls"
+msgstr ""
+
+#: G:\Xuat Zip/archive-poll.php:38 Zip/archive-question.php:38
+#: Zip/page-questions.php:85
+msgid "No questions has been created yet."
+msgstr ""
+
+#: G:\Xuat Zip/archive-question.php:20 Zip/includes/questions.php:356
+#: Zip/includes/template.php:312 Zip/page-pending.php:13
+#: Zip/page-questions.php:17
+msgid "All Questions"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:21
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:32 Zip/single-poll.php:55 Zip/single-question.php:56
+#: Zip/template-js/item-comment.php:14 Zip/template/item-answer.php:27
+#: Zip/template/item-comment.php:20
+msgid "Edit"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:37
+msgid "Logout"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:51 Zip/mobile/author.php:183
+msgid "Contact"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:69 Zip/mobile/author.php:144
+#: Zip/mobile/page-users.php:101 Zip/page-users.php:90
+msgid "Earth"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:74 Zip/mobile/author.php:150
+#: Zip/mobile/page-users.php:102
+msgid "Email is hidden."
+msgstr ""
+
+#: G:\Xuat Zip/author.php:110 Zip/functions.php:137 Zip/includes/admin.php:120
+#: Zip/includes/admin.php:1556 Zip/includes/widget.php:403
+#: Zip/page-users.php:45
+msgid "Points"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:116 Zip/author.php:168 Zip/includes/admin.php:824
+#: Zip/includes/questions.php:350 Zip/includes/questions.php:362
+#: Zip/includes/widget.php:294 Zip/includes/widget.php:406
+#: Zip/mobile/author.php:282
+msgid "Questions"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:122 Zip/author.php:186
+#: Zip/includes/questions.php:889 Zip/includes/questions.php:901
+#: Zip/includes/widget.php:409 Zip/mobile/author.php:294
+#: Zip/mobile/single-answer.php:171 Zip/mobile/single-question.php:179
+#: Zip/single-answer.php:157
+msgid "Answers"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:137 Zip/author.php:147
+msgid "Your pump package"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:138
+msgid "Pumps"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:139 Zip/author.php:149
+msgid "Cooldown"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:140 Zip/author.php:151 Zip/mobile/author.php:247
+#: Zip/mobile/author.php:263
+msgid "Buy more pump"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:148 Zip/includes/pumping/pumping.php:195
+#: Zip/includes/pumping/pumping.php:201
+msgid "Pump"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:150
+msgid "You can buy more pump package to pump faster."
+msgstr ""
+
+#: G:\Xuat Zip/author.php:177 Zip/mobile/author.php:288
+msgid "Polls"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:193 Zip/mobile/author.php:298
+msgid "Following"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:257 Zip/mobile/author.php:365
+msgid "There are no polls yet."
+msgstr ""
+
+#: G:\Xuat Zip/author.php:260 Zip/mobile/author.php:368
+msgid "There are no answers yet."
+msgstr ""
+
+#: G:\Xuat Zip/author.php:263 Zip/mobile/author.php:371
+msgid "There are no questions or polls yet."
+msgstr ""
+
+#: G:\Xuat Zip/author.php:267 Zip/mobile/author.php:375
+msgid "There are no questions yet."
+msgstr ""
+
+#: G:\Xuat Zip/author.php:290
+msgid "Please check your mailbox to confirm your email address."
+msgstr ""
+
+#: G:\Xuat Zip/author.php:291 Zip/mobile/author.php:401
+#: Zip/mobile/page-intro.php:51 Zip/page-intro.php:91
+msgid "or"
+msgstr ""
+
+#: G:\Xuat Zip/author.php:291
+msgid "Resend the confirmation email."
+msgstr ""
+
+#: G:\Xuat Zip/category.php:18 Zip/index.php:18 Zip/page-blog.php:18
+#: Zip/page-privacy.php:19 Zip/page-social-connect.php:22 Zip/page-term.php:19
+#: Zip/page.php:19 Zip/search.php:18 Zip/single.php:21
+msgid "Search at blog"
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:29 Zip/comments.php:36
+msgid "Be the first to post a comment."
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:31
+msgid "1 Comment"
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:33
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:36
+msgid "1 Comment on this article"
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:36
+msgid "% Comments on this article"
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:42
+msgid "Comment closed!"
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:51
+msgid "Reply "
+msgstr ""
+
+#: G:\Xuat Zip/comments.php:65
+msgid "Add a comment"
+msgstr ""
+
+#: G:\Xuat Zip/functions.php:251
+msgid "Clear"
+msgstr ""
+
+#: G:\Xuat Zip/functions.php:252 Zip/includes/badges.php:311
+msgid "Default"
+msgstr ""
+
+#: G:\Xuat Zip/functions.php:253
+msgid "Select Color"
+msgstr ""
+
+#: G:\Xuat Zip/functions.php:335 Zip/includes/aecore/class-ae-users.php:311
+#: Zip/includes/aecore/functions.php:1468 Zip/includes/front.php:814
+#: Zip/includes/members.php:1016 Zip/includes/poll/poll-action.php:81
+msgid "Please enter a valid captcha!"
+msgstr ""
+
+#: G:\Xuat Zip/header.php:107 Zip/mobile/functions.php:223
+msgid "Enter Keywords"
+msgstr ""
+
+#: G:\Xuat Zip/header.php:128
+msgid "User Profile"
+msgstr ""
+
+#: G:\Xuat Zip/header.php:133 Zip/mobile/header.php:72
+msgid "User Settings"
+msgstr ""
+
+#: G:\Xuat Zip/header.php:139
+msgid "Log out"
+msgstr ""
+
+#: G:\Xuat Zip/header.php:147
+msgid "Login or Register"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:238 Zip/includes/poll/poll-settings.php:15
+#: Zip/includes/pumping/pump_settings.php:20
+msgid "General"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:246 Zip/includes/admin.php:256
+#: Zip/includes/admin.php:275
+msgid "Website Title"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:249
+msgid "Enter your website title."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:265
+msgid "Website Description"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:268
+msgid "Enter your website description"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:283 Zip/includes/admin.php:293
+msgid "Copyright"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:286
+msgid "This copyright information will appear in the footer."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:301 Zip/includes/admin.php:311
+msgid "Google Analytics Script"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:304
+msgid ""
+"Google analytics is a service offered by Google that generates detailed "
+"statistics about the visits to a website."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:319
+msgid "Email Confirmation"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:322
+msgid ""
+"Enabling this will require users to confirm their email addresses after "
+"registration."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:329
+msgid "User Confirm"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:337 Zip/includes/admin.php:347
+msgid "Administrator Email"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:340
+msgid "This email is used for admin purposes."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:360
+msgid "Social"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:368
+#: Zip/includes/aecore/social/settings.php:29
+msgid "Twitter API"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:371
+msgid "Enabling this will allow users to login via Twitter."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:378
+#: Zip/includes/aecore/social/settings.php:39
+msgid "Twitter API "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:385
+#: Zip/includes/aecore/social/settings.php:46
+msgid "Twitter key "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:387
+#: Zip/includes/aecore/social/settings.php:48
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:393
+#: Zip/includes/aecore/social/settings.php:54
+msgid "Twitter secret "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:395
+#: Zip/includes/aecore/social/settings.php:56
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:402
+#: Zip/includes/aecore/social/settings.php:63
+msgid "Facebook API"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:405
+msgid "Enabling this will allow users to login via Facebook."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:412
+#: Zip/includes/aecore/social/settings.php:73
+msgid "Facebook API "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:419
+#: Zip/includes/aecore/social/settings.php:80
+msgid "Facebook key "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:421
+#: Zip/includes/aecore/social/settings.php:82
+msgid "Facebook Application ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:427
+#: Zip/includes/aecore/social/settings.php:88
+msgid "Facebook secret key "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:429
+msgid "Facebook Secret Key ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:436
+#: Zip/includes/aecore/social/settings.php:97
+msgid "Google API"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:439
+msgid ""
+"Enabling this will allow users to login via Google.(<a target=\"_blank\" "
+"href=\"https://code.google.com/apis/console\">get key</a>)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:446
+#: Zip/includes/aecore/social/settings.php:107
+msgid "Google API "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:453
+msgid "Google client key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:455
+#: Zip/includes/aecore/social/settings.php:116
+msgid "Client ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:461
+#: Zip/includes/aecore/social/settings.php:124
+msgid "Google secret key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:463
+msgid "Secret ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:470 Zip/includes/admin.php:479
+msgid "Google Plus"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:487 Zip/includes/admin.php:496
+msgid "Facebook URL"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:504 Zip/includes/admin.php:513
+msgid "Twitter URL"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:521 Zip/includes/admin.php:530
+msgid "Youtube URL"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:538 Zip/includes/admin.php:547
+msgid "LinkedIn URL"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:561
+msgid "Content"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:569
+msgid "Filter Bad Words ( Questions / Answers )"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:572
+msgid "Each word seperate by comma (,)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:579
+msgid "Enter Keywords Here"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:587
+msgid "Intro Text"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:590
+msgid "This text will appear in the intro page."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:597
+msgid "Intro Slide Texts"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:604
+msgid "Intro Bottom Texts"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:612
+msgid "Maximum length of title"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:615
+msgid "Insert the maximum length of the title"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:632
+msgid "Editor Upload Images"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:635
+msgid "Turn on / off Feature Images Upload in Editor."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:642 Zip/includes/theme.php:1182
+msgid "Upload Images"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:650
+msgid "Login To View Content"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:653
+msgid "If you enable this option, users have to login to see content."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:660 Zip/template/buy-package-step-2.php:25
+msgid "Login"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:668 Zip/includes/admin.php:678
+msgid "Pending Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:671
+msgid ""
+"If you enable this option, the new posted questions have to be approved to "
+"be displayed."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:686 Zip/includes/admin.php:696
+msgid "Pending Answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:689
+msgid ""
+"If you enable this option, the new posted answers have to be approved to be "
+"displayed."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:704
+msgid "Email Notification For Followed Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:707
+msgid ""
+"If you enable this option, whenever there's a new answer for the followed "
+"questions, the system will automatically send emails to the following users."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:714
+msgid "Send Mail Following"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:722 Zip/includes/admin.php:732
+msgid "New Member Registration Email"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:725
+msgid ""
+"Enabling this will allow you to receive email notification when there is a "
+"new member on your site."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:740 Zip/includes/admin.php:750
+msgid "Infinite Scroll"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:743
+msgid "Enabling this will activate the Infinite Scrolling."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:758 Zip/includes/admin.php:768
+msgid "Live Notifications"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:761
+msgid "Turn on / off live notifications feature."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:776
+msgid "Login To View Answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:779
+msgid "If you enable this option, users have to login to see answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:785
+msgid "View answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:793 Zip/includes/admin.php:802
+msgid "Send Email From"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:796
+msgid "This email will appear in the email's header"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:816
+msgid "Url slug"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:827
+msgid ""
+"Enter slug for your Single Question page (this slug must be unique, please "
+"re-save the permalink options after changed slug)."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:833 Zip/includes/admin.php:835
+msgid "Single Question page Slug"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:843
+msgid "Questions Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:846
+msgid ""
+"Enter slug for your Question Category archive (this slug must be unique and "
+"can not be 'category', please re-save the permalink options after changed "
+"slug)."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:852 Zip/includes/admin.php:854
+msgid "Questions Category Slug"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:862
+msgid "Questions Tag"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:865 Zip/includes/admin.php:902
+msgid ""
+"Enter slug for your Question Tag archive (this slug must be unique, please "
+"re-save the permalink options after changed slug)."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:871 Zip/includes/admin.php:873
+msgid "Questions Tag Slug"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:881
+msgid "Questions Search"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:889 Zip/includes/admin.php:891
+msgid "Questions Search Slug"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:899 Zip/includes/admin.php:1537
+#: Zip/includes/widget.php:298
+msgid "Members"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:908 Zip/includes/admin.php:910
+msgid "Members Slug Page"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:923
+msgid "Captcha"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:931 Zip/includes/admin.php:941
+msgid "Google reCaptcha"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:934
+msgid ""
+"Enabling this will prevent spammers to register.<a href='https://www.google."
+"com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:948
+msgid "Site key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:950
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:956
+msgid "Secret key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:958
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:965
+msgid "Google reCaptcha for Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:974
+msgid "Enable Google reCaptcha for Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1005
+msgid "Branding"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1014
+msgid "Site logo"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1018
+msgid ""
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than "
+"1500Kb."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1025
+msgid "Site Logo"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1038 Zip/includes/admin.php:1049
+msgid "Mobile Icon"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1042
+msgid ""
+"This icon will be used as a launcher icon for iPhone and Android smartphones "
+"and also as the website favicon. The image dimensions should be 57x57px."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1062 Zip/includes/admin.php:1073
+msgid "Intro Page Background"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1066
+msgid ""
+"This image will be used as a background image in Intro Page. The image "
+"dimensions should be 1400x700px or more and size less than 1000KB."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1091
+msgid "Mailing"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1100
+msgid "Authentication Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1109
+msgid "Mail description here"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1110
+msgid ""
+"Email templates for authentication process. You can use placeholders to "
+"include some specific content."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1111
+msgid "user's details you want to send mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1112
+msgid "member dashboard url "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1113
+msgid "question title, link and details"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1114
+msgid "activate link is require for user to renew their pass"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1115
+msgid " site info, admin email"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1124
+msgid "Register Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1133 Zip/includes/admin.php:1209
+#: Zip/includes/admin.php:1405 Zip/includes/admin.php:1423
+msgid "Register Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1143
+msgid "New Member Registration Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1152 Zip/includes/theme.php:486
+msgid "New Member Registration"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1162
+msgid "Confirmation Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1171 Zip/includes/admin.php:1190
+msgid "Confirmation Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1181
+msgid "Confirmed Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1200
+msgid "Forgotpass Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1218
+msgid "Resetpass Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1227
+msgid "Resetpassword Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1236
+msgid "Pending Questions Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1245
+msgid "Pending Questions Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1254
+msgid "New Answer Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1263
+msgid "New Answer Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1272
+msgid "Report Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1281
+msgid "Report Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1290
+msgid "Best Answer Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1299
+msgid "Best Answer Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1308
+msgid "Ban User Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1317
+msgid "Ban User Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1326
+msgid "Inbox Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1335
+msgid "Inbox User Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1344
+msgid "New Badges Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1353
+msgid "New Badges Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1362
+msgid "Down Badges Mail Template"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1371
+msgid "Down Badges Mail"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1386
+msgid "Language"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1395
+msgid "Website Language"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1399
+msgid "Select the language you want to use for your website."
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1413
+msgid "Translator"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1417
+msgid "Translate a language"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1437 Zip/template-js/item-answer.php:57
+#: Zip/template-js/item-comment.php:29 Zip/template/item-answer.php:74
+#: Zip/template/item-comment.php:41
+msgid "Update"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1446 Zip/includes/admin.php:1455
+msgid "License Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1484
+#: Zip/includes/aecore/class-ae-overview.php:46
+#: Zip/includes/aecore/class-ae-overview.php:69
+#: Zip/includes/aecore/class-ae-overview.php:78
+#: Zip/includes/aecore/class-ae-overview.php:87
+msgid "Overview"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1485
+msgid "OVERVIEW"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1489
+#, php-format
+msgid "%s overview"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1511
+msgid "Settings"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1512
+msgid "SETTINGS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1516
+msgid "Manage how your Q&A Engine looks and feels"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1538
+msgid "MEMBERS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1542
+msgid "Overview of registered members"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1565
+msgid "Positive Point"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1568
+msgid "Set up points that users can gain"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1576 Zip/includes/admin.php:1579
+#: Zip/page-badges.php:33
+msgid "create a question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1584 Zip/includes/admin.php:1587
+msgid "answer a question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1592 Zip/includes/admin.php:1595
+#: Zip/mobile/page-badges.php:42 Zip/page-badges.php:44
+msgid "question is voted up"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1600 Zip/includes/admin.php:1603
+#: Zip/mobile/page-badges.php:46 Zip/page-badges.php:55
+msgid "answer is voted up"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1608 Zip/includes/admin.php:1611
+msgid "answer is marked 'accepted' "
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1627
+msgid "Negative Point"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1630
+msgid "Set up points that user can lose"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1637 Zip/includes/admin.php:1640
+msgid "your question is voted down"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1645 Zip/includes/admin.php:1648
+msgid "your answer is voted down"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1654 Zip/includes/admin.php:1657
+msgid "you vote down an answer or question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1680 Zip/includes/admin.php:1689
+msgid "Privileges"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1692
+msgid "Set up point users have to achieve to have specific privileges"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1703
+msgid "Level"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1726
+msgid "User Badges"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1727
+msgid "USER BADGES"
+msgstr ""
+
+#: G:\Xuat Zip/includes/admin.php:1731
+msgid "Manage what your members can do."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:271
+#, php-format
+msgid "%s color has been updated"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:277
+#: Zip/includes/aecore/category.php:294
+msgid "An error has occurred!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:288
+#, php-format
+msgid "%s icon has been updated"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:369
+#: Zip/includes/aecore/template-js/cat-item-form.php:28
+msgid "Add a category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:392
+#: Zip/includes/aecore/template-js/cat-item.php:14
+msgid "Add sub tax for this tax"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:435
+msgid "Move jobs to"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:445 Zip/includes/theme.php:1190
+#: Zip/mobile/template-js/item-answer.php:36
+#: Zip/mobile/template/item-answer.php:88
+msgid "Accept"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:464
+#: Zip/includes/aecore/category.php:584
+#: Zip/includes/aecore/class-ae-page.php:415
+#: Zip/includes/aecore/social/social_auth.php:134 Zip/includes/members.php:925
+#: Zip/includes/social_auth.php:121
+msgid "There is an error occurred"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:479
+msgid ""
+"You cannot delete a parent category. You need to delete its sub-categories "
+"first."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:492
+msgid "Can't delete category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:500
+msgid "Category name is required"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/category.php:529
+msgid "Cannot find category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-comments.php:27
+msgid "Already added."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-comments.php:187
+msgid "Please wait 2 minutes after each action submission."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-comments.php:208
+msgid "You have already comment on this."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-languages.php:130
+#: Zip/includes/aecore/class-ae-languages.php:350
+msgid "Invalid file name!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-languages.php:141
+msgid "Adding new language successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-languages.php:201
+msgid ""
+"Theme functions required to create a folder wp-content/et-content. Please "
+"set chmod folder wp-content to 755."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-languages.php:362
+msgid "There was no changes in your translation."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-languages.php:435
+msgid "Translation saved! "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-languages.php:490
+#: Zip/includes/aecore/class-ae-languages.php:521
+msgid "Type the translation in your language"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-languages.php:534
+msgid "Loading successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:36
+msgid "Congratulations! Your account has been verified successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:62
+#, php-format
+msgid "[%s] New Private Message From %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:96
+msgid "Activate Link"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:102
+#: Zip/includes/members.php:1630
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:120
+#, php-format
+msgid "[%s]New report message from %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:141
+#, php-format
+msgid "[%s]Your claim request has been approved."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:160
+#, php-format
+msgid "[%s]Your claim request has been rejected."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:178
+#, php-format
+msgid "[%s]New claim request from %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:207
+#: Zip/includes/theme.php:466
+#, php-format
+msgid "Congratulations! You have successfully registered to %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:233
+#, php-format
+msgid "You have request a confirm email from %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:267
+#, php-format
+msgid "Your post '%s' has been approved."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:282
+#, php-format
+msgid "Your post \"%s\" has been archived"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:316
+#, php-format
+msgid "Your post '%s' has been rejected."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:339
+msgid "Have a new post on your site."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:340
+#, php-format
+msgid ""
+"<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:358
+#, php-format
+msgid "You submit a post by cash on '%s'"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:360
+#, php-format
+msgid "You purchase successfully package '%s' by cash on '%s'"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:379
+msgid "Thank you for your payment!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:569
+#: Zip/includes/aecore/class-ae-mailing.php:628
+msgid "Author's Posts"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-mailing.php:577
+msgid "Confirm link"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-orders.php:15
+msgid "Post ad"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-overview.php:53
+msgid "3 Months Overview"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-overview.php:60
+msgid "2 weeks Overview"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-overview.php:67
+#: Zip/includes/aecore/class-ae-overview.php:76
+#: Zip/includes/aecore/class-ae-overview.php:85
+msgid "Signup"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-overview.php:99
+#: Zip/includes/aecore/class-ae-overview.php:107
+#: Zip/includes/aecore/class-ae-overview.php:114
+#, php-format
+msgid "Revenue(%s)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-overview.php:101
+#: Zip/includes/aecore/class-ae-overview.php:109
+#: Zip/includes/aecore/class-ae-overview.php:116
+msgid "Revenue"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:193
+#: Zip/includes/badges.php:166
+msgid "content here"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:231
+#: Zip/includes/aecore/class-ae-package.php:79
+#, php-format
+msgid "(%s)%s for %d days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:233
+#, php-format
+msgid "(%s)%s for %d day"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:235
+#, php-format
+msgid "(%s)%s for unlimited days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:238
+#: Zip/includes/aecore/class-ae-package.php:81
+#, php-format
+msgid "%s(%s) for %d days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:240
+#, php-format
+msgid "%s(%s) for %d day"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:242
+#, php-format
+msgid "%s(%s) for unlimited days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:248
+#: Zip/includes/badges.php:193
+msgid "Sync success."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:283
+msgid "Sorry, SKU you entered already exists. Try another?"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-pack.php:332
+msgid "Payment plans have been sorted"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-package.php:29
+#, php-format
+msgid "%s for %d days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:119
+#: Zip/includes/aecore/framework.php:162
+#: Zip/mobile/template/modal-contact.php:17
+#: Zip/mobile/template/modal-report.php:17 Zip/template/modal-contact.php:17
+#: Zip/template/modal-report.php:17
+msgid "Loading..."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:120
+#: Zip/includes/aecore/framework.php:163
+msgid "Loading"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:121
+msgid "Categories' level is limited to 3"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:130
+#: Zip/includes/aecore/framework.php:172
+msgid "Image Files"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:135
+#: Zip/includes/aecore/framework.php:294
+msgid "You must enter an integer value."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:136
+msgid "The free package already existed."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:157
+msgid "Administration"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:158
+msgid "You are an admin. Here you administrate."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:313
+#: Zip/includes/aecore/class-ae-page.php:314
+msgid "Engine Settings"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:341
+msgid "You do not have permission to change option."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:381
+#: Zip/includes/badges.php:230
+msgid "Update option successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:423
+msgid "You must login to upload image."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:429
+#: Zip/includes/front.php:1126 Zip/includes/members.php:931
+msgid "Missing image ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:435
+#: Zip/includes/front.php:1121 Zip/includes/members.php:945
+msgid "Security error!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:471
+msgid "Branding image has been uploaded successfully"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:476
+msgid "Error when updating settings."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:482
+#: Zip/includes/front.php:1133 Zip/includes/members.php:997
+msgid "Uploaded file not found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-page.php:532
+msgid "Site Dashboard"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-payments.php:254
+msgid "Post author information is incorrect!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-payments.php:305
+msgid "There is no payment plan."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-payments.php:376
+#: Zip/includes/aecore/payment/payment-visitor.php:56
+#: Zip/includes/aecore/payment/payment-visitor.php:60
+msgid "Invalid payment gateway"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:114
+msgid "REJECTED"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:115
+msgid "ARCHIVED"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:116
+msgid "PENDING"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:117
+msgid "DRAFT"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:118
+msgid "ACTIVE"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:119
+msgid "TRASHED"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:120
+msgid "SOLD"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:281
+msgid "The ID already existed!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:286
+msgid "You must login to submit listing."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:475
+#: Zip/includes/pumping/pump_actions.php:147
+msgid "Post not found!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:480
+msgid "You can not edit other posts!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:597
+msgid "You do not have permission to delete post."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:655
+#: Zip/includes/aecore/class-ae-users.php:944
+msgid "Invalid method"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-post.php:983
+msgid "Successs"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:87
+msgid "Get user data successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:101
+msgid "Input invalid"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:111
+#: Zip/includes/aecore/template/user-item.php:65 Zip/includes/members.php:1381
+#, php-format
+msgid "Join on %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:136
+#, php-format
+msgid "Logged in as <span class=\"name\">%s<span>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:289
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:292
+msgid "Email field is invalid."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:295
+msgid "Password field is required."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:298
+msgid "Repeat Passwords mismatch."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:325
+msgid "You can't create an administrator account."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:367
+msgid "You have registered successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:367
+msgid ""
+"You have registered successfully. Please check your mailbox to activate your "
+"account."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:393
+msgid "Permission Denied!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:404
+msgid "Old password does not match!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:408
+#: Zip/includes/aecore/class-ae-users.php:681
+msgid "Retype password is not equal."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:420
+msgid "This email is already used. Please enter a new email."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:473
+msgid "Your profile has been saved successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:476
+msgid "Your password has been changed successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:481
+msgid "User has been banned!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:484
+#: Zip/includes/aecore/class-ae-users.php:488
+msgid "User's data update successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:518
+#: Zip/includes/members.php:416
+#, php-format
+msgid "You have been banned from %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:619
+#: Zip/includes/aecore/class-ae-users.php:655
+msgid "The login information you entered were incorrect. Please try again!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:622
+msgid "Your account is banned."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:659
+msgid "You have signed in successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:676
+msgid "You cannot change other user password"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:708
+msgid "ERROR: Enter username or email address."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:713
+msgid "ERROR: There is no user registered with that email address."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:724
+msgid "ERROR: Invalid username or email address."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:735
+#: Zip/includes/members.php:1598
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:757
+msgid ""
+"We have sent an reset password mail to your mailbox. Please check your mail."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:772
+#: Zip/includes/aecore/class-ae-users.php:778
+msgid "Invalid Activation Key."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:774
+msgid "Invalid User Name"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:795
+msgid "Username is empty."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:796
+msgid "Invalid Activation Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:797
+#: Zip/includes/members.php:1096
+msgid "Please enter your new password"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:814
+msgid ""
+"Your password have updated successfull. You can login with your new password "
+"now."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:834
+msgid "Your message has been sent successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:1055
+msgid "Get users successfull"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:1060
+msgid "No user found by your query"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:1090
+msgid "New confirm email already send to your email account."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:1098
+msgid "An unknown error has occurred. Please try again later."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-users.php:1105
+msgid "Please wait 5 minutes to resend an activation code!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:39
+#, php-format
+msgid ""
+"You have just installed DirectoryEngine theme, we recommend you follow "
+"through our <a href='%s'>setup wizard</a> to set up the basic configuration "
+"for your website! <a href='%s'>Close this message</a>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:61
+msgid "Import Data Successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:81
+msgid "Delete Data Successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:97
+msgid "Insert sample data"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:98
+#: Zip/includes/aecore/class-ae-wizard.php:127
+msgid "Delete sample data"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:99
+msgid "Insert sample data false"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:100
+msgid "Delete sample data false"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:101
+msgid ""
+"It would take up to a few minutes for your images to be uploaded to the "
+"server. Please don't close or reload this page."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:116
+msgid "SAMPLE DATA"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:118
+msgid ""
+"The sample data includes some items for the list below: profile, project, "
+"etc."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:124
+msgid "Install sample data"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:135
+msgid "Places"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:135
+msgid "Add new place types or modify the sample ones to suit your site style."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:138
+msgid "Place Categories"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:138
+msgid ""
+"Add new categories or modify the sample data to match your directory "
+"business."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:141
+msgid "Place Locations"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:141
+msgid ""
+"Add new locations or modify the sample data to match your directory business."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:144
+msgid "Pages"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:144
+msgid ""
+"Modify the sample \"About us, Contact us, ...\" pages or add your extra "
+"pages when needed."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:147
+#: Zip/includes/aecore/template/user-item.php:60
+msgid "Posts"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:147
+msgid ""
+"A couple of news & event posts have been added for your review. You can "
+"delete it or add your own posts here."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:155
+msgid "MORE SETTINGS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:156
+msgid "Enhance your site by customizing these other features"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:162
+msgid "General Settings"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:162
+msgid ""
+"Modify your site information, social links, analytics script, or add a "
+"language, etc."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:166
+msgid "Front Page"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:166
+msgid ""
+"Rearrange content elements or add more information in your front page to "
+"suit your needs."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:170
+msgid "Menus"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:170
+msgid "Edit all available menus in your site here."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:174
+msgid "Sidebars & Widgets"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/class-ae-wizard.php:174
+msgid ""
+"Add or remove widgets in sidebars throughout the site to best suit your need."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:36
+#: Zip/includes/aecore/payment/et-payment.php:47
+#: Zip/includes/aecore/template/order-item.php:15
+#: Zip/includes/pumping/pump_settings.php:328
+#: Zip/template/buy-package-step-3.php:40
+msgid "Cash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:37
+#: Zip/includes/aecore/template/order-item.php:16
+#: Zip/includes/pumping/pump_settings.php:265
+#: Zip/template/buy-package-step-3.php:18
+msgid "Paypal"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:38
+#: Zip/includes/aecore/template/order-item.php:17
+#: Zip/includes/pumping/pump_settings.php:293
+#: Zip/template/buy-package-step-3.php:29
+msgid "2Checkout"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:48
+#: Zip/includes/aecore/fields/container-users.php:48
+#: Zip/includes/template.php:1116
+msgid "All"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:57
+msgid "Search post..."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:66
+msgid "All Orders"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:78
+msgid "There are no payments yet."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:88
+msgid "More Payments"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:176
+msgid "No order found by your query."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-payments.php:218
+msgid "Update order successfull."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:55
+msgid "Search users..."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:63
+msgid "All Users"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:78
+msgid "More Users"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:91
+msgid "Ban user"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:96
+msgid "Ban for"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:106
+msgid "Reason"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:111
+msgid "Close"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:112
+#: Zip/includes/aecore/social/template.php:60
+#: Zip/includes/aecore/social/template.php:82
+#: Zip/includes/poll/poll-template.php:227 Zip/mobile/functions.php:105
+msgid "Submit"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:147
+#: Zip/includes/aecore/template/user-item.php:31
+#, php-format
+msgid "Banned until %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:152
+#: Zip/includes/aecore/template/user-item.php:37
+msgid "Unban this user"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/container-users.php:154
+#: Zip/includes/aecore/template/user-item.php:41
+msgid "Ban this user"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-image.php:51
+#: Zip/template/modal-upload-images.php:21
+#: Zip/template/modal-upload-images.php:22
+msgid "Browse"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-image.php:55
+msgid "Remove"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-image.php:85
+msgid "Removed successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-image.php:93
+msgid "Removed failed!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-language-list.php:68
+msgid "Add a new language"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-language-list.php:70
+msgid "Enter language name"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-language-list.php:79
+msgid "Language name"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-language-list.php:80
+msgid "Enter the language's name"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-language-list.php:81
+msgid "Add language"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-map.php:39
+msgid "Enter map address"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-switch.php:37
+msgid "Enable"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-switch.php:38
+msgid "Disable"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-translate.php:48
+msgid "Choose a Language"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-translate.php:56
+msgid "Save"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/field-translate.php:60
+msgid ""
+"You should save your translation after every 20 strings to make sure they "
+"won't lost "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/fields/list.php:83
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:144
+msgid "bad"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:145
+msgid "poor"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:146
+msgid "nice"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:147
+msgid "good"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:148
+msgid "gorgeous"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:184
+msgid "Are you sure to archive this?"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:190
+msgid "File extension error"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:192
+msgid ""
+"You have reached the maximum number of Free posts. Please select another "
+"plan."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:193
+msgid "Please fill all require fields."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:199
+#: Zip/includes/aecore/framework.php:206
+msgid "Sunday"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:200
+msgid "Monday"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:201
+msgid "Tuesday"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:202
+msgid "Wednesday"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:203
+msgid "Thursday"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:204
+msgid "Friday"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:205
+msgid "Saturday"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:209
+#: Zip/includes/aecore/framework.php:216
+msgid "Sun"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:210
+msgid "Mon"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:211
+msgid "Tue"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:212
+msgid "Wed"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:213
+msgid "Thu"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:214
+msgid "Fri"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:215
+msgid "Sat"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:219
+#: Zip/includes/aecore/framework.php:226
+msgid "Su"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:220
+msgid "Mo"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:221
+msgid "Tu"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:222
+msgid "We"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:223
+msgid "Th"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:224
+msgid "Fr"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:225
+msgid "Sa"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:229
+msgid "January"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:230
+msgid "February"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:231
+msgid "March"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:232
+msgid "April"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:233
+#: Zip/includes/aecore/framework.php:247
+msgid "May"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:234
+msgid "June"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:235
+msgid "July"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:236
+msgid "August"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:237
+msgid "September"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:238
+msgid "October"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:239
+msgid "November"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:240
+msgid "December"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:243
+msgid "Jan"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:244
+msgid "Feb"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:245
+msgid "Mar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:246
+msgid "Apr"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:248
+msgid "Jun"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:249
+msgid "Jul"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:250
+msgid "Aug"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:251
+msgid "Sep"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:252
+msgid "Oct"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:253
+msgid "Nov"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:254
+msgid "Dec"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:285
+msgid "This field is required."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:286 Zip/includes/theme.php:1171
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:287 Zip/includes/theme.php:1174
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:288
+msgid "Please enter a valid number."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:289
+msgid "Please enter only digits."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:290
+msgid "Please enter the same value again."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:291
+msgid "Please enter a valid date."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:292
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:293
+msgid "Please enter a value with a valid extension."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:295
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:296
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:297
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:298
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:299
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:300
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:324 Zip/includes/front.php:205
+msgid "Your account has been confirmed successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:364 Zip/includes/theme.php:362
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/framework.php:457
+msgid "Not owned this image!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:340
+#, php-format
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:660
+msgid "There was a problem with your upload."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:664
+msgid "Where is the file?"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:690
+#, php-format
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:691
+#, php-format
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:693
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:756
+#: Zip/includes/aecore/functions.php:1185 Zip/includes/template.php:787
+#, php-format
+msgid "on %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:758
+#: Zip/includes/aecore/functions.php:1187 Zip/includes/template.php:789
+msgid "ago"
+msgstr ""
+
+#. translators: min=minute
+#: G:\Xuat Zip/includes/aecore/functions.php:794
+#: Zip/includes/aecore/functions.php:1213 Zip/includes/template.php:844
+#, php-format
+msgid "%s min"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:794
+#: Zip/includes/aecore/functions.php:1213 Zip/includes/template.php:844
+#, php-format
+msgid "%s mins"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:798
+#: Zip/includes/aecore/functions.php:1217 Zip/includes/template.php:849
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:798
+#: Zip/includes/aecore/functions.php:1217 Zip/includes/template.php:849
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:803
+#: Zip/includes/aecore/functions.php:1222 Zip/includes/template.php:855
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:803
+#: Zip/includes/aecore/functions.php:1222 Zip/includes/template.php:855
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:808
+#: Zip/includes/aecore/functions.php:1227 Zip/includes/template.php:861
+#, php-format
+msgid "%s week"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:808
+#: Zip/includes/aecore/functions.php:1227 Zip/includes/template.php:861
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:813
+#: Zip/includes/aecore/functions.php:1232 Zip/includes/template.php:867
+#, php-format
+msgid "%s month"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:813
+#: Zip/includes/aecore/functions.php:1232 Zip/includes/template.php:867
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:818
+#: Zip/includes/aecore/functions.php:1237 Zip/includes/template.php:873
+#, php-format
+msgid "%s year"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:818
+#: Zip/includes/aecore/functions.php:1237 Zip/includes/template.php:873
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1097
+#: Zip/includes/template.php:934
+msgid "Please fill out the form below "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1358
+msgid "1 Day"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1362
+msgid "3 Days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1366
+msgid "7 Days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1370
+msgid "15 Days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1374
+msgid "1 Month"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1378
+msgid "3 Months"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1382
+msgid "6 Months"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1386
+msgid "1 Year"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/functions.php:1390
+msgid "Forever"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/class-ae-importer.php:732
+msgid "Remote server did not respond"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/class-ae-importer.php:738
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/class-ae-importer.php:745
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/class-ae-importer.php:750
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/class-ae-importer.php:756
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/parsers.php:42
+#: Zip/includes/aecore/import/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/import/parsers.php:67
+#: Zip/includes/aecore/import/parsers.php:72
+#: Zip/includes/aecore/import/parsers.php:262
+#: Zip/includes/aecore/import/parsers.php:452
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-2CO.php:161
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-authorize.php:155
+msgid "Your Authorize.Net was disabled because of invalid settings!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-authorize.php:224
+msgid "Send your payment via Authorize.Net"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-cash.php:22
+msgid ""
+"Please send your payment to account number: XXXX. Once payment has been "
+"verified, admin will approve your post or request."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-google-checkout.php:91
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-order.php:90
+msgid "Order"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:39
+#: Zip/template/buy-package-step-3.php:19
+msgid "Send your payment via Paypal."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:42
+#: Zip/template/buy-package-step-3.php:31
+msgid "Send your payment via 2Checkout."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:48
+#: Zip/template/buy-package-step-3.php:43
+msgid "Send your cash payment to our bank account"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:63
+msgid "Australian Dollar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:66
+msgid "Canadian Dollar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:69
+msgid "Euro"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:72
+msgid "American Dollar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:75
+msgid "Japanese Yen"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:78
+msgid "British Pound"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:81
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:84
+msgid "Swiss Franc"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:87
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:90
+msgid "Singapore Dollar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:449
+msgid "Paypal option is disabled because of invalid setting."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/et-payment.php:657
+msgid "Please fill in a valid email!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/payment-visitor.php:347
+#: Zip/includes/aecore/payment/payment-visitor.php:393
+#: Zip/includes/aecore/payment/payment-visitor.php:403
+msgid "MD5 False"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/payment-visitor.php:348
+#: Zip/includes/aecore/payment/payment-visitor.php:404
+msgid "Md5 check sum not match!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/payment-visitor.php:394
+msgid ""
+"In  Demo mode the 2Checkout order number is changed to '1' which will cause "
+"the hash to fail this. This is intentional so that merchants selling "
+"downloadable products and services can compare the hash to determine whether "
+"to provide a product to a customer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/payment-visitor.php:434
+msgid "Discount"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/payment-visitor.php:435
+msgid "You have use a coupon code to get discount"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/payment-visitor.php:525
+msgid "Fraudulent or error!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/payment-visitor.php:581
+#: Zip/includes/aecore/payment/payment-visitor.php:582
+msgid "Invalid order ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/visitor-free.php:48
+msgid "Invalid Payment package"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/visitor-free.php:66
+msgid "Invalid Post ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/visitor-use-package.php:68
+msgid "Invalid Order or Package"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payment/visitor-use-package.php:117
+msgid "Invalid Ad ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payments.php:82
+#, php-format
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/payments.php:83
+#, php-format
+msgid ""
+"You purchased package <strong>%s</strong> and have %d post/s left. Your "
+"posted post is pending until payment."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/facebook.php:10
+#: Zip/includes/aecore/social/template.php:26 Zip/includes/social_auth.php:516
+msgid "SIGN IN WITH FACEBOOK"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/facebook.php:11
+#: Zip/includes/social_auth.php:517
+msgid ""
+"This seems to be your first time signing in using your Facebook account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/facebook.php:12
+#: Zip/includes/aecore/social/google.php:14
+#: Zip/includes/aecore/social/linkedin.php:17
+#: Zip/includes/aecore/social/template.php:66
+#: Zip/includes/aecore/social/twitter.php:17 Zip/includes/social_auth.php:311
+#: Zip/includes/social_auth.php:518 Zip/includes/social_auth.php:729
+msgid "Please provide a username to continue"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/facebook.php:48
+#: Zip/includes/aecore/social/facebook.php:56
+#: Zip/includes/aecore/social/facebook.php:71
+#: Zip/includes/aecore/social/facebook.php:91
+#: Zip/includes/aecore/social/facebook.php:100
+#: Zip/includes/social_auth.php:560 Zip/includes/social_auth.php:568
+#: Zip/includes/social_auth.php:588 Zip/includes/social_auth.php:608
+#: Zip/includes/social_auth.php:617
+msgid "Social login is invalid. Please contact administrator for help."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/facebook.php:112
+#: Zip/includes/aecore/social/facebook.php:120
+#: Zip/includes/social_auth.php:629 Zip/includes/social_auth.php:637
+msgid "Please login by using your Facebook account again!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/facebook.php:195
+#: Zip/includes/members.php:896 Zip/includes/social_auth.php:708
+#: Zip/includes/social_auth.php:833
+msgid "You have logged in successfully"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/google.php:12
+#: Zip/includes/aecore/social/template.php:41 Zip/includes/social_auth.php:727
+msgid "SIGN IN WITH GOOGLE+"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/google.php:13
+#: Zip/includes/social_auth.php:728
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+ account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/google.php:27
+msgid "Please enter your Google client id and secret key in setting page!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/google.php:55
+msgid "success"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/google.php:115
+#: Zip/includes/aecore/social/google.php:130
+msgid "Error to connect to Google Server!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/google.php:126
+msgid "Error to connect to Google"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/google.php:183
+msgid "Error to connect to Google Server"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:15
+#: Zip/includes/aecore/social/template.php:48
+msgid "SIGN IN WITH LINKEDIN"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:16
+msgid ""
+"This seems to be your first time signing in using your LinkedIn account.If "
+"you already have an account, please log in using the form below to link it "
+"to your LinkedIn account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:31
+msgid "Please enter your Linkedin App id and secret key!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:107
+msgid "Error to connect to Linkedin server!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:111
+msgid "Can not get the access token from Linkedin server!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:128
+msgid "Error to connect to Linkedin server2!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:132
+msgid "Can not get user information from Linkedin server!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/linkedin.php:194
+msgid "Error to connect to Linkedin server"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:21
+msgid "Social API"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:32
+msgid "Enabling this will allow users to log in via Twitter."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:66
+msgid "Enabling this will allow users to log in via Facebook."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:90
+msgid "Facebook Secret Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:100
+msgid "Enabling this will allow users to log in via Google."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:114
+msgid "Google key "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:122
+msgid "Google Secret key "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:131
+msgid "LinkedIn API"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:134
+msgid "Enabling this will allow users to log in via LinkedIn."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:141
+msgid "LinkedIn API "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:148
+msgid "Consumer Key / API Key "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:150
+msgid "LinkedIn API Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:156
+msgid "Consumer Secret / Secret Key "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:158
+msgid "LinkedIn secret key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:170
+msgid "General setting"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:178
+msgid "Social connect page"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:181
+msgid ""
+"You can create a new page and paste shortcode [social_connect_page] here"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:188
+msgid "Social connect page url "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:190
+msgid "eg:http://enginethemes.com/directoryengine/social-connect"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:199
+msgid "Select User roles"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:202
+msgid "Select the user roles."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:210
+#: Zip/includes/aecore/social/settings.php:213
+#: Zip/includes/aecore/social/settings.php:214
+msgid "Select user roles"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:235
+msgid "Social login"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:236
+msgid "SOCIAL LOGIN"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/settings.php:240
+msgid "Setup login by social network accounts"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/social_auth.php:124
+#: Zip/includes/aecore/social/social_auth.php:131
+#: Zip/includes/social_auth.php:110 Zip/includes/social_auth.php:117
+msgid "Username and password does not matched"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/social_auth.php:150
+#: Zip/includes/social_auth.php:140
+msgid "Login information is missing"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/social_auth.php:153
+#: Zip/includes/social_auth.php:145
+msgid "Please provide a valid email"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/social_auth.php:174
+msgid "Can not authenticate user"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/social_auth.php:176
+#: Zip/includes/aecore/social/social_auth.php:271
+#: Zip/includes/social_auth.php:177 Zip/includes/social_auth.php:260
+msgid "Can't find Social ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/social_auth.php:215
+#: Zip/includes/social_auth.php:219
+msgid ""
+"This email is already existed. If you are the owner, please enter the right "
+"password"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/social_auth.php:263
+#: Zip/includes/social_auth.php:251
+msgid "Username is existed, please choose another one"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:29
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Facebook account. "
+"<br />If you already have an account with %s, please log in using the form "
+"below to link it to your Facebook account. Otherwise, please enter an email "
+"address and a password on the form, and a username on the next page to "
+"create an account.<br />You will only do this step ONCE. Next time, you'll "
+"get logged in right away."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:33
+#: Zip/includes/aecore/social/twitter.php:17 Zip/includes/social_auth.php:309
+msgid "SIGN IN WITH TWITTER"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:36
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Twitter account.<br /"
+">If you already have an account with %s, please log in using the form below "
+"to link it to your Twitter account. Otherwise, please enter an email address "
+"and a password on the form, and a username on the next page to create an "
+"account.<br > You will only do this step ONCE. Next time, you'll get logged "
+"in right away.</p>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:44
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:51
+msgid ""
+"This seems to be your first time signing in using your Linkedin account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Linkedin  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:58 Zip/mobile/author.php:81
+#: Zip/mobile/page-forgot-password.php:48 Zip/mobile/page-forgot.php:48
+#: Zip/mobile/page-intro.php:61 Zip/mobile/page-intro.php:142
+#: Zip/mobile/page-social-connect.php:55 Zip/page-intro.php:155
+#: Zip/page-social-connect.php:42 Zip/template/modal-authentication.php:59
+#: Zip/template/modal-profile.php:45
+msgid "Email"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:59
+#: Zip/mobile/page-intro.php:75 Zip/mobile/page-intro.php:162
+#: Zip/mobile/page-social-connect.php:56 Zip/page-intro.php:110
+#: Zip/page-intro.php:175 Zip/page-social-connect.php:43
+#: Zip/template/buy-package-step-2.php:18
+#: Zip/template/modal-authentication.php:19
+#: Zip/template/modal-authentication.php:64
+msgid "Password"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:70
+#: Zip/page-social-connect.php:53 Zip/template/buy-package-step-2.php:10
+#: Zip/template/modal-authentication.php:54
+msgid "Username"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:115
+msgid "author"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:115
+msgid "subscriber"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:115
+msgid "editor"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:115
+msgid "contributor"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:162
+#: Zip/mobile/author.php:69 Zip/template/modal-profile.php:36
+msgid "Facebook"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:170
+msgid "Google"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:178
+#: Zip/mobile/author.php:73 Zip/template/modal-profile.php:39
+msgid "Twitter"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/template.php:186
+msgid "Linkedin"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/twitter.php:17
+#: Zip/includes/social_auth.php:310
+msgid ""
+"This seems to be your first time signing in using your Twitter account.If "
+"you already have an account  , please log in using the form below to link it "
+"to your Twitter account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/twitter.php:91
+msgid "Conection with twitter Failed"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/social/twitter.php:97
+#: Zip/includes/social_auth.php:377
+msgid "Error Receiving Request Token"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template-js/add-pack-form.php:7
+#: Zip/includes/aecore/template/add-pack-form.php:4
+#: Zip/includes/section-badges.php:80 Zip/includes/section-badges.php:120
+msgid "Enter a name for your badge"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template-js/add-pack-form.php:12
+#: Zip/includes/aecore/template/add-pack-form.php:9
+#: Zip/includes/section-badges.php:85 Zip/includes/section-badges.php:125
+#: Zip/mobile/page-users.php:42
+msgid "Point"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template-js/add-pack-form.php:16
+#: Zip/includes/aecore/template/add-pack-form.php:13
+#: Zip/includes/section-badges.php:89 Zip/includes/section-badges.php:129
+msgid "Color"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template.php:176
+#: Zip/includes/aecore/template.php:219 Zip/includes/aecore/template.php:262
+msgid "Load more"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/add-pack-form.php:20
+#: Zip/includes/section-badges.php:96
+msgid "Add badge"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/order-item.php:24
+#: Zip/mobile/template/item-answer.php:94 Zip/single-poll.php:95
+#: Zip/single-question.php:96 Zip/template/item-answer.php:17
+#: Zip/template/pending-answer-loop.php:65
+#: Zip/template/pending-question-loop.php:58
+msgid "Approve"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/order-item.php:27
+msgid "Decline"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/order-item.php:39
+#: Zip/includes/template.php:340 Zip/includes/template.php:399
+#: Zip/template/item-answer.php:56
+msgid "Pending"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/order-item.php:42
+msgid "Confirmed"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/order-item.php:45
+msgid "Failed"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/order-item.php:66
+msgid " by "
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/order-item.php:78
+#, php-format
+msgid "This post has been deleted by %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/post-item.php:11
+#: Zip/includes/badges.php:75 Zip/includes/badges.php:140
+#: Zip/includes/badges.php:176 Zip/includes/section-badges.php:60
+#, php-format
+msgid "%d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/template/user-item.php:61
+msgid "Comments"
+msgstr ""
+
+#: G:\Xuat Zip/includes/aecore/wc_integration/class-wc-integrate.php:80
+#: Zip/template/buy-package-step-1.php:23
+#: Zip/template/buy-package-step-3.php:20
+#: Zip/template/buy-package-step-3.php:32
+#: Zip/template/buy-package-step-3.php:45
+msgid "Select"
+msgstr ""
+
+#: G:\Xuat
+#: Zip/includes/aecore/wc_integration/payment/WC_Integrate_Visitor.php:47
+msgid "Got error, please contact site administrator"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:26 Zip/includes/badges.php:27
+#: Zip/includes/pumping/pump_posttype.php:16
+#: Zip/includes/pumping/pump_posttype.php:17
+msgid "Pack"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:28 Zip/includes/changelog.php:12
+#: Zip/includes/pumping/pump_posttype.php:18 Zip/includes/questions.php:352
+#: Zip/includes/questions.php:891 Zip/includes/theme.php:643
+msgid "Add New"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:29
+#: Zip/includes/pumping/pump_posttype.php:19
+msgid "Add New Pack"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:30
+#: Zip/includes/pumping/pump_posttype.php:20
+msgid "Edit Pack"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:31
+#: Zip/includes/pumping/pump_posttype.php:21
+msgid "New Pack"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:32
+#: Zip/includes/pumping/pump_posttype.php:22
+msgid "All Packs"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:33
+#: Zip/includes/pumping/pump_posttype.php:23
+msgid "View Pack"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:34
+#: Zip/includes/pumping/pump_posttype.php:24
+msgid "Search Packs"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:35
+#: Zip/includes/pumping/pump_posttype.php:25
+msgid "No Pack found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:36
+#: Zip/includes/pumping/pump_posttype.php:26
+msgid "NoPacks found in Trash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:38
+#: Zip/includes/pumping/pump_posttype.php:28
+msgid "Packs"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:263
+msgid "Vote up a question/answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:264
+msgid "Leave comments on other people's posts"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:265
+msgid "Vote down a question/answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:267
+msgid "Add new tags to the site"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:268
+msgid "Edit any question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:269
+msgid "Edit any answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/badges.php:270
+msgid "Approve any answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:10 Zip/includes/changelog.php:11
+msgid "change log"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:13
+msgid "Add New log"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:14
+msgid "Edit log"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:15
+msgid "New change log"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:16
+msgid "All change logs"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:17
+msgid "View change log"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:18
+msgid "Search change logs"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:19
+msgid "No change log found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:20
+msgid "Nochange logs found in Trash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:22
+msgid "change logs"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:182
+#, php-format
+msgid "Your question \"%s\" was voted up, earned %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:188
+#, php-format
+msgid "Your answer on question \"%s\" was voted up, earned %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:216
+#, php-format
+msgid "Your question \"%s\" was voted down, earned %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:222
+#, php-format
+msgid "Your answer on question \"%s\" was voted down, earned %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:249
+#, php-format
+msgid "Your question \"%s\" was unvoted, return %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:254
+#, php-format
+msgid "Your answer on question \"%s\" was unvoted, return %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:281
+#, php-format
+msgid "Your answer on question \"%s\" was marked best answer, gain %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:308
+#, php-format
+msgid "Your best answer on question \"%s\" was undo, gain %d points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:335
+#, php-format
+msgid "You answered on question \"%s\""
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:340
+#, php-format
+msgid "Your posted a question \"%s\" "
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:368
+#, php-format
+msgid "You question on question \"%s\" was edited"
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:373
+#, php-format
+msgid "Your answer on question \"%s was edited\""
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:410
+msgid "This is default text."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:416
+#, php-format
+msgid "Your answer on question %s was voted up."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:418
+#, php-format
+msgid "You voted up an answer on question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:426
+#, php-format
+msgid "Your answer on question %s was voted down."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:428
+#, php-format
+msgid "Your voted down an answer on question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:437
+#, php-format
+msgid "Your question %s was voted up."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:439
+#, php-format
+msgid "You voted up question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:448
+#, php-format
+msgid "Your question %s was voted down."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:450
+#, php-format
+msgid "You voted down question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:456
+#, php-format
+msgid "You asked %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:463
+#, php-format
+msgid "Your question %s was edited."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:465
+#, php-format
+msgid "You edited question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:472
+#, php-format
+msgid "You answered question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:480
+#, php-format
+msgid "Your answer on question %s was edited."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:482
+#, php-format
+msgid "You edited answer on question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:489
+#, php-format
+msgid "Your question %s was unvoted."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:491
+#, php-format
+msgid "You unvoted question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:499
+#, php-format
+msgid "Your answer on question %s was unvoted."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:501
+#, php-format
+msgid "Your unvoted an answer on question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:508
+#, php-format
+msgid "Your answer on question %s was marked as the accepted answer."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:510
+#, php-format
+msgid "You marked question %s was answered."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:517
+#, php-format
+msgid "Your best answer on question %s was unaccepted."
+msgstr ""
+
+#: G:\Xuat Zip/includes/changelog.php:519
+#, php-format
+msgid "You changed the best answer on question %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/customizer.php:25
+msgid "QA Options"
+msgstr ""
+
+#: G:\Xuat Zip/includes/customizer.php:28
+msgid "Allows you to customize some example settings for QAEngine."
+msgstr ""
+
+#: G:\Xuat Zip/includes/customizer.php:83
+msgid "Link Color"
+msgstr ""
+
+#: G:\Xuat Zip/includes/customizer.php:94
+msgid "Main Action Color"
+msgstr ""
+
+#: G:\Xuat Zip/includes/customizer.php:105
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: G:\Xuat Zip/includes/customizer.php:116
+msgid "Header Background Color"
+msgstr ""
+
+#: G:\Xuat Zip/includes/customizer.php:127
+msgid "Header Menus Background Color"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:194
+msgid "You need to verify your account to view the content."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:523
+msgid "Congratulations! Your account has been confirmed successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:734
+msgid "You must log in to post question."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:737 Zip/includes/front.php:875
+msgid "Post title should not contain any HTML Tag."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:743
+msgid "You don't have enough point to add a comment."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:755
+msgid "An error occur when created comment."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:762
+msgid "Comment has been created successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:774
+msgid "An error occur when created answer."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:777
+msgid ""
+"Your answer has been created successfully and need to be approved by Admin "
+"before displayed!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:777
+msgid "Answer has been created successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:799
+msgid "Your question has recieved a new answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:835
+msgid ""
+"Your question has been created successfully. It'll appear right after being "
+"approved by admin."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:835
+msgid "Question has been created successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:841
+msgid "An error occur when created question."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:871 Zip/includes/front.php:1102
+msgid "Invalid action"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:881
+msgid "You don't have enough point to vote up."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:883
+msgid "You don't have enough point to vote down."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:916
+msgid "You don't have enough point to approve answer."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:929
+msgid "Only author has right to change the best answer."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:994
+msgid "Question has been saved successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1021 Zip/includes/questions.php:355
+#: Zip/includes/theme.php:314
+msgid "New Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1022 Zip/includes/theme.php:315
+msgid "There's a new post, why don't you give a look at"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1031
+msgid "You've just successfully approved a question."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1040
+msgid "You've just successfully approved an answer."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1057 Zip/includes/members.php:1258
+msgid "Login required"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1063 Zip/includes/front.php:1241
+msgid "Error occurred"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1066
+msgid "You have started following this question."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1068
+msgid "You have stopped following this question."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1083
+msgid "Invalid post"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1090
+msgid "You have reported successfully"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1096
+msgid "Error when reported!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1138
+#, php-format
+msgid "Image file size is too big.Size must be less than < %sMB."
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1153
+msgid "The file was uploaded successfully"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1245
+msgid "Comment deleted successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1253
+msgid "Answer deleted successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/front.php:1259
+msgid "Question deleted successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:247
+msgid "An error occur when created sign up"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:269
+msgid "Member not found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:667
+msgid "Your account has been deleted successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:719 Zip/includes/members.php:753
+msgid "Your profile has been updated!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:726 Zip/includes/members.php:734
+msgid "This email is already used. Please enter another email!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:790
+msgid "Please enter all required information to reset your password."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:793
+msgid "Confirmed password does not matched"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:800
+msgid "Old password is not correct."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:804
+msgid "Your new password cannot be empty."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:815
+msgid "Your password was changed! Please login again!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:852 Zip/includes/members.php:908
+msgid "Your login information was incorrect. Please try again."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:870
+#, php-format
+msgid "Your account has been banned. Reason \"%s\". Expired on \"%s\"."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:918
+msgid "You have logged out"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:938
+msgid "Missing user data"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:984
+msgid "User logo has been uploaded successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:989
+msgid "Problem occurred while updating user field"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1032
+msgid ""
+"You have registered an account successfully but are not able to join the "
+"discussions yet. Please confirm your email address first."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1032
+msgid "You are registered and logged in successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1058
+msgid "<strong>ERROR</strong>: Enter username or email address."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1062
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1082
+msgid "Please check your email inbox to reset password."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1092
+msgid "This user is not found."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1094
+msgid "Invalid Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1115
+msgid "Your password has been changed. Please log in again."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1134 Zip/includes/members.php:1307
+#: Zip/includes/members.php:1342
+msgid "You don't have permission"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1139
+msgid "Required user ID."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1148
+msgid "User has been confirmed"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1181
+msgid "No result found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1225
+#, php-format
+msgid "You have recieved a confirmation email from %s."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1235
+msgid "Successfully resend the confirmation email."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1240
+msgid "Your account has been activated."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1270
+msgid "New Private Message From "
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1283
+msgid "Email sending failed."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1288
+msgid "Message was sent successfully."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1319
+msgid "User has been banned"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1355
+msgid "User has been unbanned"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1490
+msgid "This email address was not found."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1506
+msgid "Username is invalid"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1555 Zip/includes/members.php:1558
+#: Zip/includes/members.php:1564
+msgid "Invalid key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1584
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1614
+msgid "There is a request to reset the password for the following account:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1616
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1617
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1618
+msgid "To reset your password, visit the following link:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1636
+msgid "The email could not be sent."
+msgstr ""
+
+#: G:\Xuat Zip/includes/members.php:1636
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:56
+msgid "Please fill in all required fields."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:64
+msgid "Not authorized."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:90
+msgid "Invalid date format. It should be dd/mm/yyyy"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:114
+msgid "Please add at lease 2 answers for this poll."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:140
+msgid "You poll has been created successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:156
+msgid "You poll has been saved successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:187
+msgid "Invalid poll!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:195
+msgid "Please choose the answer!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:203
+msgid "This poll was expired!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:217
+#: Zip/includes/poll/poll-action.php:222 Zip/includes/poll/poll-action.php:236
+msgid "You have already voted for this poll."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:238
+msgid "Your IP has been used to vote."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-action.php:270
+msgid "Your answer has been voted."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:63
+#: Zip/includes/poll/poll-posttype.php:74
+msgid "Poll Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:64
+msgid "Poll Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:65
+#: Zip/includes/poll/poll-posttype.php:66
+#: Zip/includes/poll/poll-posttype.php:180
+#: Zip/includes/poll/poll-posttype.php:181
+msgid "Add new"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:67
+msgid "Edit poll question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:68
+msgid "New poll question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:69
+msgid "View poll question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:70
+msgid "Search poll questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:71
+msgid "No poll questions found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:72
+msgid "No poll questions found in Trash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:73
+msgid "Parent poll question:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:178
+#: Zip/includes/poll/poll-posttype.php:189
+msgid "Poll Answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:179
+msgid "Poll Answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:182
+msgid "Edit poll answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:183
+msgid "New poll answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:184
+msgid "View poll answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:185
+msgid "Search poll answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:186
+msgid "No poll answers found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:187
+msgid "No poll answers found in Trash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-posttype.php:188
+msgid "Parent poll answer:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:24
+#: Zip/includes/poll/poll-settings.php:34
+msgid "Poll Maker"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:27
+msgid "Enabling this feature will allow users to create polls on your site."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:44
+msgid "Maximum poll answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:47
+msgid "Set maximum number of anwers for a poll. Default is 5"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:54
+msgid "Max answer number of a poll"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:56
+msgid "e.g. 5"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:65
+msgid "Check user voted by"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:68
+msgid "Check user who has already voted by IP or Cookie. Default is IP"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:75
+msgid "user voted"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:88
+msgid "Select chart"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:91
+msgid "Select the chart that you want to show the result of poll answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:98
+msgid "chart type"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:127
+#: Zip/includes/template.php:1117 Zip/mobile/template/poll-loop.php:23
+#: Zip/mobile/template/question-loop.php:25 Zip/template/poll-loop.php:17
+msgid "Poll"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:128
+msgid "POLL"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-settings.php:132
+msgid "All settings for poll"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:86
+msgid "Submit answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:89
+#, php-format
+msgid ""
+"By submit your answer, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:115 Zip/mobile/functions.php:32
+#: Zip/template/modal-question.php:28 Zip/template/modal-question.php:70
+msgid "Your Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:124 Zip/mobile/functions.php:39
+msgid "Select Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:161 Zip/mobile/functions.php:86
+msgid "Your Description"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:168
+#: Zip/includes/poll/poll.php:66 Zip/template/modal-question.php:80
+msgid "Your answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:175
+msgid "More answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:176
+#, php-format
+msgid "You can create %s answer(s)."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:181 Zip/mobile/functions.php:89
+msgid "Tag(max 5 tags)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:188
+#: Zip/template/modal-question.php:103
+msgid "End day"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:199
+#: Zip/template/modal-question.php:113
+msgid "Multi time"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:207
+msgid "Multi choice"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:225
+msgid "Ask a Poll"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:233 Zip/mobile/functions.php:30
+#: Zip/template/modal-question.php:42 Zip/template/modal-question.php:142
+#, php-format
+msgid ""
+"You must have %d points to add tag. Current, you have to select existing "
+"tags."
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll-template.php:302
+#: Zip/includes/template.php:1032 Zip/includes/theme.php:1186
+#: Zip/mobile/functions.php:246 Zip/mobile/single-answer.php:154
+#: Zip/mobile/single-poll.php:147 Zip/mobile/single-question.php:162
+#: Zip/mobile/template-js/item-answer.php:67
+#: Zip/mobile/template-js/item-answer.php:70
+#: Zip/mobile/template/item-answer.php:133 Zip/template-js/item-answer.php:113
+msgid "Add comment"
+msgstr ""
+
+#: G:\Xuat Zip/includes/poll/poll.php:17
+#, php-format
+msgid "You can only create %s answers."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_actions.php:128
+msgid "Your question has been pumped."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_actions.php:135
+#, php-format
+msgid "Please wait in %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_actions.php:141
+msgid "You are not the author of this question."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_actions.php:199
+msgid "Finish your update."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_actions.php:204
+msgid "Only administrator can run the update."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_posttype.php:58
+#, php-format
+msgid "%s for %d pumps"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:28
+msgid "Set up the database for pumping"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:31
+msgid ""
+"The new feature Pump Question is available on QAEngine from version 2.0. Run "
+"the update <strong>only one time and you have it for forever</strong>."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:38
+msgid "set up the database"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:40
+msgid "Update Database"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:48
+#: Zip/includes/pumping/pump_settings.php:58
+msgid "Pump Action"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:51
+msgid "Enabling this feature will allow users to pump on your site."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:68
+#: Zip/includes/pumping/pump_settings.php:78
+#: Zip/includes/pumping/pump_settings.php:99
+msgid "Time delay for free pump"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:71
+msgid "Set up the time delay for free pump"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:80
+msgid "e.g. 60"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:89
+msgid "Time delay for premium pump"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:92
+msgid "Set up the time delay for premium pump"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:101
+msgid "e.g. 2"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:110
+msgid "Time format"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:113
+msgid "Select the format for time delay. Default is second."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:120
+msgid "time format"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:124
+msgid "Second"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:125
+msgid "Minute"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:126
+msgid "Hour"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:127
+msgid "Day"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:138
+msgid "Payment"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:148
+msgid "Payment Currency"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:151
+msgid "Enter currency code and sign ...."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:158
+#: Zip/includes/pumping/pump_settings.php:160
+msgid "Code"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:166
+#: Zip/includes/pumping/pump_settings.php:168
+msgid "Sign"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:174
+#: Zip/includes/pumping/pump_settings.php:241
+#: Zip/includes/pumping/pump_settings.php:276
+#: Zip/includes/pumping/pump_settings.php:283
+#: Zip/includes/pumping/pump_settings.php:339
+#: Zip/includes/pumping/pump_settings.php:346
+msgid "Align"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:179
+msgid "Left"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:180
+msgid "Right"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:187
+msgid "Number Format"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:190
+msgid "Format a number with grouped thousands"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:197
+#: Zip/includes/pumping/pump_settings.php:198
+#: Zip/includes/pumping/pump_settings.php:200
+msgid "Decimal point"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:206
+#: Zip/includes/pumping/pump_settings.php:207
+#: Zip/includes/pumping/pump_settings.php:209
+msgid "Thousand separator"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:215
+#: Zip/includes/pumping/pump_settings.php:216
+msgid "Number of decimal points"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:218
+msgid "Sets the number of decimal points."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:228
+msgid "Payment Test Mode"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:231
+msgid ""
+"Enabling this will allow you to test payment without charging your account."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:252
+msgid "Payment Gateways"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:255
+msgid "Set payment plans your users can choose when posting new project."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:268
+msgid "Enabling this will allow your users to pay through PayPal"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:286
+msgid "Enter your PayPal email address"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:296
+msgid "Enabling this will allow your users to pay through 2Checkout"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:304
+msgid "2Checkout mode"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:311
+msgid "Sid"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:314
+msgid "Your 2Checkout Seller ID"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:319
+msgid "Secret Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:322
+msgid "Your 2Checkout Secret Key"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:331
+msgid "Enabling this will allow your user to send cash to your bank account."
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:361
+msgid "Pump Packages"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:409
+msgid "Payments"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:410
+msgid "PAYMENTS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:414
+msgid "Overview of all payments"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:422
+msgid "Pump Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:423
+msgid "PUMP QUESTION"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pump_settings.php:427
+msgid "All settings for pump question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/pumping/pumping.php:247
+#, php-format
+msgid ""
+"The are new features are available on QAEngine version 2.0. Please <a href="
+"\"%s\">run update</a> only one time."
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:68
+msgid "Missing Author"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:98
+msgid "Thread not found!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:128 Zip/includes/questions.php:648
+msgid "Category is not existed!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:351
+msgid "Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:353
+msgid "Add New Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:354
+msgid "Edit Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:357
+msgid "View Question"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:358 Zip/includes/template.php:308
+msgid "Search Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:359
+msgid "No questions found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:360
+msgid "No questions found in Trash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:382
+msgid "Question Categories"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:383 Zip/includes/questions.php:392
+#: Zip/includes/widget.php:43 Zip/mobile/archive-poll.php:17
+#: Zip/mobile/archive-question.php:17 Zip/mobile/taxonomy.php:17
+msgid "Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:384
+msgid "Search Categories"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:385
+msgid "All Categories"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:386
+msgid "Parent Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:387
+msgid "Parent Category:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:388
+msgid "Edit Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:389
+msgid "Update Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:390
+msgid "Add New Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:391
+msgid "New Category Name"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:402 Zip/includes/questions.php:417
+#: Zip/mobile/page-tags.php:19 Zip/page-tags.php:16
+msgid "Tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:403 Zip/includes/widget.php:46
+msgid "Tag"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:404
+msgid "Search Tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:405
+msgid "Popular Tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:406
+msgid "All Tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:409
+msgid "Edit Tag"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:410
+msgid "Update Tag"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:411
+msgid "Add New Tag"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:412
+msgid "New Tag Name"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:413
+msgid "Separate tags with commas"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:414
+msgid "Add or remove tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:415
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:416
+msgid "No tags found."
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:461
+msgid "Required Log In"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:520
+#, php-format
+msgid "You must have %d points to edit question."
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:646
+msgid "Category must not empty"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:729
+msgid "Permission denied"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:890
+msgid "Answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:892
+msgid "Add New Answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:893
+msgid "Edit Answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:894
+msgid "New Answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:895
+msgid "All Answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:896
+msgid "View Answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:897
+msgid "Search Answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:898
+msgid "No answers found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:899
+msgid "No answers found in Trash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:985
+#, php-format
+msgid "You must have %d points to edit answer."
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:1089 Zip/includes/questions.php:1221
+#: Zip/single-answer.php:131 Zip/single-poll.php:183
+#: Zip/single-question.php:184 Zip/template/item-answer.php:120
+#, php-format
+msgid "Comment(%d) "
+msgstr ""
+
+#: G:\Xuat Zip/includes/questions.php:1112
+msgid "Login Required"
+msgstr ""
+
+#: G:\Xuat Zip/includes/section-badges.php:46
+msgid "User Level"
+msgstr ""
+
+#: G:\Xuat Zip/includes/section-badges.php:74
+msgid "Are you sure you want to delete this badge?"
+msgstr ""
+
+#: G:\Xuat Zip/includes/social_auth.php:175
+msgid "Can't not authenticate user"
+msgstr ""
+
+#: G:\Xuat Zip/includes/social_auth.php:770 Zip/includes/social_auth.php:776
+msgid "Please login by using your Google plus account again!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:297 Zip/sidebar-left-tablet.php:6
+#: Zip/sidebar-left.php:5
+msgid "ASK A QUESTION"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:320 Zip/includes/template.php:377
+#: Zip/mobile/functions.php:200 Zip/page-tags.php:36
+msgid "Latest"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:325 Zip/includes/template.php:381
+#: Zip/mobile/functions.php:205 Zip/single-answer.php:162
+#: Zip/single-question.php:229
+msgid "Votes"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:330 Zip/includes/template.php:384
+#: Zip/mobile/functions.php:210
+msgid "Unanswered"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:347 Zip/includes/template.php:1092
+msgid "Filter by"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:350
+msgid "Filter by category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:406
+msgid "Questions Per Page: "
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:447
+#: Zip/mobile/template-js/item-comment.php:19
+#: Zip/mobile/template/item-comment.php:23 Zip/template-js/item-comment.php:18
+#: Zip/template/item-comment.php:29
+msgid "Waiting for approval"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:524
+msgid "Select a Category"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:698
+#, php-format
+msgid "%s today, %s this week, %s this month."
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:893
+msgid "year"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:894
+msgid "month"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:895
+msgid "day"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:896
+msgid "hour"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:897
+msgid "minute"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:898
+msgid "second"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1013
+#, php-format
+msgid "You must have %d points to add comment."
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1017 Zip/template-js/item-answer.php:99
+msgid "Add Comment"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1052
+#, php-format
+msgid ""
+"By posting your answer, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1052
+#, php-format
+msgid ""
+"By posting your question, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1102 Zip/mobile/archive-poll.php:23
+#: Zip/mobile/archive-question.php:23 Zip/mobile/page-questions.php:23
+#: Zip/mobile/page-search.php:24 Zip/mobile/taxonomy.php:23
+msgid "Select Categories"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1118
+msgid "Normal"
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1163
+#, php-format
+msgid ""
+"You must be <a class=\"login-url\" href=\"%s\" data-toggle=\"modal\">logged "
+"in</a> to post a comment."
+msgstr ""
+
+#: G:\Xuat Zip/includes/template.php:1165
+msgid ""
+"You must be <a class=\"login-url\" href=\"javascript:void(0)\" data-toggle="
+"\"modal\">logged in</a> to post a comment."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:144
+msgid "marked"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:144
+msgid "unmarked"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:149
+#, php-format
+msgid "[%s] Your answer has been marked as the best."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:185
+#, php-format
+msgid "[%s] New pending question has been created."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:226
+#, php-format
+msgid "[New Answer] Your question %s has a new reply."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:334
+msgid "Confirm this user"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:446
+msgid "Password updated successfully!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:534
+msgid "Menu display on Header"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:535
+msgid "Menu display on Left Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:540
+msgid "Left Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:542
+msgid "Display widgets in left sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:545
+msgid "Right Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:547
+msgid "Display widgets in right sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:552
+msgid "Header Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:554
+msgid "Display widgets in header sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:559
+msgid "Blog's Left Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:561
+msgid "Display widgets in blog's left sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:564
+msgid "Blog's Right Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:566
+msgid "Display widgets in blog's right sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:571
+msgid "Single Question Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:573
+msgid "Display widgets in single question sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:577
+msgid "Top Questions Listing Ads Banner Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:579
+msgid "Display ad banners widgets in top questions listing sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:583
+msgid "Bottom Ads Banner Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:585
+msgid "Display ad banners widgets in bottom of website"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:589
+msgid "Content Question Ad Banner Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:591 Zip/includes/theme.php:597
+msgid "Display ad banners widgets in bottom questions listing sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:595
+msgid "Below Answers Listing Ad Banner Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:601
+msgid "Mobile Top Questions Listing Banner Ads"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:603
+msgid ""
+"Banner Ads will display at the top questions listing page. It's better if "
+"you only insert banner ads in the widgets."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:611
+msgid "Mobile Content Question Banner Ads"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:613
+msgid ""
+"Banner Ads will display under the first question in the questions listing "
+"page. It's better if you only insert banner ads in the widgets."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:620
+msgid "Mobile Bottom Banner Ads"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:622
+msgid ""
+"Banner Ads will display at the bottom of the website, above the footer "
+"widgets. It's better if you only insert banner ads in the widgets."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:641 Zip/includes/theme.php:653
+msgid "Reports"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:642 Zip/mobile/single-answer.php:129
+#: Zip/mobile/single-poll.php:122 Zip/mobile/single-question.php:132
+#: Zip/mobile/template-js/item-answer.php:50
+#: Zip/mobile/template/item-answer.php:110 Zip/single-poll.php:89
+#: Zip/single-poll.php:177 Zip/single-question.php:90
+#: Zip/single-question.php:178 Zip/template-js/item-answer.php:85
+#: Zip/template/item-answer.php:41 Zip/template/item-answer.php:113
+msgid "Report"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:644 Zip/includes/theme.php:680
+msgid "Add New Report"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:645 Zip/includes/theme.php:678
+msgid "Edit Report"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:646
+msgid "New Report"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:647 Zip/includes/theme.php:675
+msgid "All Reports"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:648
+msgid "View Report"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:649 Zip/includes/theme.php:673
+msgid "Search Reports"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:650
+msgid "No Reports found"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:651
+msgid "No Reports found in Trash"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:671 Zip/includes/theme.php:686
+msgid "Reports taxonomy"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:672
+msgid "Report taxonomys"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:674
+msgid "Popular Reports"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:679
+msgid "Update Report"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:681
+msgid "New Report Name"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:682
+msgid "Separate Reports with commas"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:683
+msgid "Add or remove Reports"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:684
+msgid "Choose from the most used Reports"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:685
+msgid "No Reports found."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:704
+msgid "Report Information"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:820
+msgid "Admin"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:838
+msgid "There's a new report "
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1169
+msgid "Please fill out all fields required."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1170
+msgid "Please enter your user name."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1172
+msgid "Please enter a valid username."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1173
+msgid "Please enter the same password as above."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1175
+msgid "You must accept the terms & privacy."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1179
+msgid "You must be logged in to perform this action."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1180
+msgid "You don't have enought points to perform this action."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1181
+msgid "Create Topic"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1183
+msgid "Insert Code"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1184 Zip/template/modal-upload-images.php:16
+msgid "No file chosen."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1185
+msgid "Please insert at least one tag."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1188
+msgid "Sign Up"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1189 Zip/mobile/header.php:84
+#: Zip/template/modal-authentication.php:9
+msgid "Sign In"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1191 Zip/mobile/template/item-answer.php:84
+#: Zip/template/item-answer.php:51
+msgid "Best answer"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1192 Zip/mobile/page-forgot.php:20
+msgid "Forgot Password"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1193
+msgid "You have made some changes which you might want to save."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1194
+msgid "You must activate your account first to create questions / answers!."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1195
+msgid "User cancelled login or did not fully authorize."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1196
+msgid "You account has been banned, you can't make this action!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1197
+msgid "You must activate your account first to buy pump package."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1198
+msgid "Uploading..."
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1199 Zip/template/modal-upload-images.php:46
+msgid "Insert"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1200
+#, php-format
+msgid "Please enter no more than %s characters"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1215
+msgid "Post link"
+msgstr ""
+
+#: G:\Xuat Zip/includes/theme.php:1227
+msgid "Unable to get post link"
+msgstr ""
+
+#: G:\Xuat Zip/includes/update.php:159
+msgid "Key is invalid"
+msgstr ""
+
+#: G:\Xuat Zip/includes/vote.php:377
+msgid "Congratulations, you have advanced to a higher level"
+msgstr ""
+
+#: G:\Xuat Zip/includes/vote.php:380
+msgid "You have been moved down a level"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:6
+msgid ""
+"Drag this widget to single sidebars to display a list of related questions."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:8
+msgid "QA Related Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:20
+msgid "RELATED QUESTIONS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:27 Zip/includes/widget.php:148
+#: Zip/includes/widget.php:278 Zip/includes/widget.php:322
+#: Zip/includes/widget.php:386 Zip/includes/widget.php:573
+#: Zip/includes/widget.php:637 Zip/includes/widget.php:857
+msgid "Title:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:33 Zip/includes/widget.php:154
+#: Zip/includes/widget.php:643
+msgid "Number of questions to display:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:39
+msgid "Questions base on:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:102
+msgid "There are no related questions!"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:118
+msgid "This widget should be placed in Single Question Sidebar"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:130
+msgid "Drag this widget to any sidebars to display a list of hot questions."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:132
+msgid "QA Latest Questions / Hot Questions"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:144
+msgid "HOT QUESTIONS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:160
+msgid "Latest questions (sort by date)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:166
+msgid "Date range:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:170
+msgid "All days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:173
+msgid "Last 7 days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:176
+msgid "Last 30 days"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:265
+msgid "Drag this widget to sidebar to display the statistic of website."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:267
+msgid "QA Statistics"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:275
+msgid "STATISTICS WIDGET"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:309
+msgid "Drag this widget to sidebar to display the list of tags."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:311
+msgid "QA Tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:319
+msgid "Tags Widget"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:326
+msgid "Number of tag to display:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:351
+msgid "See more tags"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:362
+msgid "Drag this widget to sidebar to display the list of top users."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:368
+msgid "QA Top Users"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:379
+msgid "TOP USERS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:390
+msgid "Number of users to display:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:395
+msgid "Latest users (sort by date)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:400
+msgid "Order By:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:522
+#, php-format
+msgid "%d Question(s)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:529
+#, php-format
+msgid "%d Answer(s)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:534
+#, php-format
+msgid "%d Point(s)"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:559
+msgid "Drag this widget to sidebar to display the list of user's activities."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:561
+msgid "QA Recent Activities"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:577
+msgid "Number of activities to display:"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:623
+msgid "Drag this widget to any sidebars to display a list of latest answers."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:625
+msgid "QA Latest Answers"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:633
+msgid "LATEST ANSWERS"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:682
+#, php-format
+msgid "By <a href=\"%s\">%s</a> - %s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:714
+msgid "Your site&#8217;s most recent comments."
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:717 Zip/includes/widget.php:764
+msgid "Recent Comments"
+msgstr ""
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: G:\Xuat Zip/includes/widget.php:813
+#, php-format
+msgid "%1$s %2$s on %3$s"
+msgstr ""
+
+#: G:\Xuat Zip/includes/widget.php:860
+msgid "Number of comments to show:"
+msgstr ""
+
+#: G:\Xuat Zip/index.php:15 Zip/mobile/index.php:18
+#: Zip/mobile/page-blog.php:17 Zip/page-blog.php:15 Zip/search.php:15
+msgid "Blog"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:24 Zip/mobile/author.php:93
+#: Zip/template/modal-profile.php:24
+msgid "Change Profile"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:27 Zip/mobile/author.php:115
+#: Zip/template/modal-profile.php:23 Zip/template/modal-profile.php:68
+msgid "Change Password"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:61 Zip/template/modal-profile.php:30
+msgid "Full name"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:65 Zip/template/modal-profile.php:33
+msgid "Location"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:77 Zip/template/modal-profile.php:42
+msgid "Google+"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:82
+msgid "admin@local.com"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:86 Zip/template/modal-profile.php:54
+msgid "Make this email public."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:89 Zip/template/modal-upload-images.php:40
+msgid "Description"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:103 Zip/template/modal-profile.php:62
+msgid "Old Password"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:107 Zip/template/modal-profile.php:64
+msgid "New Password"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:111 Zip/template/modal-profile.php:66
+msgid "Repeat New Password"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:198 Zip/mobile/page-users.php:105
+msgid "points"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:240 Zip/mobile/author.php:256
+msgid "pump"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:243 Zip/mobile/author.php:259
+msgid "cooldown"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:309
+msgid "Enter keyword"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:400
+msgid "Please check your mail box to confirm your email address."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/author.php:401
+msgid "Resend confirm email."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/category.php:23
+msgid "Find a blog"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/category.php:43 Zip/mobile/index.php:54
+#: Zip/mobile/page-blog.php:53
+msgid "No posts yet."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/footer.php:8 Zip/sidebar-left-tablet.php:37
+#: Zip/sidebar-left.php:39
+msgid "Terms & Privacy"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/functions.php:20 Zip/mobile/functions.php:103
+#: Zip/template/modal-question.php:15
+msgid "Ask a Question"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/functions.php:22 Zip/template/modal-question.php:17
+msgid "Create a Poll"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/functions.php:73 Zip/mobile/single-question.php:274
+msgid "Insert Image"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/functions.php:78
+#, php-format
+msgid "Size must be less than < %sMB."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/functions.php:245
+#: Zip/mobile/template-js/item-answer.php:66
+msgid "Type your comment"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/header.php:75
+msgid "Sign Out"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/header.php:107
+msgid "List Categories"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:18 Zip/page-badges.php:16
+msgid "Badges"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:37 Zip/page-badges.php:21
+msgid "Points System"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:38 Zip/page-badges.php:22
+#: Zip/page-badges.php:76
+msgid "You earn reputation when people vote on your posts"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:50 Zip/page-badges.php:66
+msgid "answer is accepted"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:70 Zip/page-badges.php:75
+msgid "Badges System"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:71
+msgid ""
+"At the highest levels, you'll have access to special moderation tools. "
+"You'll be able to work alongside our community moderators to keep the site "
+"focused and helpful."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:85 Zip/page-badges.php:96
+msgid "points required"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:88 Zip/page-badges.php:100
+msgid "You can:"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:91 Zip/page-badges.php:103
+msgid "Edit other people's questions"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:95 Zip/page-badges.php:120
+msgid "Edit other people's answers"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:102 Zip/page-badges.php:113
+#, php-format
+msgid "Vote down (costs %s point on answers and questions)"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:107 Zip/page-badges.php:130
+msgid "Leave comments"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-badges.php:111 Zip/page-badges.php:124
+msgid "Vote up"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-buy-package.php:12 Zip/page-buy-package.php:13
+msgid "Buy Package"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-categories.php:18 Zip/page-categories.php:13
+msgid "Categories"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-categories.php:23
+msgid "Find a categories"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-categories.php:39 Zip/mobile/page-tags.php:40
+#: Zip/mobile/page-users.php:37 Zip/page-categories.php:26
+#: Zip/page-tags.php:30 Zip/page-users.php:42
+msgid "Name"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-categories.php:44 Zip/mobile/page-tags.php:45
+#: Zip/page-categories.php:29 Zip/page-tags.php:33
+msgid "Popular"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:51 Zip/mobile/page-intro.php:103
+#: Zip/page-intro.php:91 Zip/page-intro.php:139
+#: Zip/template/modal-authentication.php:23
+#: Zip/template/modal-authentication.php:80
+#: Zip/template/modal-authentication.php:96
+msgid "Sign in"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:52 Zip/mobile/page-intro.php:188
+#: Zip/page-intro.php:91 Zip/page-intro.php:203
+#: Zip/template/buy-package-step-2.php:71
+#: Zip/template/modal-authentication.php:79
+msgid "Sign up"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:68 Zip/mobile/page-intro.php:82
+#: Zip/page-intro.php:123
+msgid "Remember me"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:87 Zip/page-intro.php:130
+msgid "Forgot password ?"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:112
+msgid "Sign in with:"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:150 Zip/page-intro.php:163
+msgid "User Name"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:170 Zip/page-intro.php:183
+msgid "Repeat Password"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:182 Zip/page-intro.php:192
+msgid ""
+"By clicking \"Sign Up\" you indicate that you have read and agree to the"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-intro.php:182 Zip/page-intro.php:192
+msgid "Terms of Service."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-process-payment.php:23
+msgid "Proccess Payment"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-questions.php:17
+msgid "All Question"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-reset-pass.php:20
+#: Zip/template/modal-forgotpass.php:6
+msgid "Reset Password"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-reset-pass.php:49
+#: Zip/template/modal-forgotpass.php:13
+msgid "Enter your new password here"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-reset-pass.php:52
+#: Zip/template/modal-forgotpass.php:16
+msgid "Reset"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-search.php:18
+msgid "Search Question"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-search.php:69 Zip/page-search.php:48
+#: Zip/search.php:37
+msgid "No results for keyword:"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-tags.php:24
+msgid "Find a tag"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-users.php:16 Zip/page-users.php:29
+msgid "Users"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/page-users.php:21
+msgid "Find a user"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:16 Zip/mobile/single-poll.php:17
+#: Zip/mobile/single-question.php:13 Zip/mobile/template/answer-loop.php:7
+#: Zip/mobile/template/item-answer.php:7 Zip/mobile/template/poll-loop.php:56
+#: Zip/mobile/template/question-loop.php:60 Zip/single-answer.php:14
+#: Zip/single-poll.php:161 Zip/single-question.php:162
+#: Zip/template/answer-loop.php:7 Zip/template/pending-answer-loop.php:7
+#: Zip/template/pending-question-loop.php:5 Zip/template/poll-loop.php:66
+#: Zip/template/question-loop.php:60
+msgid "No Category"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:78 Zip/mobile/single-poll.php:77
+#: Zip/mobile/single-question.php:81
+#, php-format
+msgid "Asked by %s %s in"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:97 Zip/mobile/single-question.php:100
+#: Zip/single-answer.php:82 Zip/single-poll.php:106
+#: Zip/single-question.php:107 Zip/template-js/item-answer.php:73
+msgid "Answered"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:107 Zip/mobile/single-answer.php:113
+#: Zip/mobile/single-poll.php:100 Zip/mobile/single-poll.php:106
+#: Zip/mobile/single-question.php:110 Zip/mobile/single-question.php:116
+#: Zip/single-poll.php:74 Zip/single-question.php:75
+msgid "Follow"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:108 Zip/mobile/single-answer.php:112
+#: Zip/mobile/single-poll.php:101 Zip/mobile/single-poll.php:105
+#: Zip/mobile/single-question.php:111 Zip/mobile/single-question.php:115
+#: Zip/single-poll.php:80 Zip/single-question.php:81
+msgid "Unfollow"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:125 Zip/mobile/single-poll.php:118
+#: Zip/mobile/single-question.php:128
+#: Zip/mobile/template-js/item-answer.php:46
+#: Zip/mobile/template/item-answer.php:106 Zip/single-answer.php:125
+#: Zip/single-poll.php:172 Zip/single-question.php:173
+#: Zip/template-js/item-answer.php:80 Zip/template/item-answer.php:108
+msgid "Share"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:133 Zip/mobile/single-poll.php:126
+#: Zip/mobile/single-question.php:136
+#: Zip/mobile/template-js/item-answer.php:53
+#: Zip/mobile/template/item-answer.php:113
+msgid "Comment"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:175 Zip/mobile/single-poll.php:169
+#: Zip/mobile/single-question.php:183 Zip/single-poll.php:201
+msgid "Vote"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-answer.php:176 Zip/mobile/single-question.php:184
+#: Zip/single-answer.php:165 Zip/single-question.php:235
+msgid "Oldest"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-poll.php:170 Zip/single-poll.php:202
+msgid "Result"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-poll.php:176
+msgid "Select multiple answer"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-poll.php:178
+msgid "Select one answer"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-poll.php:206 Zip/single-poll.php:248
+#, php-format
+msgid "<span class=\"number\">%s</span> Vote"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-poll.php:208 Zip/single-poll.php:250
+#, php-format
+msgid "<span class=\"number\">%s</span> Votes"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-question.php:235
+msgid "Login to post answer"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-question.php:239 Zip/single-question.php:278
+msgid "Login or Register to view and post answer"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-question.php:268
+#: Zip/mobile/single-question.php:286 Zip/single-answer.php:189
+#: Zip/single-question.php:262
+msgid "Post answer"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-question.php:279
+#, php-format
+msgid "Size must be less than < %u MB."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single-question.php:285
+msgid "Type your answer"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/single.php:46 Zip/single.php:59 Zip/single.php:66
+#: Zip/template/post-loop.php:39
+msgid "Pages:"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/taxonomy.php:56
+msgid "There are no questions in this category!."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template-js/item-answer.php:21
+msgid "Answered by "
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/answer-loop.php:54 Zip/single-answer.php:115
+#: Zip/single-poll.php:141 Zip/single-question.php:142
+#: Zip/template/answer-loop.php:24 Zip/template/pending-answer-loop.php:24
+#: Zip/template/pending-question-loop.php:40 Zip/template/poll-loop.php:46
+#: Zip/template/question-loop.php:40
+#, php-format
+msgid "Asked %s in"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/answer-loop.php:63
+msgid "Accepted"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/categories-orderby_name.php:57
+#: Zip/mobile/template/categories-orderby_name.php:67
+#: Zip/mobile/template/tags-orderby_name.php:54
+#: Zip/mobile/template/tags-orderby_name.php:64
+#, php-format
+msgid "Touch here to see more %s tags"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/item-answer.php:57
+msgid "Pending Answer"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/item-answer.php:66
+#, php-format
+msgid "Answered by %s %s."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/modal-contact.php:9
+#: Zip/template/modal-contact.php:9
+msgid "Contact "
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/modal-contact.php:15
+#: Zip/template/modal-contact.php:15
+msgid "Your message:"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/modal-contact.php:16
+#: Zip/mobile/template/modal-report.php:16 Zip/template/modal-contact.php:16
+#: Zip/template/modal-report.php:16
+msgid "Got something to say? Type your message here."
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/modal-contact.php:17
+#: Zip/mobile/template/modal-report.php:17
+#: Zip/template/modal-authentication.php:95 Zip/template/modal-contact.php:17
+#: Zip/template/modal-report.php:17
+msgid "Send"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/modal-report.php:11
+#: Zip/template/modal-report.php:11
+msgid "Report "
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/modal-report.php:15
+#: Zip/template/modal-report.php:15
+msgid "Your message"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/poll-loop.php:40
+#: Zip/mobile/template/question-loop.php:44
+#, php-format
+msgid "%s in"
+msgstr ""
+
+#: G:\Xuat Zip/mobile/template/post-loop.php:37 Zip/single.php:75
+#: Zip/template/post-loop.php:51
+msgid "READ MORE"
+msgstr ""
+
+#: G:\Xuat Zip/page-badges.php:107
+msgid "Vote to close, reopen, or migrate questions"
+msgstr ""
+
+#: G:\Xuat Zip/page-buy-package.php:16
+msgid "Select plan"
+msgstr ""
+
+#: G:\Xuat Zip/page-buy-package.php:20
+msgid "Authencation"
+msgstr ""
+
+#: G:\Xuat Zip/page-buy-package.php:24
+msgid "Select payment method"
+msgstr ""
+
+#: G:\Xuat Zip/page-categories.php:17
+msgid "Find Categories"
+msgstr ""
+
+#: G:\Xuat Zip/page-search.php:16
+#, php-format
+msgid "Search Questions: <em>%s</em>"
+msgstr ""
+
+#: G:\Xuat Zip/page-tags.php:20
+msgid "Find Tags"
+msgstr ""
+
+#: G:\Xuat Zip/page-users.php:33
+msgid "Find Users"
+msgstr ""
+
+#: G:\Xuat Zip/page-users.php:94
+#, php-format
+msgid "%d Points"
+msgstr ""
+
+#: G:\Xuat Zip/page-users.php:101
+msgid "No users found."
+msgstr ""
+
+#: G:\Xuat Zip/single-answer.php:48 Zip/single-poll.php:38
+#: Zip/single-question.php:39
+msgid "Home"
+msgstr ""
+
+#: G:\Xuat Zip/single-answer.php:181 Zip/single-question.php:254
+msgid "Your Answer"
+msgstr ""
+
+#: G:\Xuat Zip/single-poll.php:62 Zip/single-question.php:63
+#: Zip/template-js/item-comment.php:15 Zip/template/item-answer.php:34
+#: Zip/template/item-comment.php:23 Zip/template/pending-answer-loop.php:74
+#: Zip/template/pending-question-loop.php:67
+msgid "Delete"
+msgstr ""
+
+#: G:\Xuat Zip/single-poll.php:210
+#, php-format
+msgid "Select your answer - End in %s"
+msgstr ""
+
+#: G:\Xuat Zip/single-poll.php:226
+msgid "Results of this poll"
+msgstr ""
+
+#: G:\Xuat Zip/single-poll.php:229
+msgid " (This poll was expired)"
+msgstr ""
+
+#: G:\Xuat Zip/single-question.php:223
+msgid "Answer(s)"
+msgstr ""
+
+#: G:\Xuat Zip/single-question.php:232
+msgid "Active"
+msgstr ""
+
+#: G:\Xuat Zip/taxonomy.php:25
+#, php-format
+msgid "Question Cagtegory: %s"
+msgstr ""
+
+#: G:\Xuat Zip/taxonomy.php:27
+#, php-format
+msgid "Question Tag: %s"
+msgstr ""
+
+#: G:\Xuat Zip/taxonomy.php:49
+#, php-format
+msgid "There are no questions in category \"%s\"."
+msgstr ""
+
+#: G:\Xuat Zip/template-js/search-preview.php:15
+#, php-format
+msgid "View all %s results"
+msgstr ""
+
+#: G:\Xuat Zip/template-js/search-preview.php:17
+msgid "View all results"
+msgstr ""
+
+#: G:\Xuat Zip/template-js/search-preview.php:19
+msgid "No results found"
+msgstr ""
+
+#: G:\Xuat Zip/template/answer-loop.php:49
+#: Zip/template/pending-answer-loop.php:49
+msgid "This answer accepted by"
+msgstr ""
+
+#: G:\Xuat Zip/template/answer-loop.php:52
+#: Zip/template/pending-answer-loop.php:51
+#, php-format
+msgid "Earned %d points."
+msgstr ""
+
+#: G:\Xuat Zip/template/answer-loop.php:63 Zip/template/poll-loop.php:81
+#: Zip/template/question-loop.php:75
+msgid "views"
+msgstr ""
+
+#: G:\Xuat Zip/template/answer-loop.php:69 Zip/template/poll-loop.php:87
+#: Zip/template/question-loop.php:81
+msgid "answers"
+msgstr ""
+
+#: G:\Xuat Zip/template/answer-loop.php:75 Zip/template/poll-loop.php:93
+#: Zip/template/question-loop.php:87
+msgid "votes"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-1.php:17
+msgid "Free"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:6
+msgid "Don't have an account?"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:6
+msgid "Register here"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:11
+#: Zip/template/buy-package-step-2.php:35
+msgid "Your username"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:13
+msgid "Enter your username or email"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:19
+#: Zip/template/buy-package-step-2.php:49
+msgid "Enter password"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:21
+msgid "Enter your password"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:37
+msgid "Enter your username"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:42
+msgid "Your email"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:44
+msgid "Enter your email"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:51
+#: Zip/template/buy-package-step-2.php:58
+msgid "Your password"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:56
+msgid "Retype password"
+msgstr ""
+
+#: G:\Xuat Zip/template/buy-package-step-2.php:79
+#: Zip/template/modal-authentication.php:86
+#, php-format
+msgid ""
+"By clicking \"Sign up\" you indicate that you have read and agree to the <a "
+"target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" "
+"href=\"%s\">terms of service.</a>"
+msgstr ""
+
+#: G:\Xuat Zip/template/item-answer.php:98
+#, php-format
+msgid "Answered %s."
+msgstr ""
+
+#: G:\Xuat Zip/template/item-vote.php:25
+#, php-format
+msgid "You must have %d points to vote up."
+msgstr ""
+
+#: G:\Xuat Zip/template/item-vote.php:30
+#, php-format
+msgid "You must have %d points to vote down."
+msgstr ""
+
+#: G:\Xuat Zip/template/item-vote.php:39
+msgid "This is useful."
+msgstr ""
+
+#: G:\Xuat Zip/template/item-vote.php:53
+msgid "This is not useful"
+msgstr ""
+
+#: G:\Xuat Zip/template/item-vote.php:70
+msgid "Mark as best answer"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-authentication.php:14
+msgid "Username or Email"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-authentication.php:24
+msgid "Forgot password"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-authentication.php:27
+msgid "Sign up here"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-authentication.php:27
+msgid "or sign in with"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-authentication.php:69
+msgid "Retype Password"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-authentication.php:93
+msgid "Enter your email here"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-profile.php:9
+msgid "Edit Profile"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-profile.php:21
+msgid "Upload New Avatar"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-profile.php:50
+msgid "About me"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-profile.php:58
+msgid "Update Profile"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-question.php:37
+#: Zip/template/modal-question.php:93
+msgid "Tag (max 5 tags)"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-question.php:38
+#: Zip/template/modal-question.php:94
+msgid "Press enter to add new tag"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-question.php:56
+msgid "SUBMIT QUESTION"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-question.php:89
+msgid "More answers"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-question.php:90
+#, php-format
+msgid "You can create up to %s answer(s)."
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-question.php:120
+msgid "Multichoice"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-question.php:134
+msgid "SUBMIT A QUESTION"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-upload-images.php:6
+msgid "Insert Images"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-upload-images.php:10
+msgid "Upload an image"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-upload-images.php:16
+msgid "Please log in to use this function."
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-upload-images.php:18
+msgid "Admin has disabled this function."
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-upload-images.php:28
+msgid "Add an image via URL"
+msgstr ""
+
+#: G:\Xuat Zip/template/modal-upload-images.php:34
+msgid "Alt text"
+msgstr ""
+
+#: G:\Xuat Zip/template/payment-fail.php:2
+msgid "Your payment has failed, friend."
+msgstr ""
+
+#: G:\Xuat Zip/template/payment-fail.php:3
+#, php-format
+msgid ""
+"You could <a href=\"%s\">buy more pumps to continue</a> or <a href=\"%s"
+"\">return home</a>."
+msgstr ""
+
+#: G:\Xuat Zip/template/payment-success.php:10
+msgid "Your payment has been successful. Thank you!"
+msgstr ""
+
+#: G:\Xuat Zip/template/payment-success.php:11
+#, php-format
+msgid "You have successfully purchased the package: %s"
+msgstr ""
+
+#: G:\Xuat Zip/template/payment-success.php:14
+#, php-format
+msgid ""
+"Your payment has been sent successfully but is currently set as 'pending' by "
+"%s. <br/>You will be notified when your listing is approved."
+msgstr ""
+
+#: G:\Xuat Zip/template/payment-success.php:16
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: G:\Xuat Zip/template/payment-success.php:19
+#, php-format
+msgid "click <a href=\"%s\">here</a> to see you pump package."
+msgstr ""
+
+#: G:\Xuat Zip/template/poll-loop.php:5 Zip/template/question-loop.php:5
+msgid "Pending Question"
+msgstr ""
+
+#: G:\Xuat Zip/template/tags-orderby_name.php:38
+msgid "Digit"
+msgstr ""
